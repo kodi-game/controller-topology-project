@@ -34,6 +34,8 @@ try:
 except ImportError:
     print('Error importing cv2 (try sudo apt-get install python-opencv)')
 
+COST_MAX = 255
+
 class Costmap(object):
     def __init__(self, width, height, buttons):
         self._width = width
@@ -47,18 +49,17 @@ class Costmap(object):
 
         # Draw the buttons
         img = np.zeros((self._height, self._width), np.uint8)
-        img.fill(255)
         for button in self._buttons:
             if button.Type() == geometry.BUTTON_RECTANGLE:
-                cv2.rectangle(img, button.Point1(), button.Point2(), 0, -1)
+                cv2.rectangle(img, button.Point1(), button.Point2(), COST_MAX, -1)
             elif button.Type() == geometry.BUTTON_CIRCLE:
-                cv2.circle(img, button.Center(), button.Radius(), 0, -1)
+                cv2.circle(img, button.Center(), button.Radius(), COST_MAX, -1)
             elif button.Type() == geometry.BUTTON_DPAD:
                 up, right, down, left = button.Directions()
-                cv2.rectangle(img, up.Point1(), up.Point2(), 0, -1)
-                cv2.rectangle(img, right.Point1(), right.Point2(), 0, -1)
-                cv2.rectangle(img, down.Point1(), down.Point2(), 0, -1)
-                cv2.rectangle(img, left.Point1(), left.Point2(), 0, -1)
+                cv2.rectangle(img, up.Point1(), up.Point2(), COST_MAX, -1)
+                cv2.rectangle(img, right.Point1(), right.Point2(), COST_MAX, -1)
+                cv2.rectangle(img, down.Point1(), down.Point2(), COST_MAX, -1)
+                cv2.rectangle(img, left.Point1(), left.Point2(), COST_MAX, -1)
 
         # Generate a roundish kernel. For size=7 this will yield
         #
@@ -80,11 +81,11 @@ class Costmap(object):
                 if (r > 1.0):
                     kernel[i, j] = 0
 
-        # Iteratively erode the image to generate costmap
+        # Iteratively dilate the image to generate costmap
         levels = 12
         for i in range(levels):
             result += img / levels
-            img = cv2.erode(img, kernel, iterations = (i + 2) / 2)
+            img = cv2.dilate(img, kernel, iterations = (i + 2) / 2)
 
         return result
 
