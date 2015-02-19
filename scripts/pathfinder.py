@@ -106,7 +106,7 @@ class PathFinder(object):
             for next in self.GetNeighbors(current):
                 baseStepCost = geometry.SQRT2 if (next.state == PATH_DIAG1 or next.state == PATH_DIAG2) else 1
                 x, y = self.GetPos(next)
-                newCost = costSoFar[current] + baseStepCost * (1.0 + 100.0 * (self._costmap.Image()[y][x] ** 2) / (costmap.COST_MAX ** 2))
+                newCost = costSoFar[current] + baseStepCost * (1.0 + 80.0 * (self._costmap.Image()[y][x] ** 2) / (costmap.COST_MAX ** 2))
                 if next not in costSoFar or newCost < costSoFar[next]:
                     costSoFar[next] = newCost
                     priority = newCost + math.sqrt((x - xgoal) ** 2 + (y - ygoal) ** 2)
