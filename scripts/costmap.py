@@ -44,6 +44,9 @@ class Costmap(object):
         self._costmap = self.CreateCostMap()
 
     def CreateCostMap(self):
+        if not self._width or not self._height or not self._buttons:
+            return None
+
         # Allocate the final image
         result = np.zeros((self._height, self._width), np.uint8)
 
@@ -94,9 +97,13 @@ class Costmap(object):
         cv2.waitKey(0)
         cv2.destroyAllWindows()
 
+    def Load(self, filename):
+        self._costmap = cv2.imread(filename, cv2.IMREAD_GRAYSCALE)
+        return True
+
     def Save(self, filename):
-        if self._costmap is not None:
-            cv2.imwrite(filename, self._costmap)
-            return True
-        return False
+        if self._costmap is None:
+            return False
+        cv2.imwrite(filename, self._costmap)
+        return True
 
