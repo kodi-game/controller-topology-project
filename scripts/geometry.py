@@ -90,8 +90,8 @@ class Rectangle(Button):
         return self._y2 - self._y1
 
     def StartPoints(self):
-        x1_5 = (self._x1 + self._x2) / 2
-        y1_5 = (self._y1 + self._y2) / 2
+        self._x1_5 = (self._x1 + self._x2) / 2
+        self._y1_5 = (self._y1 + self._y2) / 2
 
         top =   Vector(Point(self._x1_5, self._y1),   DIRECTION_UP)
         right = Vector(Point(self._x2,   self._y1_5), DIRECTION_RIGHT)
