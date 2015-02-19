@@ -61,6 +61,12 @@ class Rectangle(Button):
     def Center(self):
         return (self._x1 + self._x2) / 2, (self._y1 + self._y2) / 2
 
+    def Width(self):
+        return self._x2 - self._x1
+
+    def Height(self):
+        return self._y2 - self._y1
+
     @staticmethod
     def FromNode(node):
         try:

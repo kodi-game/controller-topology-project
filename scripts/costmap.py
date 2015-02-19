@@ -95,6 +95,15 @@ class Costmap(object):
 
         return result
 
+    def Image(self):
+        return self._costmap
+
+    def Width(self):
+        return self._width
+
+    def Height(self):
+        return self._height
+
     def Show(self):
         cv2.imshow('image', self._costmap)
         cv2.waitKey(0)

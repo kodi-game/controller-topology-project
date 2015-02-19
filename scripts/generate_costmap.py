@@ -1,7 +1,30 @@
 #!/usr/bin/env python
+#
+# Copyright (c) 2014 Garrett Brown
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+# THE SOFTWARE.
+#
 
 import addon
 import costmap
+import geometry
+import pathfinder
 
 def main():
     ad = addon.Addon('addon.xml')
@@ -9,6 +32,19 @@ def main():
         cm = costmap.Costmap(ad.LayoutWidth(), ad.LayoutHeight(), ad.Buttons())
         cm.Show()
         cm.Save(ad.CostmapImage())
+
+        goal = (0, ad.LayoutHeight() / 2)
+
+        for button in ad.Buttons():
+            if button.Type() == geometry.BUTTON_RECTANGLE:
+                start = (button.Center()[0], button.Center()[1] - button.Height() / 2)
+            elif button.Type() == geometry.BUTTON_CIRCLE:
+                start = (button.Center()[0], button.Center()[1] - button.Radius())
+            else:
+                continue # TODO
+
+            pf = pathfinder.PathFinder(cm, start, goal)
+            pf.Show()
 
 
 if __name__ == '__main__':
