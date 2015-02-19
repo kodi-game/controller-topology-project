@@ -33,11 +33,12 @@ def main():
         #cm.Show()
         cm.Save(ad.CostmapImage())
 
-        goal = ((0, ad.LayoutHeight() / 2), geometry.DIRECTION_LEFT)
+        goal = geometry.Vector(geometry.Point(0, ad.LayoutHeight() / 2), geometry.DIRECTION_LEFT)
 
         for button in ad.Buttons():
             pf = pathfinder.PathFinder(cm, button, goal)
-            #pf.Show()
+            pf.Show()
+            pf.Save('path1.png')
             break
 
 

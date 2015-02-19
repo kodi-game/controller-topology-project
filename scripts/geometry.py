@@ -20,22 +20,28 @@
 # THE SOFTWARE.
 #
 
+from collections import namedtuple
 import math
+
+SQRT2 = math.sqrt(2)
 
 BUTTON_RECTANGLE = 'rectangle'
 BUTTON_CIRCLE    = 'circle'
 BUTTON_DPAD      = 'dpad'
 
-DIRECTION_UP        = ( 0, -1)
-DIRECTION_UPRIGHT   = ( 1, -1)
-DIRECTION_RIGHT     = ( 1,  0)
-DIRECTION_DOWNRIGHT = ( 1,  1)
-DIRECTION_DOWN      = ( 0,  1)
-DIRECTION_DOWNLEFT  = (-1,  1)
-DIRECTION_LEFT      = (-1,  0)
-DIRECTION_UPLEFT    = (-1, -1)
+Direction = namedtuple('Direction', 'xstep ystep')
 
-SQRT2 = math.sqrt(2)
+DIRECTION_UP        = Direction( 0, -1)
+DIRECTION_UPRIGHT   = Direction( 1, -1)
+DIRECTION_RIGHT     = Direction( 1,  0)
+DIRECTION_DOWNRIGHT = Direction( 1,  1)
+DIRECTION_DOWN      = Direction( 0,  1)
+DIRECTION_DOWNLEFT  = Direction(-1,  1)
+DIRECTION_LEFT      = Direction(-1,  0)
+DIRECTION_UPLEFT    = Direction(-1, -1)
+
+Point = namedtuple('Point', 'x y')
+Vector = namedtuple('Vector', 'pos dir')
 
 class Button(object):
     def __init__(self, geometry):
@@ -65,17 +71,17 @@ class Rectangle(Button):
         self._x1, self._x2 = ((x1, x2) if x1 <= x2 else (x2, x1))
         self._y1, self._y2 = ((y1, y2) if y1 <= y2 else (y2, y1))
 
-    def Coords(self):
-        return self._x1, self._y1, self._x2, self._y2
-
     def Point1(self):
-        return self._x1, self._y1
+        return Point(self._x1, self._y1)
 
     def Point2(self):
-        return self._x2, self._y2
+        return Point(self._x2, self._y2)
+
+    def Coords(self):
+        return [self.Point1(), self.Point2()]
 
     def Center(self):
-        return (self._x1 + self._x2) / 2, (self._y1 + self._y2) / 2
+        return Point((self._x1 + self._x2) / 2, (self._y1 + self._y2) / 2)
 
     def Width(self):
         return self._x2 - self._x1
@@ -84,13 +90,13 @@ class Rectangle(Button):
         return self._y2 - self._y1
 
     def StartPoints(self):
-        self._x1_5 = (self._x1 + self._x2) / 2
-        self._y1_5 = (self._y1 + self._y2) / 2
+        x1_5 = (self._x1 + self._x2) / 2
+        y1_5 = (self._y1 + self._y2) / 2
 
-        top =   ((self._x1_5, self._y1),   DIRECTION_UP)
-        right = ((self._x2,   self._y1_5), DIRECTION_RIGHT)
-        down =  ((self._x1_5, self._y2),   DIRECTION_DOWN)
-        left =  ((self._x1,   self._y1_5), DIRECTION_LEFT)
+        top =   Vector(Point(self._x1_5, self._y1),   DIRECTION_UP)
+        right = Vector(Point(self._x2,   self._y1_5), DIRECTION_RIGHT)
+        down =  Vector(Point(self._x1_5, self._y2),   DIRECTION_DOWN)
+        left =  Vector(Point(self._x1,   self._y1_5), DIRECTION_LEFT)
 
         return [top, right, down, left]
 
@@ -122,14 +128,14 @@ class Circle(Button):
     def StartPoints(self):
         self._r2 = int(self._r * SQRT2 / 2)
 
-        top       = ((self._x,            self._y - self._r),  DIRECTION_UP)
-        topright  = ((self._x + self._r2, self._y - self._r2), DIRECTION_UPRIGHT)
-        right     = ((self._x + self._r,  self._y),            DIRECTION_RIGHT)
-        downright = ((self._x + self._r2, self._y + self._r2), DIRECTION_DOWNRIGHT)
-        down      = ((self._x,            self._y + self._r),  DIRECTION_DOWN)
-        downleft  = ((self._x - self._r2, self._y + self._r2), DIRECTION_DOWNLEFT)
-        left      = ((self._x - self._r,  self._y),            DIRECTION_LEFT)
-        topleft   = ((self._x - self._r2, self._y - self._r2), DIRECTION_UPLEFT)
+        top       = Vector(Point(self._x,            self._y - self._r),  DIRECTION_UP)
+        topright  = Vector(Point(self._x + self._r2, self._y - self._r2), DIRECTION_UPRIGHT)
+        right     = Vector(Point(self._x + self._r,  self._y),            DIRECTION_RIGHT)
+        downright = Vector(Point(self._x + self._r2, self._y + self._r2), DIRECTION_DOWNRIGHT)
+        down      = Vector(Point(self._x,            self._y + self._r),  DIRECTION_DOWN)
+        downleft  = Vector(Point(self._x - self._r2, self._y + self._r2), DIRECTION_DOWNLEFT)
+        left      = Vector(Point(self._x - self._r,  self._y),            DIRECTION_LEFT)
+        topleft   = Vector(Point(self._x - self._r2, self._y - self._r2), DIRECTION_UPLEFT)
 
         return [top, topright, right, downright, down, downleft, left, topleft]
 
