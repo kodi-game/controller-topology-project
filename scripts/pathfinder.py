@@ -121,7 +121,7 @@ class PathFinder(object):
         while lastNode:
             previousNode = cameFrom.get(lastNode)
             if previousNode:
-              cv2.line(img, self.GetPos(lastNode), self.GetPos(previousNode), int(costmap.COST_MAX * 0.1), 3)
+              cv2.line(img, self.GetPos(lastNode), self.GetPos(previousNode), costmap.COST_MAX, 3)
             lastNode = previousNode
 
         return img
