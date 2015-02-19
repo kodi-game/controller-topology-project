@@ -10,7 +10,6 @@ EXTENSION_POINT = 'xbmc.game.peripheral'
 def main():
     width = 0
     height = 0
-    image_src = None
     costmap_src = None
     buttons = []
     
@@ -33,7 +32,6 @@ def main():
                 height = int(layout_child.attrib.get('height'))
             except ValueError:
                 pass
-            image_src = layout_child.attrib.get('image')
             costmap_src = layout_child.attrib.get('costmap')
             for button_child in layout_child:
                 button = geometry.Button.FromNode(button_child)
@@ -41,11 +39,9 @@ def main():
                     buttons.append(button)
             break
 
-    if not width or not height or not image_src or not costmap_src or not buttons:
+    if not width or not height or not costmap_src or not buttons:
         print('Error: failed to load information from addon.xml')
         return
-
-    # TODO: Check that dimensions of image_src match width and height
 
     cm = costmap.Costmap(width, height, buttons)
     cm.Show()
