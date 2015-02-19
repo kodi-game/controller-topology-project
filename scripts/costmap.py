@@ -23,16 +23,19 @@
 import geometry
 
 import math
+import sys
 
 try:
     import numpy as np
 except ImportError:
     print('Error importing numpy (try sudo apt-get install python-numpy)')
+    sys.exit(1)
 
 try:
     import cv2
 except ImportError:
     print('Error importing cv2 (try sudo apt-get install python-opencv)')
+    sys.exit(1)
 
 COST_MAX = 255
 
