@@ -21,15 +21,14 @@
 #
 
 import costmap
+import geometry
 
 import cv2
 import heapq
 import math
 import numpy as np
 
-SQRT2 = math.sqrt(2)
-
-class PriorityQueue:
+class PriorityQueue(object):
     def __init__(self):
         self.elements = []
     
@@ -43,23 +42,30 @@ class PriorityQueue:
         return heapq.heappop(self.elements)[1]
 
 class PathFinder(object):
-    def __init__(self, costmap, start, goal):
+    def __init__(self, costmap, button, goal):
         self._costmap = costmap
-        self._start = start
+        self._button = button
         self._goal = goal
         self._path = self.CreatePath()
 
     def CreatePath(self):
-        if not self._costmap:
+        if not self._costmap or not self._button:
             return None
 
-        img = self._costmap.Image().copy()
+        xgoal, ygoal = self._goal[0]
 
-        frontier = PriorityQueue()
-        frontier.Put(self._start, 0)
+        img = self._costmap.Image().copy()
+        self.ShowStep(img)
 
         cameFrom = { }
         costSoFar = { }
+
+        frontier = PriorityQueue()
+        self._start = self._button.StartPoints()[0]
+        #for startPoint in self._button.StartPoints():
+        #    frontier.Put(startPoint, 0)
+        frontier.Put(self._start, 0)
+
         cameFrom[self._start] = None
         costSoFar[self._start] = 0
 
@@ -70,33 +76,64 @@ class PathFinder(object):
                 break
 
             for next, stepCost in self.GetNeighbors(current):
-                newCost = costSoFar[current] + stepCost# + (10.0 * self._costmap.Image()[next[1]][next[0]] / costmap.COST_MAX)
+                x, y = next[0]
+                newCost = costSoFar[current] + stepCost * (1.0 + 10.0 * (self._costmap.Image()[y][x] ** 2) / (costmap.COST_MAX ** 2))
                 if next not in costSoFar or newCost < costSoFar[next]:
                     costSoFar[next] = newCost
-                    priority = newCost + math.sqrt((next[0] - self._goal[0]) ** 2 + (next[1] - self._goal[1]) ** 2)
+                    priority = newCost + math.sqrt((x - xgoal) ** 2 + (y - ygoal) ** 2)
                     frontier.Put(next, priority)
                     cameFrom[next] = current
+                    img[y, x] = costmap.COST_MAX
 
-            # results: cameFrom, costSoFar
+                    self.ShowStep(img)
 
-        cv2.line(img, self._start, self._goal, 255, 3)
-
+        cv2.destroyAllWindows()
         return img
 
-    def GetNeighbors(self, pos):
-        neighbors = [((pos[0],     pos[1] + 1), 1),
-                     ((pos[0] + 1, pos[1] + 1), SQRT2),
-                     ((pos[0] + 1, pos[1]),     1),
-                     ((pos[0] + 1, pos[1] - 1), SQRT2),
-                     ((pos[0],     pos[1] - 1), 1),
-                     ((pos[0] - 1, pos[1] - 1), SQRT2),
-                     ((pos[0] - 1, pos[1]),     1),
-                     ((pos[0] - 1, pos[1] + 1), SQRT2)]
+    def ShowStep(self, img):
+        try:
+            self._i += 1
+        except AttributeError:
+            self._i = 0
+        if self._i % 100 == 0:
+            cv2.imshow('image', img)
+            cv2.waitKey(0)
+
+    def GetNeighbors(self, node):
+        x, y = node[0]
+        nodeDir = node[1]
+
+        newDirs = [ nodeDir ]
+        if nodeDir == geometry.DIRECTION_UP:
+            newDirs.append(geometry.DIRECTION_UPLEFT); newDirs.append(geometry.DIRECTION_UPRIGHT)
+        elif nodeDir == geometry.DIRECTION_UPRIGHT:
+            newDirs.append(geometry.DIRECTION_RIGHT)
+        elif nodeDir == geometry.DIRECTION_RIGHT:
+            newDirs.append(geometry.DIRECTION_UPRIGHT); newDirs.append(geometry.DIRECTION_DOWNRIGHT)
+        elif nodeDir == geometry.DIRECTION_DOWNRIGHT:
+            newDirs.append(geometry.DIRECTION_RIGHT)
+        elif nodeDir == geometry.DIRECTION_DOWN:
+            newDirs.append(geometry.DIRECTION_DOWNLEFT); newDirs.append(geometry.DIRECTION_DOWNRIGHT)
+        elif nodeDir == geometry.DIRECTION_DOWNLEFT:
+            newDirs.append(geometry.DIRECTION_LEFT)
+        elif nodeDir == geometry.DIRECTION_LEFT:
+            newDirs.append(geometry.DIRECTION_UPLEFT); newDirs.append(geometry.DIRECTION_DOWNLEFT)
+        elif nodeDir == geometry.DIRECTION_UPLEFT:
+            newDirs.append(geometry.DIRECTION_LEFT)
+
+        neighbors = [ ]
+        for direction in newDirs:
+            xdelta, ydelta = direction
+            cost = 1 if abs(xdelta) + abs(ydelta) == 1 else geometry.SQRT2
+            neighbors.append((((x + xdelta, y + ydelta), direction), cost))
+
         return filter(self.InBounds, neighbors)
 
-    def InBounds(self, pos):
-        return 0 <= pos[0][0] and pos[0][0] < self._costmap.Width() and \
-               0 <= pos[0][1] and pos[0][1] < self._costmap.Height()
+    def InBounds(self, pair):
+        node, cost = pair
+        x, y = node[0]
+        return 0 <= x and x < self._costmap.Width() and \
+               0 <= y and y < self._costmap.Height()
 
     def Show(self):
         cv2.imshow('image', self._path)

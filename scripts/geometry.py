@@ -20,9 +20,22 @@
 # THE SOFTWARE.
 #
 
+import math
+
 BUTTON_RECTANGLE = 'rectangle'
 BUTTON_CIRCLE    = 'circle'
 BUTTON_DPAD      = 'dpad'
+
+DIRECTION_UP        = ( 0, -1)
+DIRECTION_UPRIGHT   = ( 1, -1)
+DIRECTION_RIGHT     = ( 1,  0)
+DIRECTION_DOWNRIGHT = ( 1,  1)
+DIRECTION_DOWN      = ( 0,  1)
+DIRECTION_DOWNLEFT  = (-1,  1)
+DIRECTION_LEFT      = (-1,  0)
+DIRECTION_UPLEFT    = (-1, -1)
+
+SQRT2 = math.sqrt(2)
 
 class Button(object):
     def __init__(self, geometry):
@@ -30,6 +43,9 @@ class Button(object):
 
     def Type(self):
         return self._geometry
+
+    def StartPoints(self):
+        return [ ]
 
     @staticmethod
     def FromNode(node):
@@ -67,6 +83,17 @@ class Rectangle(Button):
     def Height(self):
         return self._y2 - self._y1
 
+    def StartPoints(self):
+        self._x1_5 = (self._x1 + self._x2) / 2
+        self._y1_5 = (self._y1 + self._y2) / 2
+
+        top =   ((self._x1_5, self._y1),   DIRECTION_UP)
+        right = ((self._x2,   self._y1_5), DIRECTION_RIGHT)
+        down =  ((self._x1_5, self._y2),   DIRECTION_DOWN)
+        left =  ((self._x1,   self._y1_5), DIRECTION_LEFT)
+
+        return [top, right, down, left]
+
     @staticmethod
     def FromNode(node):
         try:
@@ -92,6 +119,20 @@ class Circle(Button):
     def Radius(self):
         return self._r
 
+    def StartPoints(self):
+        self._r2 = int(self._r * SQRT2 / 2)
+
+        top       = ((self._x,            self._y - self._r),  DIRECTION_UP)
+        topright  = ((self._x + self._r2, self._y - self._r2), DIRECTION_UPRIGHT)
+        right     = ((self._x + self._r,  self._y),            DIRECTION_RIGHT)
+        downright = ((self._x + self._r2, self._y + self._r2), DIRECTION_DOWNRIGHT)
+        down      = ((self._x,            self._y + self._r),  DIRECTION_DOWN)
+        downleft  = ((self._x - self._r2, self._y + self._r2), DIRECTION_DOWNLEFT)
+        left      = ((self._x - self._r,  self._y),            DIRECTION_LEFT)
+        topleft   = ((self._x - self._r2, self._y - self._r2), DIRECTION_UPLEFT)
+
+        return [top, topright, right, downright, down, downleft, left, topleft]
+
     @staticmethod
     def FromNode(node):
         try:
@@ -113,6 +154,12 @@ class Dpad(Button):
 
     def Directions(self):
         return self._up, self._right, self._down, self._left
+
+    def StartPoints(self):
+        return [self._up.StartPoints()[0],
+                self._right.StartPoints()[1],
+                self._down.StartPoints()[2],
+                self._left.StartPoints()[3]]
 
     @staticmethod
     def FromNode(node):

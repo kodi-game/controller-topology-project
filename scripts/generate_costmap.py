@@ -30,21 +30,15 @@ def main():
     ad = addon.Addon('addon.xml')
     if ad.IsValid():
         cm = costmap.Costmap(ad.LayoutWidth(), ad.LayoutHeight(), ad.Buttons())
-        cm.Show()
+        #cm.Show()
         cm.Save(ad.CostmapImage())
 
-        goal = (0, ad.LayoutHeight() / 2)
+        goal = ((0, ad.LayoutHeight() / 2), geometry.DIRECTION_LEFT)
 
         for button in ad.Buttons():
-            if button.Type() == geometry.BUTTON_RECTANGLE:
-                start = (button.Center()[0], button.Center()[1] - button.Height() / 2)
-            elif button.Type() == geometry.BUTTON_CIRCLE:
-                start = (button.Center()[0], button.Center()[1] - button.Radius())
-            else:
-                continue # TODO
-
-            pf = pathfinder.PathFinder(cm, start, goal)
-            pf.Show()
+            pf = pathfinder.PathFinder(cm, button, goal)
+            #pf.Show()
+            break
 
 
 if __name__ == '__main__':
