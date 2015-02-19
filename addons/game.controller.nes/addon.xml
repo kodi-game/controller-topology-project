@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="game.controller.nes"
+        name="NES Controller"
+        version="1.0.0"
+        provider-name="garbear">
+    <requires>
+        <import addon="xbmc.game" version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.game.peripheral" name="NES Controller">
+        <layout image="layout.png" overlay="overlay.png" costmap="button-costmap.png" width="558" height="262">
+          <button label="30000" geometry="circle" x="466" y="164" radius="25"/>
+          <button label="30001" geometry="circle" x="400" y="164" radius="25"/>
+          <button label="30002" geometry="rectangle" x1="287" y1="175" x2="335" y2="189"/>
+          <button label="30003" geometry="rectangle" x1="223" y1="175" x2="271" y2="189"/>
+          <dpad label="30004">
+            <button label="30005" geometry="rectangle" x1="101" y1="92" x2="141" y2="128"/>
+            <button label="30006" geometry="rectangle" x1="139" y1="126" x2="172" y2="162"/>
+            <button label="30007" geometry="rectangle" x1="101" y1="160" x2="141" y2="194"/>
+            <button label="30008" geometry="rectangle" x1="70" y1="126" x2="103" y2="162"/>
+          </dpad>
+        </layout>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>NES Controller</summary>
+        <description>The game controller used for both the NES and the Famicom features a simple four button layout and a cross-shaped joypad.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <nofanart>true</nofanart>
+    </extension>
+</addon>
