@@ -123,6 +123,8 @@ class PathFinder(object):
                 endSegment = self.GetPos(lastNode)
                 segments.append((startSegment, endSegment))
                 startSegment = endSegment
+            else:
+                segments.append((startSegment, self._start.pos))
             lastNode = previousNode
 
         return segments
