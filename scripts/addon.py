@@ -30,6 +30,7 @@ class Addon(object):
     def __init__(self, addon_xml_path):
         self._width = 0
         self._height = 0
+        self._image_src = None
         self._costmap_src = None
         self._buttons = []
         
@@ -52,6 +53,7 @@ class Addon(object):
                     self._height = int(layout_child.attrib.get('height'))
                 except ValueError:
                     break
+                self._image_src = layout_child.attrib.get('image')
                 self._costmap_src = layout_child.attrib.get('costmap')
                 for button_child in layout_child:
                     button = geometry.Button.FromNode(button_child)
@@ -67,6 +69,9 @@ class Addon(object):
 
     def LayoutHeight(self):
         return self._height
+
+    def LayoutImage(self):
+        return self._image_src
 
     def CostmapImage(self):
         return self._costmap_src
