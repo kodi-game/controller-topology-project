@@ -167,7 +167,7 @@ class PathFinder(object):
     def Render(self, img, filename):
         if self._path:
             for segment in self._path:
-                cv2.line(img, segment[0], segment[1], (255, 255, 255), 3)
+                cv2.line(img, segment[0], segment[1], (255, 255, 255, 255), 3)
 
             cv2.imshow('image', img)
             cv2.waitKey(0)
