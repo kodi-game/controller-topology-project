@@ -50,6 +50,8 @@ class Costmap(object):
                 cv2.rectangle(img, button.Point1(), button.Point2(), COST_MAX, -1)
             elif button.Type() == geometry.BUTTON_CIRCLE:
                 cv2.circle(img, button.Center(), button.Radius(), COST_MAX, -1)
+            elif button.Type() == geometry.BUTTON_ELLIPSE:
+                cv2.ellipse(img, button.Center(), button.Axes(), 0, 0, 360, COST_MAX, -1)
             elif button.Type() == geometry.BUTTON_DPAD:
                 for direction in button.Directions():
                     cv2.rectangle(img, direction.Point1(), direction.Point2(), COST_MAX, -1)

@@ -27,6 +27,7 @@ SQRT2 = math.sqrt(2)
 
 BUTTON_RECTANGLE = 'rectangle'
 BUTTON_CIRCLE    = 'circle'
+BUTTON_ELLIPSE   = 'ellipse'
 BUTTON_DPAD      = 'dpad'
 
 Direction = namedtuple('Direction', 'xstep ystep')
@@ -61,6 +62,8 @@ class Button(object):
                 return Rectangle.FromNode(node)
             elif geometry == BUTTON_CIRCLE:
                 return Circle.FromNode(node)
+            elif geometry == BUTTON_ELLIPSE:
+                return Ellipse.FromNode(node)
         elif node.tag == BUTTON_DPAD:
             return Dpad.FromNode(node)
         return None
@@ -108,7 +111,7 @@ class Rectangle(Button):
             x2 = int(node.attrib.get('x2'))
             y2 = int(node.attrib.get('y2'))
             return Rectangle(x1, y1, x2, y2)
-        except ValueError:
+        except:
             pass
         return None
 
@@ -146,7 +149,41 @@ class Circle(Button):
             y = int(node.attrib.get('y'))
             r = int(node.attrib.get('radius'))
             return Circle(x, y, r)
-        except ValueError:
+        except:
+            pass
+        return None
+
+class Ellipse(Button):
+    def __init__(self, x, y, rx, ry):
+        super(Ellipse, self).__init__(BUTTON_ELLIPSE)
+        self._x = x
+        self._y = y
+        self._rx = rx
+        self._ry = ry
+
+    def Center(self):
+        return self._x, self._y
+
+    def Axes(self):
+        return self._rx, self._ry
+
+    def StartPoints(self):
+        top       = Vector(Point(self._x,            self._y - self._ry), DIRECTION_UP)
+        right     = Vector(Point(self._x + self._rx, self._y),            DIRECTION_RIGHT)
+        down      = Vector(Point(self._x,            self._y + self._ry), DIRECTION_DOWN)
+        left      = Vector(Point(self._x - self._rx, self._y),            DIRECTION_LEFT)
+
+        return [top, right, down, left]
+
+    @staticmethod
+    def FromNode(node):
+        try:
+            x = int(node.attrib.get('x'))
+            y = int(node.attrib.get('y'))
+            rx = int(node.attrib.get('rx'))
+            ry = int(node.attrib.get('ry'))
+            return Ellipse(x, y, rx, ry)
+        except:
             pass
         return None
 
