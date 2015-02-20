@@ -47,7 +47,7 @@ def main():
 
         goal = geometry.Vector(geometry.Point(0, ad.LayoutHeight() / 2), geometry.DIRECTION_LEFT)
 
-        pf = pathfinder.PathFinder(cm, ad.Buttons()[0], goal)
+        pf = pathfinder.PathFinder(cm, ad.Buttons()[0].StartPoints()[0], goal)
         img = cv2.imread(ad.LayoutImage(), cv2.IMREAD_UNCHANGED)
         pf.Render(img, 'path1.png')
 

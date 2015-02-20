@@ -56,9 +56,9 @@ class PriorityQueue(object):
         return heapq.heappop(self.elements)[1]
 
 class PathFinder(object):
-    def __init__(self, costmap, button, goal):
+    def __init__(self, costmap, start, goal):
         self._costmap = costmap
-        self._button = button
+        self._start = start
         self._goal = goal
         self._path = self.CreatePath()
 
@@ -73,7 +73,7 @@ class PathFinder(object):
 
     def CreatePath(self):
         segments = [ ]
-        if not self._costmap or not self._button:
+        if not self._costmap:
             return segments
 
         xgoal, ygoal = self._goal.pos
@@ -85,7 +85,6 @@ class PathFinder(object):
         costSoFar = { }
 
         frontier = PriorityQueue()
-        self._start = self._button.StartPoints()[0]
 
         startNode = PathFinder.MakeStartNode(self._start.dir)
         frontier.Put(startNode, 0)
