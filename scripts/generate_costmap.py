@@ -26,6 +26,8 @@ import costmap
 import geometry
 import pathfinder
 
+import cv2
+
 def main():
     ad = addon.Addon('addon.xml')
     if ad.IsValid():
@@ -35,11 +37,9 @@ def main():
 
         goal = geometry.Vector(geometry.Point(0, ad.LayoutHeight() / 2), geometry.DIRECTION_LEFT)
 
-        for button in ad.Buttons():
-            pf = pathfinder.PathFinder(cm, button, goal)
-            pf.Show()
-            pf.Save('path1.png')
-            break
+        pf = pathfinder.PathFinder(cm, ad.Buttons()[0], goal)
+        img = cv2.imread(ad.LayoutImage(), cv2.IMREAD_UNCHANGED)
+        pf.Render(img, 'path1.png')
 
 
 if __name__ == '__main__':

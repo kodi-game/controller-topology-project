@@ -72,8 +72,9 @@ class PathFinder(object):
             return Node(PATH_DIAG1, 0, 0, 0, 0, 0)
 
     def CreatePath(self):
+        segments = [ ]
         if not self._costmap or not self._button:
-            return None
+            return segments
 
         xgoal, ygoal = self._goal.pos
 
@@ -112,19 +113,19 @@ class PathFinder(object):
                     priority = newCost + math.sqrt((x - xgoal) ** 2 + (y - ygoal) ** 2)
                     frontier.Put(next, priority)
                     cameFrom[next] = current
-                    #img[y][x] = costmap.COST_MAX
 
-                    #self.ShowStep(img)
-
-        # Draw the path
-        nextNode = startNode
+        # Generate the path
+        if lastNode:
+            startSegment = self.GetPos(lastNode)
         while lastNode:
             previousNode = cameFrom.get(lastNode)
             if previousNode:
-              cv2.line(img, self.GetPos(lastNode), self.GetPos(previousNode), costmap.COST_MAX, 3)
+                endSegment = self.GetPos(lastNode)
+                segments.append((startSegment, endSegment))
+                startSegment = endSegment
             lastNode = previousNode
 
-        return img
+        return segments
 
     def GetPos(self, node):
         xsense = -1 if self._goal.pos.x < self._start.pos.x else 1
@@ -163,15 +164,15 @@ class PathFinder(object):
         return 0 <= x and x < self._costmap.Width() and \
                0 <= y and y < self._costmap.Height()
 
-    def Show(self):
-        if self._path is not None:
-            cv2.imshow('image', self._path)
+    def Render(self, img, filename):
+        if self._path:
+            for segment in self._path:
+                cv2.line(img, segment[0], segment[1], (255, 255, 255), 3)
+
+            cv2.imshow('image', img)
             cv2.waitKey(0)
             cv2.destroyAllWindows()
-
-    def Save(self, filename):
-        if self._path is not None:
-            cv2.imwrite(filename, self._path)
+            cv2.imwrite(filename, img)
             return True
         return False
 
