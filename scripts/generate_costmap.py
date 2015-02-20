@@ -26,7 +26,17 @@ import costmap
 import geometry
 import pathfinder
 
-import cv2
+try:
+    import numpy as np
+except ImportError:
+    print('Error importing numpy (try sudo apt-get install python-numpy)')
+    sys.exit(1)
+
+try:
+    import cv2
+except ImportError:
+    print('Error importing cv2 (try sudo apt-get install python-opencv)')
+    sys.exit(1)
 
 def main():
     ad = addon.Addon('addon.xml')
