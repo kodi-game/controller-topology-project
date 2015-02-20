@@ -51,31 +51,3 @@ msgstr ""
 msgctxt "#30008"
 msgid "Left"
 msgstr ""
-
-msgctxt "#30009"
-msgid "GFX Accuracy (restart)"
-msgstr ""
-
-msgctxt "#30010"
-msgid "GFX Plugin"
-msgstr ""
-
-msgctxt "#30011"
-msgid "RSP Plugin"
-msgstr ""
-
-msgctxt "#30012"
-msgid "Resolution (restart)"
-msgstr ""
-
-msgctxt "#30013"
-msgid "Glide texture filtering"
-msgstr ""
-
-msgctxt "#30014"
-msgid "VI Refresh (Overclock)"
-msgstr ""
-
-msgctxt "#30015"
-msgid "Framerate (restart)"
-msgstr ""
