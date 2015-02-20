@@ -51,11 +51,8 @@ class Costmap(object):
             elif button.Type() == geometry.BUTTON_CIRCLE:
                 cv2.circle(img, button.Center(), button.Radius(), COST_MAX, -1)
             elif button.Type() == geometry.BUTTON_DPAD:
-                up, right, down, left = button.Directions()
-                cv2.rectangle(img, up.Point1(), up.Point2(), COST_MAX, -1)
-                cv2.rectangle(img, right.Point1(), right.Point2(), COST_MAX, -1)
-                cv2.rectangle(img, down.Point1(), down.Point2(), COST_MAX, -1)
-                cv2.rectangle(img, left.Point1(), left.Point2(), COST_MAX, -1)
+                for direction in button.Directions():
+                    cv2.rectangle(img, direction.Point1(), direction.Point2(), COST_MAX, -1)
 
         # Generate a roundish kernel. For size=7 this will yield
         #
