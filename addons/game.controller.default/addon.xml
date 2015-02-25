@@ -1,34 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="game.controller.default"
-        name="Default Media Center Controller"
+        name="Default Controller"
         version="1.0.0"
         provider-name="garbear">
     <requires>
         <import addon="xbmc.game" version="1.0.0"/>
     </requires>
-    <extension point="xbmc.game.peripheral" name="Default Controller">
-        <layout image="layout.png" overlay="overlay.png" costmap="button-costmap.png" width="765" height="456">
-          <button label="30000" geometry="circle" x="651" y="266" radius="32"/>
-          <button label="30001" geometry="circle" x="709" y="210" radius="32"/>
-          <button label="30002" geometry="circle" x="583" y="210" radius="32"/>
-          <button label="30003" geometry="circle" x="651" y="158" radius="32"/>
-          <button label="30004" geometry="ellipse" x="478" y="227" rx="22" ry="16"/>
-          <button label="30005" geometry="ellipse" x="290" y="227" rx="22" ry="16"/>
-          <button label="30006" geometry="circle" x="386" y="221" radius="50"/>
-          <button label="30007" geometry="rectangle" x1="567" y1="0" x2="631" y2="40"/>
-          <button label="30008" geometry="rectangle" x1="131" y1="0" x2="194" y2="40"/>
-          <button label="30009" geometry="rectangle" x1="556" y1="40" x2="728" y2="108"/>
-          <button label="30010" geometry="rectangle" x1="36" y1="40" x2="207" y2="108"/>
-          <dpad label="30011">
-            <button label="30012" geometry="rectangle" x1="233" y1="288" x2="281" y2="332"/>
-            <button label="30013" geometry="rectangle" x1="272" y1="321" x2="316" y2="365"/>
-            <button label="30014" geometry="rectangle" x1="233" y1="353" x2="281" y2="397"/>
-            <button label="30015" geometry="rectangle" x1="198" y1="321" x2="242" y2="365"/>
-          </dpad>
-          <button label="30016" geometry="ellipse" x="500" y="342" rx="52" ry="48"/>
-          <button label="30017" geometry="ellipse" x="117" y="234" rx="52" ry="48"/>
-        </layout>
-    </extension>
+    <extension point="xbmc.game.peripheral" library="layout.xml"/>
     <extension point="xbmc.addon.metadata">
         <summary>Default Controller</summary>
         <description>The default media center controller is based on the Xbox 360 controller.</description>

@@ -1,7 +1,7 @@
 # XBMC Media Center language file
-# Addon Name: Nintendo 64 (Mupen64plus)
-# Addon id: gameclient.mupen64plus
-# Addon Provider: Libretro Team
+# Addon Name: NES Controller
+# Addon id: game.controller.nes
+# Addon Provider: Team-Kodi
 msgid ""
 msgstr ""
 "Project-Id-Version: Libretro Clients\n"
@@ -17,37 +17,73 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "#30000"
-msgid "A"
+msgid "NES controller"
 msgstr ""
 
 msgctxt "#30001"
-msgid "B"
+msgid "A"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Start"
+msgid "Press A..."
 msgstr ""
 
 msgctxt "#30003"
-msgid "Select"
+msgid "B"
 msgstr ""
 
 msgctxt "#30004"
-msgid "D-pad"
+msgid "Press B..."
 msgstr ""
 
 msgctxt "#30005"
-msgid "Up"
+msgid "Start"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Right"
+msgid "Press start..."
 msgstr ""
 
 msgctxt "#30007"
-msgid "Down"
+msgid "Select"
 msgstr ""
 
 msgctxt "#30008"
+msgid "Press select..."
+msgstr ""
+
+msgctxt "#30009"
+msgid "D-pad"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Up"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Press up..."
+msgstr ""
+
+msgctxt "#30012"
+msgid "Right"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Press right..."
+msgstr ""
+
+msgctxt "#30014"
+msgid "Down"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Press down..."
+msgstr ""
+
+msgctxt "#30016"
 msgid "Left"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Press left..."
 msgstr ""

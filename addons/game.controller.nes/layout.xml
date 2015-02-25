@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<layout name="NES" label="30000" image="layout.png" overlay="overlay.png" width="558" height="262">
+  <button name="a" label="30001" prompt="30002" geometry="circle" x="466" y="164" radius="25"/>
+  <button name="b" label="30003" prompt="30004" geometry="circle" x="400" y="164" radius="25"/>
+  <button name="start" label="30005" prompt="30006" geometry="rectangle" x1="287" y1="175" x2="335" y2="189"/>
+  <button name="select" label="30007" prompt="30008" geometry="rectangle" x1="223" y1="175" x2="271" y2="189"/>
+  <dpad label="30009">
+    <button name="up" label="30010" prompt="30011" geometry="rectangle" x1="101" y1="92" x2="141" y2="128"/>
+    <button name="right" label="30012" prompt="30013" geometry="rectangle" x1="139" y1="126" x2="172" y2="162"/>
+    <button name="down" label="30014" prompt="30015" geometry="rectangle" x1="101" y1="160" x2="141" y2="194"/>
+    <button name="left" label="30016" prompt="30017" geometry="rectangle" x1="70" y1="126" x2="103" y2="162"/>
+  </dpad>
+</layout>

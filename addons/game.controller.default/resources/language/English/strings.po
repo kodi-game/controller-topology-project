@@ -17,73 +17,145 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "#30000"
-msgid "A"
+msgid "Default controller"
 msgstr ""
 
 msgctxt "#30001"
-msgid "B"
+msgid "A"
 msgstr ""
 
 msgctxt "#30002"
-msgid "X"
+msgid "Press A..."
 msgstr ""
 
 msgctxt "#30003"
-msgid "Y"
+msgid "B"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Start"
+msgid "Press B..."
 msgstr ""
 
 msgctxt "#30005"
-msgid "Back"
+msgid "X"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Guide"
+msgid "Press X..."
 msgstr ""
 
 msgctxt "#30007"
-msgid "Right shoulder"
+msgid "Y"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Left shoulder"
+msgid "Press Y..."
 msgstr ""
 
 msgctxt "#30009"
-msgid "Right trigger"
+msgid "Start"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Left trigger"
+msgid "Press start..."
 msgstr ""
 
 msgctxt "#30011"
-msgid "D-pad"
+msgid "Back"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Up"
+msgid "Press back..."
 msgstr ""
 
 msgctxt "#30013"
-msgid "Right"
+msgid "Guide"
 msgstr ""
 
 msgctxt "#30014"
+msgid "Press guide..."
+msgstr ""
+
+msgctxt "#30015"
+msgid "Right shoulder"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Press right shoulder..."
+msgstr ""
+
+msgctxt "#30017"
+msgid "Left shoulder"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Press left shoulder..."
+msgstr ""
+
+msgctxt "#30019"
+msgid "Right trigger"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Press right trigger..."
+msgstr ""
+
+msgctxt "#30021"
+msgid "Left trigger"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Press left trigger..."
+msgstr ""
+
+msgctxt "#30023"
+msgid "D-pad"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Up"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Press up..."
+msgstr ""
+
+msgctxt "#30026"
+msgid "Right"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Press right..."
+msgstr ""
+
+msgctxt "#30028"
 msgid "Down"
 msgstr ""
 
-msgctxt "#30015"
+msgctxt "#30029"
+msgid "Press down..."
+msgstr ""
+
+msgctxt "#30030"
 msgid "Left"
 msgstr ""
 
-msgctxt "#30015"
-msgid "Right stick"
+msgctxt "#30031"
+msgid "Press left..."
 msgstr ""
 
-msgctxt "#30015"
-msgid "Left stick"
+msgctxt "#30032"
+msgid "Right thumb"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Press right thumb..."
+msgstr ""
+
+msgctxt "#30034"
+msgid "Left thumb"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Press left thumb..."
 msgstr ""
