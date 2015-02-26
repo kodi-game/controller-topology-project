@@ -11,12 +11,12 @@
   <button name="leftshoulder" label="30017" prompt="30018" geometry="rectangle" x1="131" y1="0" x2="194" y2="40"/>
   <button name="righttrigger" label="30019" prompt="30020" geometry="rectangle" x1="556" y1="40" x2="728" y2="108"/>
   <button name="lefttrigger" label="30021" prompt="30022" geometry="rectangle" x1="36" y1="40" x2="207" y2="108"/>
-  <dpad label="30023">
+  <button name="dpad" geometry="dpad" label="30023">
     <button name="up" label="30024" prompt="30025" geometry="rectangle" x1="233" y1="288" x2="281" y2="332"/>
     <button name="right" label="30026" prompt="30027" geometry="rectangle" x1="272" y1="321" x2="316" y2="365"/>
     <button name="down" label="30028" prompt="30029" geometry="rectangle" x1="233" y1="353" x2="281" y2="397"/>
     <button name="left" label="30030" prompt="30031" geometry="rectangle" x1="198" y1="321" x2="242" y2="365"/>
-  </dpad>
+  </button>
   <button name="rightthumb" label="30032" prompt="30033" geometry="ellipse" x="500" y="342" rx="52" ry="48"/>
   <button name="leftthumb" label="30034" prompt="30035" geometry="ellipse" x="117" y="234" rx="52" ry="48"/>
 </layout>
