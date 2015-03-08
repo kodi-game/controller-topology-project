@@ -7,8 +7,8 @@
   <button name="start" label="30009" prompt="30010" geometry="ellipse" x="478" y="227" rx="22" ry="16"/>
   <button name="back" label="30011" prompt="30012" geometry="ellipse" x="290" y="227" rx="22" ry="16"/>
   <button name="guide" label="30013" prompt="30014" geometry="circle" x="386" y="221" radius="50"/>
-  <button name="rightshoulder" label="30015" prompt="30016" geometry="rectangle" x1="567" y1="0" x2="631" y2="40"/>
-  <button name="leftshoulder" label="30017" prompt="30018" geometry="rectangle" x1="131" y1="0" x2="194" y2="40"/>
+  <button name="rightbumper" label="30015" prompt="30016" geometry="rectangle" x1="567" y1="0" x2="631" y2="40"/>
+  <button name="leftbumper" label="30017" prompt="30018" geometry="rectangle" x1="131" y1="0" x2="194" y2="40"/>
   <button name="righttrigger" label="30019" prompt="30020" geometry="rectangle" x1="556" y1="40" x2="728" y2="108"/>
   <button name="lefttrigger" label="30021" prompt="30022" geometry="rectangle" x1="36" y1="40" x2="207" y2="108"/>
   <button name="dpad" geometry="dpad" label="30023">
