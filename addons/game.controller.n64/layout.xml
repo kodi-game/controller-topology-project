@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<layout name="N64" label="30000" image="layout.png" overlay="overlay.png" width="558" height="262">
+<layout name="N64" label="30000">
+  <button name="a" label="30001"/>
+  <button name="b" label="30002"/>
+  <button name="cup" label="30003"/>
+  <button name="cright" label="30004"/>
+  <button name="cdown" label="30005"/>
+  <button name="cleft" label="30006"/>
+  <button name="start" label="30007"/>
+  <dpad name="dpad" label="30008">
+    <button name="up" label="30009" direction="up"/>
+    <button name="right" label="30010" direction="right"/>
+    <button name="down" label="30011" direction="down"/>
+    <button name="left" label="30012" direction="left"/>
+  </dpad>
+  <button name="rightbumper" label="30013"/>
+  <button name="leftbumper" label="30014"/>
+  <analogstick name="analogstick" label="30015"/>
 </layout>
