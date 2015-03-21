@@ -49,19 +49,19 @@ msgid "Guide"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Right shoulder"
-msgstr ""
-
-msgctxt "#30009"
 msgid "Left shoulder"
 msgstr ""
 
+msgctxt "#30009"
+msgid "Right shoulder"
+msgstr ""
+
 msgctxt "#30010"
-msgid "Right trigger"
+msgid "Left thumb"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Left trigger"
+msgid "Right thumb"
 msgstr ""
 
 msgctxt "#30012"
@@ -85,17 +85,17 @@ msgid "Left"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Right thumb"
+msgid "Left trigger"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Left thumb"
+msgid "Right trigger"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Right stick"
+msgid "Left stick"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Left stick"
+msgid "Right stick"
 msgstr ""
