@@ -25,65 +25,33 @@ msgid "A"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Press A..."
-msgstr ""
-
-msgctxt "#30003"
 msgid "B"
 msgstr ""
 
-msgctxt "#30004"
-msgid "Press B..."
-msgstr ""
-
-msgctxt "#30005"
+msgctxt "#30003"
 msgid "Start"
 msgstr ""
 
-msgctxt "#30006"
-msgid "Press start..."
-msgstr ""
-
-msgctxt "#30007"
+msgctxt "#30004"
 msgid "Select"
 msgstr ""
 
-msgctxt "#30008"
-msgid "Press select..."
-msgstr ""
-
-msgctxt "#30009"
+msgctxt "#30005"
 msgid "D-pad"
 msgstr ""
 
-msgctxt "#30010"
+msgctxt "#30006"
 msgid "Up"
 msgstr ""
 
-msgctxt "#30011"
-msgid "Press up..."
-msgstr ""
-
-msgctxt "#30012"
+msgctxt "#30007"
 msgid "Right"
 msgstr ""
 
-msgctxt "#30013"
-msgid "Press right..."
-msgstr ""
-
-msgctxt "#30014"
+msgctxt "#30008"
 msgid "Down"
 msgstr ""
 
-msgctxt "#30015"
-msgid "Press down..."
-msgstr ""
-
-msgctxt "#30016"
+msgctxt "#30009"
 msgid "Left"
-msgstr ""
-
-msgctxt "#30017"
-msgid "Press left..."
 msgstr ""
