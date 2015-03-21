@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <layout name="default" label="30000" image="layout.png" overlay="overlay.png" width="765" height="456">
-  <button name="a" label="30001" prompt="30002" geometry="circle" x="651" y="266" radius="32"/>
-  <button name="b" label="30003" prompt="30004" geometry="circle" x="709" y="210" radius="32"/>
-  <button name="x" label="30005" prompt="30006" geometry="circle" x="583" y="210" radius="32"/>
-  <button name="y" label="30007" prompt="30008" geometry="circle" x="651" y="158" radius="32"/>
-  <button name="start" label="30009" prompt="30010" geometry="ellipse" x="478" y="227" rx="22" ry="16"/>
-  <button name="back" label="30011" prompt="30012" geometry="ellipse" x="290" y="227" rx="22" ry="16"/>
-  <button name="guide" label="30013" prompt="30014" geometry="circle" x="386" y="221" radius="50"/>
-  <button name="rightbumper" label="30015" prompt="30016" geometry="rectangle" x1="567" y1="0" x2="631" y2="40"/>
-  <button name="leftbumper" label="30017" prompt="30018" geometry="rectangle" x1="131" y1="0" x2="194" y2="40"/>
-  <button name="righttrigger" label="30019" prompt="30020" geometry="rectangle" x1="556" y1="40" x2="728" y2="108"/>
-  <button name="lefttrigger" label="30021" prompt="30022" geometry="rectangle" x1="36" y1="40" x2="207" y2="108"/>
-  <button name="dpad" geometry="dpad" label="30023">
-    <button name="up" label="30024" prompt="30025" geometry="rectangle" x1="233" y1="288" x2="281" y2="332"/>
-    <button name="right" label="30026" prompt="30027" geometry="rectangle" x1="272" y1="321" x2="316" y2="365"/>
-    <button name="down" label="30028" prompt="30029" geometry="rectangle" x1="233" y1="353" x2="281" y2="397"/>
-    <button name="left" label="30030" prompt="30031" geometry="rectangle" x1="198" y1="321" x2="242" y2="365"/>
-  </button>
-  <button name="rightthumb" label="30032" prompt="30033" geometry="ellipse" x="500" y="342" rx="52" ry="48"/>
-  <button name="leftthumb" label="30034" prompt="30035" geometry="ellipse" x="117" y="234" rx="52" ry="48"/>
+  <button name="a" type="digital" label="30001" prompt="30002" geometry="circle" x="651" y="266" radius="32"/>
+  <button name="b" type="digital" label="30003" prompt="30004" geometry="circle" x="709" y="210" radius="32"/>
+  <button name="x" type="digital" label="30005" prompt="30006" geometry="circle" x="583" y="210" radius="32"/>
+  <button name="y" type="digital" label="30007" prompt="30008" geometry="circle" x="651" y="158" radius="32"/>
+  <button name="start" type="digital" label="30009" prompt="30010" geometry="ellipse" x="478" y="227" rx="22" ry="16"/>
+  <button name="back" type="digital" label="30011" prompt="30012" geometry="ellipse" x="290" y="227" rx="22" ry="16"/>
+  <button name="guide" type="digital" label="30013" prompt="30014" geometry="circle" x="386" y="221" radius="50"/>
+  <button name="rightbumper" type="digital" label="30015" prompt="30016" geometry="rectangle" x1="567" y1="0" x2="631" y2="40"/>
+  <button name="leftbumper" type="digital" label="30017" prompt="30018" geometry="rectangle" x1="131" y1="0" x2="194" y2="40"/>
+  <button name="righttrigger" type="analog" label="30019" prompt="30020" geometry="rectangle" x1="556" y1="40" x2="728" y2="108"/>
+  <button name="lefttrigger" type="analog" label="30021" prompt="30022" geometry="rectangle" x1="36" y1="40" x2="207" y2="108"/>
+  <dpad name="dpad" label="30023">
+    <button name="up" type="digital" label="30024" prompt="30025" direction="up" geometry="rectangle" x1="233" y1="288" x2="281" y2="332"/>
+    <button name="right" type="digital" label="30026" prompt="30027" direction="right" geometry="rectangle" x1="272" y1="321" x2="316" y2="365"/>
+    <button name="down" type="digital" label="30028" prompt="30029" direction="down" geometry="rectangle" x1="233" y1="353" x2="281" y2="397"/>
+    <button name="left" type="digital" label="30030" prompt="30031" direction="left" geometry="rectangle" x1="198" y1="321" x2="242" y2="365"/>
+  </dpad>
+  <button name="rightthumb" type="digital" label="30032" prompt="30033" geometry="ellipse" x="500" y="342" rx="52" ry="48"/>
+  <button name="leftthumb" type="digital" label="30034" prompt="30035" geometry="ellipse" x="117" y="234" rx="52" ry="48"/>
+  <analogstick name="rightstick" label="30036" prompt="30037" geometry="ellipse" x="500" y="342" rx="52" ry="48"/>
+  <analogstick name="leftstick" label="30036" prompt="30037" geometry="ellipse" x="500" y="342" rx="52" ry="48"/>
 </layout>
