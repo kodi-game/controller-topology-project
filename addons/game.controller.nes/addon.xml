@@ -4,9 +4,9 @@
         version="1.0.0"
         provider-name="garbear">
     <requires>
-        <import addon="xbmc.game" version="1.0.0"/>
+        <import addon="kodi.game" version="1.0.0"/>
     </requires>
-    <extension point="xbmc.game.peripheral" library="layout.xml"/>
+    <extension point="kodi.game.peripheral" library="layout.xml"/>
     <extension point="xbmc.addon.metadata">
         <summary>NES controller</summary>
         <description>The game controller used for both the NES and the Famicom features a simple four button layout and a cross-shaped joypad.</description>
