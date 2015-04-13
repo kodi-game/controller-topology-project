@@ -49,11 +49,11 @@ msgid "Start"
 msgstr ""
 
 msgctxt "#30008"
-msgid "D-pad"
+msgid "Up"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Up"
+msgid "Down"
 msgstr ""
 
 msgctxt "#30010"
@@ -61,21 +61,17 @@ msgid "Right"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Down"
-msgstr ""
-
-msgctxt "#30012"
 msgid "Left"
 msgstr ""
 
-msgctxt "#30013"
+msgctxt "#30012"
 msgid "Right bumper"
 msgstr ""
 
-msgctxt "#30014"
+msgctxt "#30013"
 msgid "Left bumper"
 msgstr ""
 
-msgctxt "#30015"
+msgctxt "#30014"
 msgid "Analog stick"
 msgstr ""

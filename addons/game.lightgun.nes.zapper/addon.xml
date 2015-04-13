@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="game.lightgun.nes.zapper"
+        name="NES Zapper"
+        version="1.0.0"
+        provider-name="garbear">
+    <requires>
+        <import addon="kodi.game" version="1.0.0"/>
+    </requires>
+    <extension point="kodi.game.peripheral" library="layout.xml"/>
+    <extension point="xbmc.addon.metadata">
+        <summary>NES Zapper</summary>
+        <description>The NES Zapper is a light gun accessory for the NES and the Japanese Famicom. It was released in Japan in 1984 and in North America in 1985.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <nofanart>true</nofanart>
+    </extension>
+</addon>

@@ -9,16 +9,14 @@
   <button name="guide" type="digital" label="30007" geometry="circle" x="386" y="221" radius="50"/>
   <button name="leftbumper" type="digital" label="30008" geometry="rectangle" x1="131" y1="0" x2="194" y2="40"/>
   <button name="rightbumper" type="digital" label="30009" geometry="rectangle" x1="567" y1="0" x2="631" y2="40"/>
-  <button name="leftthumb" type="digital" label="30010" geometry="ellipse" x="117" y="234" rx="52" ry="48"/>
-  <button name="rightthumb" type="digital" label="30011" geometry="ellipse" x="500" y="342" rx="52" ry="48"/>
-  <dpad name="dpad" label="30012">
-    <button name="up" type="digital" label="30013" direction="up" geometry="rectangle" x1="233" y1="288" x2="281" y2="332"/>
-    <button name="right" type="digital" label="30014" direction="right" geometry="rectangle" x1="272" y1="321" x2="316" y2="365"/>
-    <button name="down" type="digital" label="30015" direction="down" geometry="rectangle" x1="233" y1="353" x2="281" y2="397"/>
-    <button name="left" type="digital" label="30016" direction="left" geometry="rectangle" x1="198" y1="321" x2="242" y2="365"/>
-  </dpad>
-  <button name="lefttrigger" type="analog" label="30017" geometry="rectangle" x1="36" y1="40" x2="207" y2="108"/>
-  <button name="righttrigger" type="analog" label="30018" geometry="rectangle" x1="556" y1="40" x2="728" y2="108"/>
-  <analogstick name="leftstick" label="30019" geometry="ellipse" x="500" y="342" rx="52" ry="48"/>
-  <analogstick name="rightstick" label="30020" geometry="ellipse" x="500" y="342" rx="52" ry="48"/>
+  <button name="leftthumb" type="digital" label="30010" geometry="circle" x="117" y="234" r="52"/>
+  <button name="rightthumb" type="digital" label="30011" geometry="circle" x="500" y="342" r="52"/>
+  <button name="up" type="digital" label="30012" geometry="rectangle" x1="233" y1="288" x2="281" y2="332"/>
+  <button name="down" type="digital" label="30013" geometry="rectangle" x1="233" y1="353" x2="281" y2="397"/>
+  <button name="right" type="digital" label="30014" geometry="rectangle" x1="272" y1="321" x2="316" y2="365"/>
+  <button name="left" type="digital" label="30015" geometry="rectangle" x1="198" y1="321" x2="242" y2="365"/>
+  <button name="lefttrigger" type="analog" label="30016" geometry="rectangle" x1="36" y1="40" x2="207" y2="108"/>
+  <button name="righttrigger" type="analog" label="30017" geometry="rectangle" x1="556" y1="40" x2="728" y2="108"/>
+  <analogstick name="leftstick" label="30018" geometry="circle" x="500" y="342" r="52"/>
+  <analogstick name="rightstick" label="30019" geometry="circle" x="500" y="342" r="52"/>
 </layout>

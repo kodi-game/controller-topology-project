@@ -65,11 +65,11 @@ msgid "Right thumb"
 msgstr ""
 
 msgctxt "#30012"
-msgid "D-pad"
+msgid "Up"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Up"
+msgid "Down"
 msgstr ""
 
 msgctxt "#30014"
@@ -77,25 +77,21 @@ msgid "Right"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Down"
-msgstr ""
-
-msgctxt "#30016"
 msgid "Left"
 msgstr ""
 
-msgctxt "#30017"
+msgctxt "#30016"
 msgid "Left trigger"
 msgstr ""
 
-msgctxt "#30018"
+msgctxt "#30017"
 msgid "Right trigger"
 msgstr ""
 
-msgctxt "#30019"
+msgctxt "#30018"
 msgid "Left stick"
 msgstr ""
 
-msgctxt "#30020"
+msgctxt "#30019"
 msgid "Right stick"
 msgstr ""

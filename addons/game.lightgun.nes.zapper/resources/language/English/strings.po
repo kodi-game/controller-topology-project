@@ -1,6 +1,6 @@
 # XBMC Media Center language file
-# Addon Name: SNES Controller
-# Addon id: game.controller.snes
+# Addon Name: NES Zapper
+# Addon id: game.lightgun.nes.zapper
 # Addon Provider: Team-Kodi
 msgid ""
 msgstr ""
@@ -17,53 +17,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "#30000"
-msgid "SNES controller"
+msgid "NES Zapper"
 msgstr ""
 
 msgctxt "#30001"
-msgid "A"
+msgid "Trigger"
 msgstr ""
 
 msgctxt "#30002"
-msgid "B"
-msgstr ""
-
-msgctxt "#30003"
-msgid "X"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Y"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Start"
-msgstr ""
-
-msgctxt "#30006"
-msgid "Select"
-msgstr ""
-
-msgctxt "#30007"
-msgid "Up"
-msgstr ""
-
-msgctxt "#30008"
-msgid "Down"
-msgstr ""
-
-msgctxt "#30009"
-msgid "Right"
-msgstr ""
-
-msgctxt "#30010"
-msgid "Left"
-msgstr ""
-
-msgctxt "#30011"
-msgid "Right bumper"
-msgstr ""
-
-msgctxt "#30012"
-msgid "Left bumper"
+msgid "Pointer"
 msgstr ""

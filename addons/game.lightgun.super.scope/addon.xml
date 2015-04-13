@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="game.lightgun.super.scope"
+        name="Super Scope"
+        version="1.0.0"
+        provider-name="garbear">
+    <requires>
+        <import addon="kodi.game" version="1.0.0"/>
+    </requires>
+    <extension point="kodi.game.peripheral" library="layout.xml"/>
+    <extension point="xbmc.addon.metadata">
+        <summary>Super Scope</summary>
+        <description>The Super Scope is the official Super Nintendo light gun.
+
+The successor to the NES Zapper, it is a wireless gun with two action buttons, a pause button, a power switch and is powered by six AA batteries.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <nofanart>true</nofanart>
+    </extension>
+</addon>
