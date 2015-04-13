@@ -6,7 +6,7 @@
     <requires>
         <import addon="kodi.game" version="1.0.0"/>
     </requires>
-    <extension point="kodi.game.peripheral" library="layout.xml"/>
+    <extension point="kodi.game.controller" library="layout.xml"/>
     <extension point="xbmc.addon.metadata">
         <summary>SNES controller</summary>
         <description>The SNES controller adds two additional face buttons (X and Y) to the NES iteration, as well as two shoulder buttons.</description>
