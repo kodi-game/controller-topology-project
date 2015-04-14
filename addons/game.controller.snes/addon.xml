@@ -9,7 +9,9 @@
     <extension point="kodi.game.controller" library="layout.xml"/>
     <extension point="xbmc.addon.metadata">
         <summary>SNES controller</summary>
-        <description>The SNES controller adds two additional face buttons (X and Y) to the NES iteration, as well as two shoulder buttons.</description>
+        <description>The SNES controller adds two additional face buttons (X and Y) to the NES iteration, as well as two shoulder buttons.
+
+layout.png credit: Alphathon (alphathon.deviantart.com)</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <nofanart>true</nofanart>

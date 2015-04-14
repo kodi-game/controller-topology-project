@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<layout name="SNES" label="30000">
+<layout name="SNES" label="30000" image="layout.png">
   <button name="a" type="digital" label="30001"/>
   <button name="b" type="digital" label="30002"/>
   <button name="x" type="digital" label="30003"/>
