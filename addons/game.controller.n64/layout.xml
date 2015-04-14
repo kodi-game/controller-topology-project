@@ -13,5 +13,6 @@
   <button name="left" type="digital" label="30011" direction="left"/>
   <button name="rightbumper" type="digital" label="30012"/>
   <button name="leftbumper" type="digital" label="30013"/>
-  <analogstick name="analogstick" label="30014"/>
+  <button name="z" type="digital" label="30004"/>
+  <analogstick name="analogstick" label="30015"/>
 </layout>

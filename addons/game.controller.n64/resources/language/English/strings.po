@@ -73,5 +73,9 @@ msgid "Left bumper"
 msgstr ""
 
 msgctxt "#30014"
+msgid "Z"
+msgstr ""
+
+msgctxt "#30015"
 msgid "Analog stick"
 msgstr ""
