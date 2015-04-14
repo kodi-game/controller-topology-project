@@ -1,6 +1,6 @@
 # XBMC Media Center language file
-# Addon Name: Nintendo 64 (Mupen64plus)
-# Addon id: gameclient.mupen64plus
+# Addon Name: Default controller
+# Addon id: game.controller.default
 # Addon Provider: Libretro Team
 msgid ""
 msgstr ""

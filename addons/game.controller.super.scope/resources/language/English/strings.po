@@ -1,6 +1,6 @@
 # XBMC Media Center language file
 # Addon Name: Super Scope
-# Addon id: game.lightgun.super.scope
+# Addon id: game.controller.super.scope
 # Addon Provider: Team-Kodi
 msgid ""
 msgstr ""

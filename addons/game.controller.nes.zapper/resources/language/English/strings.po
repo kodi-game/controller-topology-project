@@ -1,6 +1,6 @@
 # XBMC Media Center language file
 # Addon Name: NES Zapper
-# Addon id: game.lightgun.nes.zapper
+# Addon id: game.controller.nes.zapper
 # Addon Provider: Team-Kodi
 msgid ""
 msgstr ""

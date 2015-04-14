@@ -1,6 +1,6 @@
 # XBMC Media Center language file
-# Addon Name: PSX Controller
-# Addon id: game.controller.psx
+# Addon Name: PS Controller
+# Addon id: game.controller.ps
 # Addon Provider: Team-Kodi
 msgid ""
 msgstr ""
