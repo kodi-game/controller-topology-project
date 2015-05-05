@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<layout name="PS" label="30000">
+<layout name="PS" label="30000" image="layout.png">
   <button name="cross" type="digital" label="30001"/>
   <button name="circle" type="digital" label="30002"/>
   <button name="square" type="digital" label="30003"/>
