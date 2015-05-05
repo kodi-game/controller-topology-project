@@ -9,7 +9,9 @@
     <extension point="kodi.game.controller" library="layout.xml"/>
     <extension point="xbmc.addon.metadata">
         <summary>Nintendo 64 controller</summary>
-        <description>The Nintendo 64 controller, released in 1996, features ten buttons, a digital control stick and a directional pad, all laid out in an "M" shape.</description>
+        <description>The Nintendo 64 controller, released in 1996, features ten buttons, a digital control stick and a directional pad, all laid out in an "M" shape.
+
+Layout credit: Andrew Moore</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <nofanart>true</nofanart>
