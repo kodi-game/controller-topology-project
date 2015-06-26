@@ -29,11 +29,11 @@ msgid "B"
 msgstr ""
 
 msgctxt "#30003"
-msgid "C-up"
+msgid "Start"
 msgstr ""
 
 msgctxt "#30004"
-msgid "C-right"
+msgid "C-up"
 msgstr ""
 
 msgctxt "#30005"
@@ -41,11 +41,11 @@ msgid "C-down"
 msgstr ""
 
 msgctxt "#30006"
-msgid "C-left"
+msgid "C-right"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Start"
+msgid "C-left"
 msgstr ""
 
 msgctxt "#30008"
@@ -65,11 +65,11 @@ msgid "Left"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Right bumper"
+msgid "Left bumper"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Left bumper"
+msgid "Right bumper"
 msgstr ""
 
 msgctxt "#30014"
