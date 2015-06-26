@@ -10,6 +10,6 @@
   <button name="down" type="digital" label="30008" direction="down"/>
   <button name="right" type="digital" label="30009" direction="right"/>
   <button name="left" type="digital" label="30010" direction="left"/>
-  <button name="rightbumper" type="digital" label="30011"/>
-  <button name="leftbumper" type="digital" label="30012"/>
+  <button name="leftbumper" type="digital" label="30011"/>
+  <button name="rightbumper" type="digital" label="30012"/>
 </layout>
