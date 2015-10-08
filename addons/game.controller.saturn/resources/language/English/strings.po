@@ -41,7 +41,7 @@ msgid "Y"
 msgstr ""
 
 msgctxt "#30006"
-msgid "X"
+msgid "Z"
 msgstr ""
 
 msgctxt "#30007"
