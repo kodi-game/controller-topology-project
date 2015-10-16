@@ -4,7 +4,6 @@
         version="1.0.0"
         provider-name="garbear">
     <requires>
-        <import addon="kodi.game" version="1.0.0"/>
     </requires>
     <extension point="kodi.game.controller" library="layout.xml"/>
     <extension point="xbmc.addon.metadata">
