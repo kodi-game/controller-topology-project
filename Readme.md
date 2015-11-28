@@ -1,4 +1,4 @@
-# Kodi Game Controllers
+# Kodi Game Controller Add-ons
 
 Kodi has controller profiles for each systems it supports. Add-ons consist of several files:
 
