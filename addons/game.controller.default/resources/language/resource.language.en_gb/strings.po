@@ -49,35 +49,35 @@ msgid "Guide"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Left shoulder"
-msgstr ""
-
-msgctxt "#30009"
-msgid "Right shoulder"
-msgstr ""
-
-msgctxt "#30010"
 msgid "Left thumb"
 msgstr ""
 
-msgctxt "#30011"
+msgctxt "#30009"
 msgid "Right thumb"
 msgstr ""
 
-msgctxt "#30012"
+msgctxt "#30010"
 msgid "Up"
 msgstr ""
 
-msgctxt "#30013"
+msgctxt "#30011"
 msgid "Down"
 msgstr ""
 
-msgctxt "#30014"
+msgctxt "#30012"
 msgid "Right"
 msgstr ""
 
-msgctxt "#30015"
+msgctxt "#30013"
 msgid "Left"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Left shoulder"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Right shoulder"
 msgstr ""
 
 msgctxt "#30016"
