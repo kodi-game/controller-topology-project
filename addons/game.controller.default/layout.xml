@@ -2,7 +2,7 @@
 <layout name="default" label="30000" image="layout.png">
   <face>
     <button name="a" type="digital" label="30001" geometry="circle" x="651" y="266" radius="32"/>
-    <button name="b" type="digital" label="30002"/ geometry="circle" x="709" y="210" radius="32">
+    <button name="b" type="digital" label="30002" geometry="circle" x="709" y="210" radius="32"/>
     <button name="x" type="digital" label="30003" geometry="circle" x="583" y="210" radius="32"/>
     <button name="y" type="digital" label="30004" geometry="circle" x="651" y="158" radius="32"/>
     <button name="start" type="digital" label="30005" geometry="ellipse" x="478" y="227" rx="22" ry="16"/>
