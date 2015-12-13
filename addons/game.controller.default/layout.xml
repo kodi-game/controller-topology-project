@@ -27,8 +27,4 @@
     <analogstick name="leftstick" label="30018" geometry="circle" x="500" y="342" r="52"/>
     <analogstick name="rightstick" label="30019" geometry="circle" x="500" y="342" r="52"/>
   </analogsticks>
-  <haptics>
-    <motor name="strong"/>
-    <motor name="weak"/>
-  </haptics>
 </layout>
