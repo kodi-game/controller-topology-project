@@ -28,7 +28,7 @@
     <analogstick name="rightstick" label="30019" geometry="circle" x="500" y="342" r="52"/>
   </analogsticks>
   <haptics>
-    <rumble name="strong"/>
-    <rumble name="weak"/>
+    <motor name="strong"/>
+    <motor name="weak"/>
   </haptics>
 </layout>
