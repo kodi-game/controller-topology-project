@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "#30000"
-msgid "N64"
+msgid "Nintendo 64"
 msgstr ""
 
 msgctxt "#30001"
