@@ -11,7 +11,7 @@
     <button name="mode" type="digital" label="30008"/>
     <button name="up" type="digital" label="30009" direction="up"/>
     <button name="down" type="digital" label="30010" direction="down"/>
-    <button name="left" type="digital" label="30011" direction="left"/>
-    <button name="right" type="digital" label="30012" direction="right"/>
+    <button name="right" type="digital" label="30011" direction="right"/>
+    <button name="left" type="digital" label="30012" direction="left"/>
   </face>
 </layout>
