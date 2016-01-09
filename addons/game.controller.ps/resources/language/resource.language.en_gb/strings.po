@@ -75,3 +75,11 @@ msgstr ""
 msgctxt "#30014"
 msgid "R2"
 msgstr ""
+
+msgctxt "#30015"
+msgid "Right Thumb"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Left Thumb"
+msgstr ""
