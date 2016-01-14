@@ -11,8 +11,8 @@
 		<button name="down" type="digital" label="30008" direction="down"/>
 		<button name="right" type="digital" label="30009" direction="right"/>
 		<button name="left" type="digital" label="30010" direction="left"/>
-		<button name="r3" type="digital" label="30015"/>
-		<button name="l3" type="digital" label="30016"/>
+		<button name="l3" type="digital" label="30015"/>
+		<button name="r3" type="digital" label="30016"/>
 	</face>
 	<shoulder>
 		<button name="leftbumper" type="digital" label="30011"/>

@@ -77,9 +77,9 @@ msgid "R2"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Right Thumb"
+msgid "Left thumb"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Left Thumb"
+msgid "Right thumb"
 msgstr ""
