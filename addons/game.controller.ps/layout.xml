@@ -11,15 +11,19 @@
 		<button name="down" type="digital" label="30008" direction="down"/>
 		<button name="right" type="digital" label="30009" direction="right"/>
 		<button name="left" type="digital" label="30010" direction="left"/>
-		<button name="l3" type="digital" label="30015"/>
-		<button name="r3" type="digital" label="30016"/>
+		<button name="l3" type="digital" label="30011"/>
+		<button name="r3" type="digital" label="30012"/>
 	</face>
 	<shoulder>
-		<button name="leftbumper" type="digital" label="30011"/>
-		<button name="rightbumper" type="digital" label="30012"/>
+		<button name="leftbumper" type="digital" label="30013"/>
+		<button name="rightbumper" type="digital" label="30014"/>
 	</shoulder>
 	<triggers>
-		<button name="lefttrigger" type="digital" label="30013"/>
-		<button name="righttrigger" type="digital" label="30014"/>
+		<button name="lefttrigger" type="digital" label="30015"/>
+		<button name="righttrigger" type="digital" label="30016"/>
 	</triggers>
+	<analogsticks>
+		<analogstick name="leftstick" label="30017"/>
+                <analogstick name="rightstick" label="30018"/>
+	</analogsticks>
 </layout>
