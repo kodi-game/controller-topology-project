@@ -61,25 +61,33 @@ msgid "Left"
 msgstr ""
 
 msgctxt "#30011"
-msgid "L1"
-msgstr ""
-
-msgctxt "#30012"
-msgid "R1"
-msgstr ""
-
-msgctxt "#30013"
-msgid "L2"
-msgstr ""
-
-msgctxt "#30014"
-msgid "R2"
-msgstr ""
-
-msgctxt "#30015"
 msgid "Left thumb"
 msgstr ""
 
-msgctxt "#30016"
+msgctxt "#30012"
 msgid "Right thumb"
+msgstr ""
+
+msgctxt "#30013"
+msgid "L1"
+msgstr ""
+
+msgctxt "#30014"
+msgid "R1"
+msgstr ""
+
+msgctxt "#30015"
+msgid "L2"
+msgstr ""
+
+msgctxt "#30016"
+msgid "R2"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Left stick"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Right stick"
 msgstr ""
