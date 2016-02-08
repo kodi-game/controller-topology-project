@@ -57,13 +57,13 @@ msgid "Left"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Left trigger"
+msgid "Left Trigger"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Right trigger"
+msgid "Right Trigger"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Analog stick"
+msgid "Analog Stick"
 msgstr ""
