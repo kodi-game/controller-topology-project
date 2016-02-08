@@ -23,7 +23,7 @@
 		<button name="righttrigger" type="digital" label="30016"/>
 	</triggers>
 	<analogsticks>
-		<analogstick name="leftstick" label="30017"/>
-                <analogstick name="rightstick" label="30018"/>
+		<analogstick name="leftstick" label="30011"/>
+		<analogstick name="rightstick" label="30012"/>
 	</analogsticks>
 </layout>

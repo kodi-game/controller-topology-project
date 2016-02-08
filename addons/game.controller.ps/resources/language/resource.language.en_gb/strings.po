@@ -61,11 +61,11 @@ msgid "Left"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Left thumb"
+msgid "Left Stick"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Right thumb"
+msgid "Right Stick"
 msgstr ""
 
 msgctxt "#30013"
@@ -82,12 +82,4 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "R2"
-msgstr ""
-
-msgctxt "#30017"
-msgid "Left stick"
-msgstr ""
-
-msgctxt "#30018"
-msgid "Right stick"
 msgstr ""
