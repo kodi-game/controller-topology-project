@@ -61,9 +61,9 @@ msgid "Left"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Left bumper"
+msgid "Left Bumper"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Right bumper"
+msgid "Right Bumper"
 msgstr ""
