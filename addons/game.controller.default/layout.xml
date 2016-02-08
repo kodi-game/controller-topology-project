@@ -24,7 +24,7 @@
     <button name="righttrigger" type="analog" label="30017" geometry="rectangle" x1="556" y1="40" x2="728" y2="108"/>
   </triggers>
   <analogsticks>
-    <analogstick name="leftstick" label="30018" geometry="circle" x="500" y="342" r="52"/>
-    <analogstick name="rightstick" label="30019" geometry="circle" x="500" y="342" r="52"/>
+    <analogstick name="leftstick" label="30008" geometry="circle" x="500" y="342" r="52"/>
+    <analogstick name="rightstick" label="30009" geometry="circle" x="500" y="342" r="52"/>
   </analogsticks>
 </layout>
