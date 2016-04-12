@@ -26,4 +26,8 @@
 		<analogstick name="leftstick" label="30011"/>
 		<analogstick name="rightstick" label="30012"/>
 	</analogsticks>
+	<haptics>
+		<motor name="strong"/>
+		<motor name="weak"/>
+	</haptics>
 </layout>
