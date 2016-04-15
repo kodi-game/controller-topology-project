@@ -28,7 +28,7 @@
     <analogstick name="rightstick" label="30009" geometry="circle" x="500" y="342" r="52"/>
   </category>
   <category name="haptics">
-    <motor name="right"/>
-    <motor name="left"/>
+    <motor name="rightmotor"/>
+    <motor name="leftmotor"/>
   </category>
 </layout>
