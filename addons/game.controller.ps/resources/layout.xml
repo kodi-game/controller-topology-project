@@ -27,7 +27,7 @@
 		<analogstick name="rightstick" label="30012"/>
 	</category>
 	<category name="haptics">
-		<motor name="strong"/>
-		<motor name="weak"/>
+		<motor name="strongmotor"/>
+		<motor name="weakmotor"/>
 	</category>
 </layout>
