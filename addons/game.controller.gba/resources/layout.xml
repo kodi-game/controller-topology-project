@@ -6,8 +6,8 @@
     <button name="start" type="digital" label="30003"/>
     <button name="select" type="digital" label="30004"/>
     <button name="up" type="digital" label="30005" direction="up"/>
-    <button name="down" type="digital" label="30006" direction="down"/>
     <button name="right" type="digital" label="30007" direction="right"/>
+    <button name="down" type="digital" label="30006" direction="down"/>
     <button name="left" type="digital" label="30008" direction="left"/>
   </category>
   <category name="shoulder">

@@ -7,8 +7,8 @@
 		<button name="y" type="digital" label="30004"/>
 		<button name="start" type="digital" label="30005"/>
 		<button name="up" type="digital" label="30006" direction="up"/>
-		<button name="down" type="digital" label="30007" direction="down"/>
 		<button name="right" type="digital" label="30008" direction="right"/>
+		<button name="down" type="digital" label="30007" direction="down"/>
 		<button name="left" type="digital" label="30009" direction="left"/>
 	</category>
 	<category name="triggers">

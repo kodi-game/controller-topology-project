@@ -9,8 +9,8 @@
 		<button name="cright" type="digital" label="30006"/>
 		<button name="cleft" type="digital" label="30007"/>
 		<button name="up" type="digital" label="30008" direction="up"/>
-		<button name="down" type="digital" label="30009" direction="down"/>
 		<button name="right" type="digital" label="30010" direction="right"/>
+		<button name="down" type="digital" label="30009" direction="down"/>
 		<button name="left" type="digital" label="30011" direction="left"/>
 	</category>
 	<category name="shoulder">
