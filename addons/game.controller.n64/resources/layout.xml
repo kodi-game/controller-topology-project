@@ -3,11 +3,11 @@
 	<category name="face" label="35074">
 		<button name="a" type="digital" label="30001"/>
 		<button name="b" type="digital" label="30002"/>
-		<button name="start" type="digital" label="30003"/>
 		<button name="cup" type="digital" label="30004"/>
-		<button name="cdown" type="digital" label="30005"/>
 		<button name="cright" type="digital" label="30006"/>
+		<button name="cdown" type="digital" label="30005"/>
 		<button name="cleft" type="digital" label="30007"/>
+		<button name="start" type="digital" label="30003"/>
 		<button name="up" type="digital" label="30008" direction="up"/>
 		<button name="right" type="digital" label="30010" direction="right"/>
 		<button name="down" type="digital" label="30009" direction="down"/>
