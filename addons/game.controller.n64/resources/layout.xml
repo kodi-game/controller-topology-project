@@ -23,4 +23,7 @@
 	<category name="analogsticks" label="35077">
 		<analogstick name="analogstick" label="30015"/>
 	</category>
+	<category name="haptics">
+		<motor name="motor"/>
+	</category>
 </layout>
