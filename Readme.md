@@ -18,6 +18,10 @@ Kodi has controller profiles for each systems it supports. Add-ons consist of se
 
 ![Default (Xbox 360) controller](addons/game.controller.default/resources/layout.png)
 
+##### Sega Dreamcast
+
+![Dreamcast](addons/game.controller.dreamcast/resources/layout.png)
+
 ##### Game Boy Advance
 
 ![Game Boy Advance](addons/game.controller.gba/resources/layout.png)
