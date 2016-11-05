@@ -16,29 +16,29 @@ Kodi has controller profiles for each systems it supports. Add-ons consist of se
 
 ##### Default (Xbox 360) controller
 
-![Default (Xbox 360) controller](https://github.com/kodi-game/kodi-game-controllers/blob/master/addons/game.controller.default/resources/layout.png)
+![Default (Xbox 360) controller](addons/game.controller.default/resources/layout.png)
 
 ##### Game Boy Advance
 
-![Game Boy Advance](https://github.com/kodi-game/kodi-game-controllers/blob/master/addons/game.controller.gba/resources/layout.png)
+![Game Boy Advance](addons/game.controller.gba/resources/layout.png)
 
 ##### Genesis controller
 
-![Genesis controller](https://github.com/kodi-game/kodi-game-controllers/blob/master/addons/game.controller.genesis/resources/layout.png)
+![Genesis controller](addons/game.controller.genesis/resources/layout.png)
 
 ##### N64 controller
 
-![N64 controller](https://github.com/kodi-game/kodi-game-controllers/blob/master/addons/game.controller.n64/resources/layout.png)
+![N64 controller](addons/game.controller.n64/resources/layout.png)
 
 ##### NES controller
 
-![NES controller](https://github.com/kodi-game/kodi-game-controllers/blob/master/addons/game.controller.nes/resources/layout.png)
+![NES controller](addons/game.controller.nes/resources/layout.png)
 
 ##### PlayStation controller
 
-![PlayStation controller](https://github.com/kodi-game/kodi-game-controllers/blob/master/addons/game.controller.ps/resources/layout.png)
+![PlayStation controller](addons/game.controller.ps/resources/layout.png)
 
 ##### SNES controller
 
-![SNES controller](https://github.com/kodi-game/kodi-game-controllers/blob/master/addons/game.controller.snes/resources/layout.png)
+![SNES controller](addons/game.controller.snes/resources/layout.png)
 
