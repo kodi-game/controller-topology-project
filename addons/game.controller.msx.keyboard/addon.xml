@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="game.controller.msx.keyboard"
+        name="MSX Keyboard"
+        version="1.0.0"
+        provider-name="Team Lima-Dev">
+    <requires>
+    </requires>
+    <extension point="kodi.game.controller" library="resources/layout.xml"/>
+    <extension point="xbmc.addon.metadata">
+        <summary>MSX Keyboard</summary>
+        <description>A Profile for the MSX Joystick (Currently supports Arrow keys, Spacebar, Enter and num keys)</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <nofanart>true</nofanart>
+    </extension>
+</addon>
