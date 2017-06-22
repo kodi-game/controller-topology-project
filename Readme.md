@@ -46,3 +46,12 @@ Kodi has controller profiles for each systems it supports. Add-ons consist of se
 
 ![SNES controller](addons/game.controller.snes/resources/layout.png)
 
+#### MSX Joystick (WIP)
+
+![MSX Joystick](addons/game.controller.msx.joystick/resources/layout.png)
+
+#### MSX Limited Keyboard (WIP)
+Only numkeys 1 to 9 and 0, arrows and spacebar
+
+![MSX Keyboard](addons/game.controller.msx.keyboard/resources/layout.png)
+
