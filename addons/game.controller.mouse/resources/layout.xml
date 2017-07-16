@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<layout name="mouse" label="30000" image="layout.png">
+<layout label="30000" image="layout.png">
   <category name="buttons" label="35103">
     <button name="left" type="digital" label="30001"/>
     <button name="right" type="digital" label="30002"/>
