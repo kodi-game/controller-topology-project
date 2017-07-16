@@ -1,13 +1,13 @@
-# XBMC Media Center language file
+# Kodi Media Center language file
 # Addon Name: TV Remote
 # Addon id: game.controller.remote
 # Addon Provider: Team Kodi
 msgid ""
 msgstr ""
-"Project-Id-Version: TV Remote\n"
+"Project-Id-Version: game.controller.remote\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
-"POT-Creation-Date: 2017-03-31 17:00+8\n"
-"PO-Revision-Date: 2017-03-31 17:00+8\n"
+"POT-Creation-Date: 2014-05-30 17:00+8\n"
+"PO-Revision-Date: 2014-05-30 17:00+8\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
 "MIME-Version: 1.0\n"

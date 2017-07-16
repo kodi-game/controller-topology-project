@@ -1,10 +1,10 @@
 # Kodi Media Center language file
-# Addon Name: Computer mouse
+# Addon Name: Computer Mouse
 # Addon id: game.controller.mouse
 # Addon Provider: Team Kodi
 msgid ""
 msgstr ""
-"Project-Id-Version: Computer Mouse\n"
+"Project-Id-Version: game.controller.mouse\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
 "PO-Revision-Date: 2014-05-30 17:00+8\n"
