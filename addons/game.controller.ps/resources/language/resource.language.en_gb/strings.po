@@ -21,19 +21,19 @@ msgid "PlayStation"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Cross"
-msgstr ""
-
-msgctxt "#30002"
 msgid "Circle"
 msgstr ""
 
+msgctxt "#30002"
+msgid "Cross"
+msgstr ""
+
 msgctxt "#30003"
-msgid "Square"
+msgid "Triangle"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Triangle"
+msgid "Square"
 msgstr ""
 
 msgctxt "#30005"
@@ -49,11 +49,11 @@ msgid "Up"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Down"
+msgid "Right"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Right"
+msgid "Down"
 msgstr ""
 
 msgctxt "#30010"
@@ -82,4 +82,16 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "R2"
+msgstr ""
+
+msgctxt "#30017"
+msgid "PlayStation Gamepad"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Dual Analog Controller"
+msgstr ""
+
+msgctxt "#30019"
+msgid "DualShock Controller"
 msgstr ""

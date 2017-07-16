@@ -57,13 +57,21 @@ msgid "Up"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Down"
+msgid "Right"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Right"
+msgid "Down"
 msgstr ""
 
 msgctxt "#30012"
 msgid "Left"
+msgstr ""
+
+msgctxt "#30013"
+msgid "3 Button Gamepad"
+msgstr ""
+
+msgctxt "#30014"
+msgid "6 Button Gamepad"
 msgstr ""
