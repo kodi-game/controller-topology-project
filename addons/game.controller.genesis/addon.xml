@@ -7,8 +7,8 @@
     </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary>Sega Genesis controller</summary>
-        <description>The original Sega Genesis controller had three main face buttons. Sega released a six-button version in 1993.</description>
+        <summary lang="en_GB">Sega Genesis controller</summary>
+        <description lang="en_GB">The original Sega Genesis controller had three main face buttons. Sega released a six-button version in 1993.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <nofanart>true</nofanart>

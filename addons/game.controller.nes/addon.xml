@@ -7,8 +7,8 @@
     </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary>NES controller</summary>
-        <description>The game controller used for both the NES and the Famicom features a simple four button layout and a cross-shaped joypad.</description>
+        <summary lang="en_GB">NES controller</summary>
+        <description lang="en_GB">The game controller used for both the NES and the Famicom features a simple four button layout and a cross-shaped joypad.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <nofanart>true</nofanart>

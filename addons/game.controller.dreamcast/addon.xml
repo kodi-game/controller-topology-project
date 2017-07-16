@@ -7,8 +7,8 @@
     </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary>Sega Dreamcast controller</summary>
-        <description>The Sega Dreamcast controller is a logical progression from the 3D Control Pad for the Sega Saturn.</description>
+        <summary lang="en_GB">Sega Dreamcast controller</summary>
+        <description lang="en_GB">The Sega Dreamcast controller is a logical progression from the 3D Control Pad for the Sega Saturn.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <nofanart>true</nofanart>

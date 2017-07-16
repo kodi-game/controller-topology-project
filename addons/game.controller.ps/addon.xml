@@ -7,8 +7,8 @@
     </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary>PlayStation controller</summary>
-        <description>The PlayStation Controller was released by Sony Computer Entertainment in 1994.</description>
+        <summary lang="en_GB">PlayStation controller</summary>
+        <description lang="en_GB">The PlayStation Controller was released by Sony Computer Entertainment in 1994.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <nofanart>true</nofanart>

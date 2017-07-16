@@ -7,8 +7,8 @@
     </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary>Default Controller</summary>
-        <description>The default media center controller is based on the Xbox 360 controller.</description>
+        <summary lang="en_GB">Default Controller</summary>
+        <description lang="en_GB">The default media center controller is based on the Xbox 360 controller.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <nofanart>true</nofanart>

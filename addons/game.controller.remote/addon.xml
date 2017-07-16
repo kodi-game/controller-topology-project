@@ -7,8 +7,8 @@
     </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary>TV Remote</summary>
-        <description>A TV remote with basic navigational capabilities.</description>
+        <summary lang="en_GB">TV Remote</summary>
+        <description lang="en_GB">A TV remote with basic navigational capabilities.</description>
         <platform>all</platform>
         <nofanart>true</nofanart>
     </extension>

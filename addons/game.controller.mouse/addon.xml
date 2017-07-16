@@ -7,8 +7,8 @@
     </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary>Computer Mouse</summary>
-        <description>A standard mouse with two buttons and a middle wheel.</description>
+        <summary lang="en_GB">Computer Mouse</summary>
+        <description lang="en_GB">A standard mouse with two buttons and a middle wheel.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <nofanart>true</nofanart>
