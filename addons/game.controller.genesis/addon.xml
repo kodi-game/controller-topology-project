@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="game.controller.genesis"
-        name="Genesis Controller"
+        name="Sega Genesis Controller"
         version="1.0.3"
         provider-name="Team Kodi">
     <requires>
