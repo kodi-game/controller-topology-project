@@ -1,0 +1,65 @@
+#.
+#. Categories. Copied from Kodi's strings.po.
+#.
+
+msgctxt "#35074"
+msgid "Face buttons"
+msgstr ""
+
+msgctxt "#35075"
+msgid "Shoulder buttons"
+msgstr ""
+
+msgctxt "#35076"
+msgid "Triggers"
+msgstr ""
+
+msgctxt "#35077"
+msgid "Analog sticks"
+msgstr ""
+
+#. TODO
+#.msgctxt "#"
+#.msgid "Accelerometer"
+#.msgstr ""
+
+#. TODO
+#.msgctxt "#"
+#.msgid "Motors"
+#.msgstr ""
+
+msgctxt "#35103"
+msgid "Buttons"
+msgstr ""
+
+msgctxt "#35104"
+msgid "Pointers"
+msgstr ""
+
+msgctxt "#35105"
+msgid "Light gun"
+msgstr ""
+
+msgctxt "#35106"
+msgid "Shoot offscreen"
+msgstr ""
+
+msgctxt "#35107"
+msgid "Console switches"
+msgstr ""
+
+msgctxt "#35108"
+msgid "Hardware buttons"
+msgstr ""
+
+msgctxt "#35109"
+msgid "Keypad"
+msgstr ""
+
+msgctxt "#35166"
+msgid "All keys"
+msgstr ""
+
+msgctxt "#35167"
+msgid "Single keys"
+msgstr ""
