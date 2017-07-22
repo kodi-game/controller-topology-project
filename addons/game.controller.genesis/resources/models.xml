@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<models>
+  <model name="3button" label="30013" icon="icon_3button.png" layout="layout_3button.png"/>
+  <model name="6button" label="30014"/>
+</models>
