@@ -13,8 +13,6 @@
         <platform>all</platform>
         <assets>
             <icon>resources/icon_dualanalog.png</icon>
-            <screenshot>resources/layout_gamepad.png</screenshot>
-            <screenshot>resources/layout_dualshock.png</screenshot>
         </assets>
     </extension>
 </addon>
