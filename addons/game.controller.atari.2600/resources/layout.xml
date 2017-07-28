@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<layout label="30000" image="layout.png" mask="mask.png">
+<layout label="30000" image="layout.png" mask="mask.png" models="models.xml">
   <category name="face" label="35074">
     <button name="fire" type="digital" label="30001"/>
     <analogstick name="joystick" label="30002"/>
