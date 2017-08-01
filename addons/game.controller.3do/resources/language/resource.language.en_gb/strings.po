@@ -49,11 +49,11 @@ msgid "Left"
 msgstr ""
 
 msgctxt "#30008"
-msgid "P"
+msgid "P (Play)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "X"
+msgid "X (Stop)"
 msgstr ""
 
 msgctxt "#30010"
