@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <models>
-  <model name="ps1pad" label="30017" icon="icon_ps1pad.png" layout="layout_ps1pad.png"/>
-  <model name="dualanalog" label="30018"/>
-  <model name="dualshock" label="30019" icon="icon_dualshock.png" layout="layout_dualshock.png"/>
+  <model name="ps1pad">
+    <layout label="30017" icon="icon_ps1pad.png" image="layout_ps1pad.png"/>
+  </model>
+  <model name="dualanalog">
+    <layout label="30018"/>
+  </model>
+  <model name="dualshock">
+    <layout label="30019" icon="icon_dualshock.png" image="layout_dualshock.png"/>
+  </model>
 </models>

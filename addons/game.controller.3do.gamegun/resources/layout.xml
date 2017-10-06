@@ -6,8 +6,7 @@
   <category name="pointer" label="35104">
     <relpointer name="crosshair" label="30002"/>
   </category>
-  <physicaltopology>
-    <provides controller="game.controller.3do.gamegun"/>
+  <physicaltopology hasplayer="true">
     <port id="1">
       <accepts controller="game.controller.3do.gamegun"/>
       <accepts controller="game.controller.3do"/>

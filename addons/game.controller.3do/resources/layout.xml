@@ -8,15 +8,14 @@
     <button name="right" type="digital" label="30005"/>
     <button name="down" type="digital" label="30006"/>
     <button name="left" type="digital" label="30007"/>
-    <button name="p" type="digital" label="30008"/>
-    <button name="x" type="digital" label="30009"/>
+    <button name="play" type="digital" label="30008"/>
+    <button name="stop" type="digital" label="30009"/>
   </category>
   <category name="shoulder" label="35075">
     <button name="leftbumper" type="digital" label="30010"/>
     <button name="rightbumper" type="digital" label="30011"/>
   </category>
-  <physicaltopology>
-    <provides controller="game.controller.3do"/>
+  <physicaltopology hasplayer="true">
     <port id="1">
       <accepts controller="game.controller.3do"/>
       <accepts controller="game.controller.3do.gamegun"/>
