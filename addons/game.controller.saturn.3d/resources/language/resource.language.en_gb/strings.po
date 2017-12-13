@@ -65,11 +65,11 @@ msgid "Left"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Left Shoulder"
+msgid "Left Trigger"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Right Shoulder"
+msgid "Right Trigger"
 msgstr ""
 
 msgctxt "#30014"
