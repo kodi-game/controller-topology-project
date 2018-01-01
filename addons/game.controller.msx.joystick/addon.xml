@@ -11,6 +11,8 @@
         <description>A Profile for the MSX Joystick (A,B Buttons and 4 way d-pad)</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
-        <nofanart>true</nofanart>
+        <assets>
+            <icon>resources/icon.png</icon>
+        </assets>
     </extension>
 </addon>

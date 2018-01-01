@@ -11,6 +11,8 @@
         <description>A Profile for the MSX Joystick (Currently supports Arrow keys, Spacebar, Enter and num keys)</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
-        <nofanart>true</nofanart>
+        <assets>
+            <icon>resources/icon.png</icon>
+        </assets>
     </extension>
 </addon>
