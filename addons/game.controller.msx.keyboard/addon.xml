@@ -9,7 +9,7 @@
     <extension point="xbmc.addon.metadata">
         <summary>MSX Keyboard</summary>
         <description>A Profile for the MSX Joystick (Currently supports Arrow keys, Spacebar, Enter and num keys)</description>
-        <disclaimer></disclaimer>
+        <disclaimer>Image credit: Wikipedia (wikipedia.org)</disclaimer>
         <platform>all</platform>
         <assets>
             <icon>resources/icon.png</icon>

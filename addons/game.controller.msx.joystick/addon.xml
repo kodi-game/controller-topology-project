@@ -9,7 +9,7 @@
     <extension point="xbmc.addon.metadata">
         <summary>MSX Joystick</summary>
         <description>A Profile for the MSX Joystick (A,B Buttons and 4 way d-pad)</description>
-        <disclaimer></disclaimer>
+        <disclaimer>Image credit: Laurens Holst (www.grauw.nl)</disclaimer>
         <platform>all</platform>
         <assets>
             <icon>resources/icon.png</icon>
