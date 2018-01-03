@@ -1,106 +1,141 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <layout label="30000" image="layout.png">
-  <category name="keys" label="35169">
-    <key name="one" label="30002"/>
-    <key name="two" label="30003"/>
-    <key name="three" label="30004"/>
-    <key name="four" label="30005"/>
-    <key name="five" label="30006"/>
-    <key name="six" label="30007"/>
-    <key name="seven" label="30008"/>
-    <key name="eight" label="30009"/>
-    <key name="nine" label="30010"/>
-    <key name="zero" label="30011"/>
-    <key name="a" label="30012"/>
-    <key name="b" label="30013"/>
-    <key name="c" label="30014"/>
-    <key name="d" label="30015"/>
-    <key name="e" label="30016"/>
-    <key name="f" label="30017"/>
-    <key name="g" label="30018"/>
-    <key name="h" label="30019"/>
-    <key name="i" label="30020"/>
-    <key name="j" label="30021"/>
-    <key name="k" label="30022"/>
-    <key name="l" label="30023"/>
-    <key name="m" label="30024"/>
-    <key name="n" label="30025"/>
-    <key name="o" label="30026"/>
-    <key name="p" label="30027"/>
-    <key name="q" label="30028"/>
-    <key name="r" label="30029"/>
-    <key name="s" label="30030"/>
-    <key name="t" label="30031"/>
-    <key name="u" label="30032"/>
-    <key name="v" label="30033"/>
-    <key name="w" label="30034"/>
-    <key name="x" label="30035"/>
-    <key name="y" label="30036"/>
-    <key name="z" label="30037"/>
-    <key name="f1" label="30038"/>
-    <key name="f2" label="30039"/>
-    <key name="f3" label="30040"/>
-    <key name="f4" label="30041"/>
-    <key name="f5" label="30042"/>
-    <key name="f6" label="30043"/>
-    <key name="f7" label="30044"/>
-    <key name="f8" label="30045"/>
-    <key name="f9" label="30046"/>
-    <key name="f10" label="30047"/>
-    <key name="f11" label="30048"/>
-    <key name="f12" label="30049"/>
-    <key name="escape" label="30050"/>
-    <key name="tab" label="30051"/>
-    <key name="backspace" label="30052"/>
-    <key name="enter" label="30053"/>
-    <key name="space" label="30054"/>
-    <key name="leftalt" label="30055"/>
-    <key name="rightalt" label="30056"/>
-    <key name="leftctrl" label="30057"/>
-    <key name="rightctrl" label="30058"/>
-    <key name="lshift" label="30059"/>
-    <key name="rshift" label="30060"/>
-    <key name="capslock" label="30061"/>
-    <key name="scrolllock" label="30062"/>
-    <key name="numlock" label="30063"/>
-    <key name="minus" label="30064"/>
-    <key name="equals" label="30065"/>
-    <key name="backslash" label="30066"/>
-    <key name="leftbracket" label="30067"/>
-    <key name="rightbracket" label="30068"/>
-    <key name="semicolon" label="30069"/>
-    <key name="quote" label="30070"/>
-    <key name="period" label="30071"/>
-    <key name="comma" label="30072"/>
-    <key name="slash" label="30073"/>
-    <key name="printscreen" label="30074"/>
-    <key name="pause" label="30075"/>
-    <key name="insert" label="30076"/>
-    <key name="home" label="30077"/>
-    <key name="pageup" label="30078"/>
-    <key name="pagedown" label="30079"/>
-    <key name="delete" label="30080"/>
-    <key name="end" label="30081"/>
-    <key name="left" label="30082"/>
-    <key name="up" label="30083"/>
-    <key name="down" label="30084"/>
-    <key name="right" label="30085"/>
-    <key name="kp1" label="30086"/>
-    <key name="kp2" label="30087"/>
-    <key name="kp3" label="30088"/>
-    <key name="kp4" label="30089"/>
-    <key name="kp5" label="30090"/>
-    <key name="kp6" label="30091"/>
-    <key name="kp7" label="30092"/>
-    <key name="kp8" label="30093"/>
-    <key name="kp9" label="30094"/>
-    <key name="kp0" label="30095"/>
-    <key name="kpdivide" label="30096"/>
-    <key name="kpmultiply" label="30097"/>
-    <key name="kpminus" label="30098"/>
-    <key name="kpplus" label="30099"/>
-    <key name="kpenter" label="30100"/>
-    <key name="kpperiod" label="30101"/>
-    <key name="grave" label="30102"/>
+  <category name="keys" type="digital" label="35167">
+    <button name="one" type="digital" label="30002"/>
+    <button name="two" type="digital" label="30003"/>
+    <button name="three" type="digital" label="30004"/>
+    <button name="four" type="digital" label="30005"/>
+    <button name="five" type="digital" label="30006"/>
+    <button name="six" type="digital" label="30007"/>
+    <button name="seven" type="digital" label="30008"/>
+    <button name="eight" type="digital" label="30009"/>
+    <button name="nine" type="digital" label="30010"/>
+    <button name="zero" type="digital" label="30011"/>
+    <button name="a" type="digital" label="30012"/>
+    <button name="b" type="digital" label="30013"/>
+    <button name="c" type="digital" label="30014"/>
+    <button name="d" type="digital" label="30015"/>
+    <button name="e" type="digital" label="30016"/>
+    <button name="f" type="digital" label="30017"/>
+    <button name="g" type="digital" label="30018"/>
+    <button name="h" type="digital" label="30019"/>
+    <button name="i" type="digital" label="30020"/>
+    <button name="j" type="digital" label="30021"/>
+    <button name="k" type="digital" label="30022"/>
+    <button name="l" type="digital" label="30023"/>
+    <button name="m" type="digital" label="30024"/>
+    <button name="n" type="digital" label="30025"/>
+    <button name="o" type="digital" label="30026"/>
+    <button name="p" type="digital" label="30027"/>
+    <button name="q" type="digital" label="30028"/>
+    <button name="r" type="digital" label="30029"/>
+    <button name="s" type="digital" label="30030"/>
+    <button name="t" type="digital" label="30031"/>
+    <button name="u" type="digital" label="30032"/>
+    <button name="v" type="digital" label="30033"/>
+    <button name="w" type="digital" label="30034"/>
+    <button name="x" type="digital" label="30035"/>
+    <button name="y" type="digital" label="30036"/>
+    <button name="z" type="digital" label="30037"/>
+    <button name="f1" type="digital" label="30038"/>
+    <button name="f2" type="digital" label="30039"/>
+    <button name="f3" type="digital" label="30040"/>
+    <button name="f4" type="digital" label="30041"/>
+    <button name="f5" type="digital" label="30042"/>
+    <button name="f6" type="digital" label="30043"/>
+    <button name="f7" type="digital" label="30044"/>
+    <button name="f8" type="digital" label="30045"/>
+    <button name="f9" type="digital" label="30046"/>
+    <button name="f10" type="digital" label="30047"/>
+    <button name="f11" type="digital" label="30048"/>
+    <button name="f12" type="digital" label="30049"/>
+    <button name="f13" type="digital" label="30103"/>
+    <button name="f14" type="digital" label="30104"/>
+    <button name="f15" type="digital" label="30105"/>
+    <button name="escape" type="digital" label="30050"/>
+    <button name="tab" type="digital" label="30051"/>
+    <button name="backspace" type="digital" label="30052"/>
+    <button name="enter" type="digital" label="30053"/>
+    <button name="space" type="digital" label="30054"/>
+    <button name="leftalt" type="digital" label="30055"/>
+    <button name="rightalt" type="digital" label="30056"/>
+    <button name="leftctrl" type="digital" label="30057"/>
+    <button name="rightctrl" type="digital" label="30058"/>
+    <button name="leftshift" type="digital" label="30059"/>
+    <button name="rightshift" type="digital" label="30060"/>
+    <button name="leftmeta" type="digital" label="30106"/>
+    <button name="rightmeta" type="digital" label="30107"/>
+    <button name="leftsuper" type="digital" label="30108"/>
+    <button name="rightsuper" type="digital" label="30109"/>
+    <button name="capslock" type="digital" label="30061"/>
+    <button name="scrolllock" type="digital" label="30062"/>
+    <button name="numlock" type="digital" label="30063"/>
+    <button name="minus" type="digital" label="30064"/>
+    <button name="equals" type="digital" label="30065"/>
+    <button name="backslash" type="digital" label="30066"/>
+    <button name="leftbracket" type="digital" label="30067"/>
+    <button name="rightbracket" type="digital" label="30068"/>
+    <button name="semicolon" type="digital" label="30069"/>
+    <button name="quote" type="digital" label="30070"/>
+    <button name="period" type="digital" label="30071"/>
+    <button name="comma" type="digital" label="30072"/>
+    <button name="slash" type="digital" label="30073"/>
+    <button name="printscreen" type="digital" label="30074"/>
+    <button name="pause" type="digital" label="30075"/>
+    <button name="insert" type="digital" label="30076"/>
+    <button name="home" type="digital" label="30077"/>
+    <button name="pageup" type="digital" label="30078"/>
+    <button name="pagedown" type="digital" label="30079"/>
+    <button name="delete" type="digital" label="30080"/>
+    <button name="end" type="digital" label="30081"/>
+    <button name="left" type="digital" label="30082"/>
+    <button name="up" type="digital" label="30083"/>
+    <button name="down" type="digital" label="30084"/>
+    <button name="right" type="digital" label="30085"/>
+    <button name="kp1" type="digital" label="30086"/>
+    <button name="kp2" type="digital" label="30087"/>
+    <button name="kp3" type="digital" label="30088"/>
+    <button name="kp4" type="digital" label="30089"/>
+    <button name="kp5" type="digital" label="30090"/>
+    <button name="kp6" type="digital" label="30091"/>
+    <button name="kp7" type="digital" label="30092"/>
+    <button name="kp8" type="digital" label="30093"/>
+    <button name="kp9" type="digital" label="30094"/>
+    <button name="kp0" type="digital" label="30095"/>
+    <button name="kpdivide" type="digital" label="30096"/>
+    <button name="kpmultiply" type="digital" label="30097"/>
+    <button name="kpminus" type="digital" label="30098"/>
+    <button name="kpplus" type="digital" label="30099"/>
+    <button name="kpenter" type="digital" label="30100"/>
+    <button name="kpperiod" type="digital" label="30101"/>
+    <button name="grave" type="digital" label="30102"/>
+    <button name="exclaim" type="digital" label="30110"/>
+    <button name="doublequote" type="digital" label="30111"/>
+    <button name="hash" type="digital" label="30112"/>
+    <button name="ampersand" type="digital" label="30113"/>
+    <button name="leftparen" type="digital" label="30114"/>
+    <button name="rightparen" type="digital" label="30115"/>
+    <button name="asterisk" type="digital" label="30116"/>
+    <button name="plus" type="digital" label="30117"/>
+    <button name="colon" type="digital" label="30118"/>
+    <button name="less" type="digital" label="30119"/>
+    <button name="greater" type="digital" label="30120"/>
+    <button name="question" type="digital" label="30121"/>
+    <button name="at" type="digital" label="30122"/>
+    <button name="caret" type="digital" label="30123"/>
+    <button name="underscore" type="digital" label="30124"/>
+    <button name="dollar" type="digital" label="30125"/>
+    <button name="leftbrace" type="digital" label="30126"/>
+    <button name="rightbrace" type="digital" label="30127"/>
+    <button name="bar" type="digital" label="30128"/>
+    <button name="tilde" type="digital" label="30129"/>
+    <button name="mode" type="digital" label="30130"/>
+    <button name="compose" type="digital" label="30131"/>
+    <button name="help" type="digital" label="30132"/>
+    <button name="sysreq" type="digital" label="30133"/>
+    <button name="break" type="digital" label="30134"/>
+    <button name="menu" type="digital" label="30135"/>
+    <button name="power" type="digital" label="30136"/>
+    <button name="euro" type="digital" label="30137"/>
   </category>
 </layout>
