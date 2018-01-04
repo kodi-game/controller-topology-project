@@ -43,3 +43,11 @@ msgstr ""
 msgctxt "#30006"
 msgid "Pointer"
 msgstr ""
+
+msgctxt "#30007"
+msgid "Wheel right"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Wheel left"
+msgstr ""
