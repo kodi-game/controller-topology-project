@@ -2,47 +2,85 @@
 
 Kodi has controller profiles for each systems it supports. Add-ons consist of several files:
 
-1. [addon.xml](https://github.com/kodi-game/kodi-game-controllers/blob/master/addons/game.controller.default/addon.xml) - the add-on fluff
+1. **addon.xml** - the add-on fluff
 
-2. [layout.xml](https://github.com/kodi-game/kodi-game-controllers/blob/master/addons/game.controller.default/resources/layout.xml) - the controller layout (geometry is optional)
+2. **layout.png** - the picture shown in the configuration GUI
 
-3. [layout.png](https://github.com/kodi-game/kodi-game-controllers/blob/master/addons/game.controller.default/resources/layout.png) - the picture shown in the configuration GUI
+3. **mask.png** - optional, the button mask of layout.png
 
-4. resources/language/English/[strings.po](https://github.com/kodi-game/kodi-game-controllers/blob/master/addons/game.controller.default/resources/language/English/strings.po) - The names of the buttons
+3. **icon.png** - the thumbnail used in the GUI
 
-5. icon.png - the thumbnail used in the GUI
+4. **layout.xml** - the button layout
 
-### List of controllers
+6. **strings.po** - The names of the buttons
 
-##### Default (Xbox 360) controller
+## addon.xml
 
-![Default (Xbox 360) controller](addons/game.controller.default/resources/layout.png)
+This schema is described by Kodi's add-on system. It includes:
 
-##### Sega Dreamcast
+1. Controller ID (identical to add-on ID)
+2. Metadata version
+3. Controller name
+4. Internationalized controller name
+5. Internationalized 2-3 sentence description including release year
+6. Path to icon.png
+7. Path to layout.xml
+8. Image credit
 
-![Dreamcast](addons/game.controller.dreamcast/resources/layout.png)
+Metadata version uses semantic versioning (MAJOR.MINOR.PATCH). Increment the:
 
-##### Game Boy Advance
+1. MAJOR version when you make incompatible schema changes
+2. MINOR version when you make schema changes in a backwards-compatible manner, and
+3. PATCH version when you make data changes.
 
-![Game Boy Advance](addons/game.controller.gba/resources/layout.png)
+## layout.png
 
-##### Genesis controller
+Transparent image of the controller. Recommended size 1024x1024.
 
-![Genesis controller](addons/game.controller.genesis/resources/layout.png)
+## mask.png
 
-##### N64 controller
+Unused currently. Same dimensions as layout.png.
 
-![N64 controller](addons/game.controller.n64/resources/layout.png)
+Possible use of this is to [generate a costmap for automatic line placement](https://forum.kodi.tv/showthread.php?tid=211138&pid=1932869#pid1932869).
 
-##### NES controller
+## icon.png
 
-![NES controller](addons/game.controller.nes/resources/layout.png)
+Opaque image of the controller. This should be the transparent image against [background.png](https://github.com/kodi-game/kodi-game-controllers/blob/master/textures/background.png) in the `textures` folder. Recommended size 512x512 as per Kodi add-on rules.
 
-##### PlayStation controller
+## layout.xml
 
-![PlayStation controller](addons/game.controller.ps/resources/layout.png)
+This file describes the button layout. The root `<layout>` tag contains the following attributes:
 
-##### SNES controller
+1. Path to layout.png
+2. Path to mask.png
 
-![SNES controller](addons/game.controller.snes/resources/layout.png)
+### Button layout
 
+The button layout is given by `<category>` tags. Categories are groups for buttons shown in the controller mapping window. Categories have the following attributes defined in [categories.po](https://github.com/kodi-game/kodi-game-controllers/blob/master/categories.po):
+
+1. Category name
+2. Internationalized name
+3. Category description
+4. Kodi string ID
+
+Categories contain a list of features. Each feature has the following attributes:
+
+1. Feature name
+2. Internationalized name
+3. Feature type
+4. Input type (analog or digital, defaults to analog)
+
+The following feature types are available:
+
+* `button`
+* `analogstick`
+* `accelerometer`
+* `motor`
+* `relpointer`
+* `abspointer`
+* `wheel`
+* `throttle`
+
+## strings.po
+
+This file contains the internationalized versions of the translatable strings above. Its format is described by Kodi's translation system.
