@@ -1,5 +1,5 @@
 # Kodi Media Center language file
-# Addon Name: PlayStation GamePad
+# Addon Name: PlayStation Gamepad
 # Addon id: game.controller.ps.gamepad
 # Addon Provider: Team Kodi
 msgid ""
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "#30000"
-msgid "PlayStation GamePad"
+msgid "PlayStation Gamepad"
 msgstr ""
 
 msgctxt "#30001"
