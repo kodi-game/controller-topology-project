@@ -315,7 +315,3 @@ msgstr ""
 msgctxt "#30074"
 msgid "Copy"
 msgstr ""
-
-msgctxt "#30075"
-msgid "Amstrad CPC"
-msgstr ""
