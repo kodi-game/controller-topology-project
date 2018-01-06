@@ -20,9 +20,7 @@ msgctxt "#30000"
 msgid "Keyboard"
 msgstr ""
 
-msgctxt "#30001"
-msgid "IBM Model M"
-msgstr ""
+#empty string with id 30001
 
 msgctxt "#30002"
 msgid "1"

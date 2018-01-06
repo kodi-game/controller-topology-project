@@ -6,28 +6,28 @@
 			<accepts controller="game.controller.ps.mouse"/>
 			<accepts controller="game.controller.ps.multitap"/>
 			<accepts controller="game.controller.ps.guncon"/>
-			<accepts controller="game.controller.konami.justifier" model="green"/>
+			<accepts controller="game.controller.konami.justifier.green"/>
 		</port>
 		<port id="2">
 			<accepts controller="game.controller.ps"/>
 			<accepts controller="game.controller.ps.mouse"/>
 			<accepts controller="game.controller.ps.multitap"/>
 			<accepts controller="game.controller.ps.guncon"/>
-			<accepts controller="game.controller.konami.justifier" model="green"/>
+			<accepts controller="game.controller.konami.justifier.green"/>
 		</port>
 		<port id="3">
 			<accepts controller="game.controller.ps"/>
 			<accepts controller="game.controller.ps.mouse"/>
 			<accepts controller="game.controller.ps.multitap"/>
 			<accepts controller="game.controller.ps.guncon"/>
-			<accepts controller="game.controller.konami.justifier" model="green"/>
+			<accepts controller="game.controller.konami.justifier.green"/>
 		</port>
 		<port id="4">
 			<accepts controller="game.controller.ps"/>
 			<accepts controller="game.controller.ps.mouse"/>
 			<accepts controller="game.controller.ps.multitap"/>
 			<accepts controller="game.controller.ps.guncon"/>
-			<accepts controller="game.controller.konami.justifier" model="green"/>
+			<accepts controller="game.controller.konami.justifier.green"/>
 		</port>
 	</physicaltopology>
 </layout>

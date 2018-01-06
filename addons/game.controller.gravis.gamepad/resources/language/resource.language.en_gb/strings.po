@@ -51,7 +51,3 @@ msgstr ""
 msgctxt "#30008"
 msgid "Left"
 msgstr ""
-
-msgctxt "#30009"
-msgid "Gravis PC GamePad"
-msgstr ""
