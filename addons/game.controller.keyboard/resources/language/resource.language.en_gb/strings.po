@@ -565,3 +565,15 @@ msgstr ""
 msgctxt "#30137"
 msgid "€"
 msgstr ""
+
+msgctxt "#30138"
+msgid "Undo"
+msgstr ""
+
+msgctxt "#30139"
+msgid "Num Pad Equals"
+msgstr ""
+
+msgctxt "#30140"
+msgid "Clear"
+msgstr ""
