@@ -1,10 +1,10 @@
 # Kodi Media Center language file
 # Addon Name: Konami Justifier (Player 2)
-# Addon id: game.controller.konami.justifier.pink
+# Addon id: game.controller.konami.justifier.player2
 # Addon Provider: Team Kodi
 msgid ""
 msgstr ""
-"Project-Id-Version: game.controller.konami.justifier.pink\n"
+"Project-Id-Version: game.controller.konami.justifier.player2\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
 "PO-Revision-Date: 2014-05-30 17:00+8\n"
