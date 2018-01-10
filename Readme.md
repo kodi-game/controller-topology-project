@@ -84,7 +84,7 @@ The following feature types are available:
 
 Buttons must provide a `type` attribute to specify analog or digital input.
 
-Keys must provide a `unicode` attribute to facilitate keyboard mapping.
+Keys must provide a `keycode` attribute to facilitate keyboard mapping.
 
 ## strings.po
 
