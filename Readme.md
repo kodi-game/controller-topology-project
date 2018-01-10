@@ -80,6 +80,11 @@ The following feature types are available:
 * `abspointer`
 * `wheel`
 * `throttle`
+* `key`
+
+Buttons must provide a `type` attribute to specify analog or digital input.
+
+Keys must provide a `unicode` attribute to facilitate keyboard mapping.
 
 ## strings.po
 
