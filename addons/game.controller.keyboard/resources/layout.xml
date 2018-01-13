@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <layout label="30000" image="layout.png">
   <category name="keys" label="35167">
-    <key name="one" symbol="1" label="30002"/>
-    <key name="two" symbol="2" label="30003"/>
-    <key name="three" symbol="3" label="30004"/>
-    <key name="four" symbol="4" label="30005"/>
-    <key name="five" symbol="5" label="30006"/>
-    <key name="six" symbol="6" label="30007"/>
-    <key name="seven" symbol="7" label="30008"/>
-    <key name="eight" symbol="8" label="30009"/>
-    <key name="nine" symbol="9" label="30010"/>
-    <key name="zero" symbol="0" label="30011"/>
+    <key name="1" symbol="1" label="30002"/>
+    <key name="2" symbol="2" label="30003"/>
+    <key name="3" symbol="3" label="30004"/>
+    <key name="4" symbol="4" label="30005"/>
+    <key name="5" symbol="5" label="30006"/>
+    <key name="6" symbol="6" label="30007"/>
+    <key name="7" symbol="7" label="30008"/>
+    <key name="8" symbol="8" label="30009"/>
+    <key name="9" symbol="9" label="30010"/>
+    <key name="0" symbol="0" label="30011"/>
     <key name="a" symbol="a" label="30012"/>
     <key name="b" symbol="b" label="30013"/>
     <key name="c" symbol="c" label="30014"/>
