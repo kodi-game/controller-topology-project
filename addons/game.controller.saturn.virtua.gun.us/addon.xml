@@ -12,7 +12,7 @@
         <disclaimer>Image credit: Sega Retro (segaretro.org)</disclaimer>
         <platform>all</platform>
         <assets>
-            <icon>resources/icon_jp.png</icon>
+            <icon>resources/icon.png</icon>
         </assets>
     </extension>
 </addon>

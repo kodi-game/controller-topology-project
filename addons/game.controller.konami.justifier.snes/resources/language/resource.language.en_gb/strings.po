@@ -1,10 +1,10 @@
 # Kodi Media Center language file
-# Addon Name: Konami Justifier (PS)
-# Addon id: game.controller.konami.justifier.green
+# Addon Name: Konami Justifier (SNES)
+# Addon id: game.controller.konami.justifier.snes
 # Addon Provider: Team Kodi
 msgid ""
 msgstr ""
-"Project-Id-Version: game.controller.konami.justifier.green\n"
+"Project-Id-Version: game.controller.konami.justifier.snes\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
 "PO-Revision-Date: 2014-05-30 17:00+8\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "#30000"
-msgid "Konami Justifier (PS)"
+msgid "Konami Justifier (SNES)"
 msgstr ""
 
 msgctxt "#30001"
