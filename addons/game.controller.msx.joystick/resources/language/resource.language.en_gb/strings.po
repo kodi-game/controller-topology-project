@@ -1,10 +1,10 @@
-# XBMC Media Center language file
+# Kodi Media Center language file
 # Addon Name: MSX Joystick
 # Addon id: game.controller.msx.joystick
 # Addon Provider: Team-Lima-Dev
 msgid ""
 msgstr ""
-"Project-Id-Version: Libretro Clients\n"
+"Project-Id-Version: game.controller.msx.joystick\n"
 "Report-Msgid-Bugs-To: dylan@vossystems.nl\n"
 "POT-Creation-Date: 2017-06-18 20:00+1\n"
 "PO-Revision-Date:  2017-06-18 20:00+1\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "#30000"
-msgid "MSX - Joystick"
+msgid "MSX Joystick"
 msgstr ""
 
 msgctxt "#30001"
