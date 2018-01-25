@@ -1,0 +1,111 @@
+#.
+#. Categories. Copied from Kodi's strings.po.
+#.
+
+#. Category "face"
+#. Buttons that appear on the face of the controller
+msgctxt "#35074"
+msgid "Face buttons"
+msgstr ""
+
+#. Category "shoulder"
+#. Buttons that appear on the shoulders of the controller
+msgctxt "#35075"
+msgid "Shoulder buttons"
+msgstr ""
+
+#. Category "triggers"
+#. Triggers on the controller
+msgctxt "#35076"
+msgid "Triggers"
+msgstr ""
+
+#. Category "analogsticks"
+#. Analog sticks on the controller
+msgctxt "#35077"
+msgid "Analog sticks"
+msgstr ""
+
+#. TODO
+#. Category "accelerometer"
+#.msgctxt "#"
+#.msgid "Accelerometer"
+#.msgstr ""
+
+#. TODO
+#. Category "haptics"
+#.msgctxt "#"
+#.msgid "Motors"
+#.msgstr ""
+
+#. Category "mouse"
+#. Mouse buttons
+msgctxt "#35103"
+msgid "Buttons"
+msgstr ""
+
+#. Category "pointer"
+#. Relative mounters like the mouse pointer
+msgctxt "#35104"
+msgid "Pointers"
+msgstr ""
+
+#. Category "lightgun"
+#. Buttons mounted on a light gun
+msgctxt "#35105"
+msgid "Light gun"
+msgstr ""
+
+#. Category "offscreen"
+#. Button that shoots the lightgun offscreen when pressed
+msgctxt "#35106"
+msgid "Shoot offscreen"
+msgstr ""
+
+#. Category "hardware"
+#. Switches found on a game console, such as the Atari 2600
+msgctxt "#35107"
+msgid "Console switches"
+msgstr ""
+
+#. Category "hardware"
+#. buttons that control the game console hardware, such as a microphone button on the Nintendo DS
+msgctxt "#35108"
+msgid "Hardware buttons"
+msgstr ""
+
+#. Category "keypad"
+#. Buttons on a numeric keypad (containing 0-9, star and pound)
+msgctxt "#35109"
+msgid "Keypad"
+msgstr ""
+
+#. Virtual category
+#. Lets the user map any keyboard key
+msgctxt "#35166"
+msgid "All keys"
+msgstr ""
+
+#. Category "keys"
+#. Keyboard keys
+msgctxt "#35167"
+msgid "Single keys"
+msgstr ""
+
+#. Category "wheel"
+#. buttons that appear on a racing wheel
+msgctxt "#35071"
+msgid "Racing wheel"
+msgstr ""
+
+#. Category "paddles"
+#. Paddle buttons that appear on a racing wheel
+msgctxt "#35072"
+msgid "Paddles"
+msgstr ""
+
+#. Category "joysticks"
+#. Buttons that appear on a joystick
+msgctxt "#35073"
+msgid "Joysticks"
+msgstr ""
