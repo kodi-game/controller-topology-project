@@ -230,7 +230,7 @@ rightsuper | Right "Windows" key
 mode | "Alt Gr" key
 compose | Multi-key compose key
 help |
-print |
+printscreen |
 sysreq |
 break |
 menu |

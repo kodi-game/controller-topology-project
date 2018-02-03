@@ -81,7 +81,7 @@
     <key name="period" symbol="period" label="30071"/>
     <key name="comma" symbol="comma" label="30072"/>
     <key name="slash" symbol="slash" label="30073"/>
-    <key name="printscreen" symbol="print" label="30074"/>
+    <key name="printscreen" symbol="printscreen" label="30074"/>
     <key name="pause" symbol="pause" label="30075"/>
     <key name="insert" symbol="insert" label="30076"/>
     <key name="home" symbol="home" label="30077"/>
