@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="game.controller.msx.joystick"
         name="MSX Joystick"
-        version="1.0.0"
+        version="1.0.1"
         provider-name="Team Lima-Dev">
     <requires>
     </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
         <summary>MSX Joystick</summary>
-        <description>A Profile for the MSX Joystick (A,B Buttons and 4 way d-pad)</description>
+        <description>The MSX joystick featured A and B buttons and four-way directional control.</description>
         <disclaimer>Image credit: Laurens Holst (www.grauw.nl)</disclaimer>
         <platform>all</platform>
         <assets>
