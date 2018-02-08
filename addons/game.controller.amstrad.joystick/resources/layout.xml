@@ -17,4 +17,5 @@
     <button name="stat" type="digital" label="30012"/>
     <button name="reset" type="digital" label="30013"/>
     <button name="tape" type="digital" label="30014"/>
+  </category>
 </layout>
