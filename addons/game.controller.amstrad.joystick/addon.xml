@@ -7,8 +7,8 @@
     </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary>Amstrad Joystick</summary>
-        <description>The original Amstrad CPC models had only one joystick port. A Y-cable can be used to connect two joysticks.</description>
+        <summary lang="en_GB">Amstrad Joystick</summary>
+        <description lang="en_GB">The original Amstrad CPC models had only one joystick port. A Y-cable can be used to connect two joysticks.</description>
         <disclaimer>Image credit: Wikipedia (wikipedia.org)</disclaimer>
         <platform>all</platform>
         <assets>

@@ -7,8 +7,8 @@
     </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary>MSX Keyboard</summary>
-        <description>The MSX keyboard came in internal and external units. One troubleshooting hint when an MSX machine does not display an image is to press the CAPS key repeatedly to see if the LED toggles.</description>
+        <summary lang="en_GB">MSX Keyboard</summary>
+        <description lang="en_GB">The MSX keyboard came in internal and external units. One troubleshooting hint when an MSX machine does not display an image is to press the CAPS key repeatedly to see if the LED toggles.</description>
         <disclaimer>Image credit: Wikipedia (wikipedia.org)</disclaimer>
         <platform>all</platform>
         <assets>

@@ -7,8 +7,8 @@
     </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary>MSX Joystick</summary>
-        <description>The MSX joystick featured A and B buttons and four-way directional control.</description>
+        <summary lang="en_GB">MSX Joystick</summary>
+        <description lang="en_GB">The MSX joystick featured A and B buttons and four-way directional control.</description>
         <disclaimer>Image credit: Laurens Holst (www.grauw.nl)</disclaimer>
         <platform>all</platform>
         <assets>

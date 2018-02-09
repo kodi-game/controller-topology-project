@@ -7,8 +7,8 @@
     </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary>Amstrad Keyboard</summary>
-        <description>The Amstrad CPC (short for Colour Personal Computer) is a series of 8-bit home computers produced by Amstrad between 1984 and 1990.</description>
+        <summary lang="en_GB">Amstrad Keyboard</summary>
+        <description lang="en_GB">The Amstrad CPC (short for Colour Personal Computer) is a series of 8-bit home computers produced by Amstrad between 1984 and 1990.</description>
         <disclaimer>Image credit: Wikipedia (wikipedia.org)</disclaimer>
         <platform>all</platform>
         <assets>
