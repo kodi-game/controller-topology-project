@@ -1,6 +1,16 @@
+# Controller Topology Project
+
+The Controller Topology Project aims to model how controllers connect to and map to each other for all gaming history. The purpose of this project is to make retro gaming accessible by automating emulator input configuration.
+
+The scope of this project focuses on two operations: button mapping and connecting controllers. To automate these, we curate data on the button layout and physical ports of every retro controller.
+
+Separately, we curate emulator data from emulators at https://github.com/libretro. For every emulator, we describe its virtual button layout in terms of libretro's RetroPad abstraction, as well as the virtual console and controller ports supported by the emulator's logic.
+
+The magic happens when these two data sources are brought together. The RetroPad abstraction is loosely based on the button's physical location in relation to a PS-like controller, so in effect we have a system that can approximate mappings between any two controllers. As a result, the user gets a sensible default for how the controller in her hand affects the virtual controller being emulated. Furthermore, multitaps can be automatically attached to allow additional players, even if wired controllers are a foreign concept to a later generation.
+
 # Kodi Game Controller Add-ons
 
-Kodi has controller profiles for each systems it supports. Add-ons consist of several files:
+The data in this repo is stored in the format of Kodi add-ons. Add-ons consist of several files:
 
 1. **addon.xml** - the add-on fluff
 
