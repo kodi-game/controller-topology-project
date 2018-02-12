@@ -45,7 +45,7 @@ msgid "Buttons"
 msgstr ""
 
 #. Category "pointer"
-#. Relative mounters like the mouse pointer
+#. Relative pointers like the mouse pointer
 msgctxt "#35104"
 msgid "Pointers"
 msgstr ""
@@ -105,7 +105,7 @@ msgid "Paddles"
 msgstr ""
 
 #. Category "joysticks"
-#. Buttons that appear on a joystick
+#. Buttons that appear on a directional joystick
 msgctxt "#35073"
 msgid "Joysticks"
 msgstr ""
