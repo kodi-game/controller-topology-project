@@ -20,7 +20,7 @@ The data in this repo is stored in the format of Kodi add-ons. Add-ons consist o
 
 3. **icon.png** - the thumbnail used in the GUI
 
-4. **layout.xml** - the button layout
+4. **layout.xml** - the button layout and topology
 
 6. **strings.po** - The names of the buttons
 
@@ -59,7 +59,7 @@ Opaque image of the controller. This should be the transparent image against [ba
 
 ## layout.xml
 
-This file describes the button layout. The root `<layout>` tag contains the following attributes:
+This file describes the button layout and topology (how controllers connect to each other). The root `<layout>` tag contains the following attributes:
 
 1. Path to layout.png
 2. Path to mask.png
@@ -247,6 +247,20 @@ menu |
 power | Power Macintosh power key
 euro | Some European keyboards
 undo | Atari keyboard has Undo
+
+### Topology
+
+The topology is given by the `<physicaltopology>` tag. This allows for hubs and daisy-chaining. It describes the physical connections possible for this controller.
+
+Controller topologies have the following properties:
+
+1. Whether the controller provides input - true for controllers, false for hubs
+2. List of ports on the device
+
+A port contains:
+
+1. Port ID (used in Kodi's Game API)
+2. List of controllers that the port accepts
 
 ## strings.po
 
