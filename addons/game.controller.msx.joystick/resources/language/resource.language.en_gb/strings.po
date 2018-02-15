@@ -21,11 +21,11 @@ msgid "MSX Joystick"
 msgstr ""
 
 msgctxt "#30001"
-msgid "A"
+msgid "Button 1"
 msgstr ""
 
 msgctxt "#30002"
-msgid "B"
+msgid "Button 2"
 msgstr ""
 
 msgctxt "#30003"
