@@ -12,7 +12,7 @@
   </category>
   <physicaltopology providesinput="true">
     <port id="1">
-      <accepts controller="game.controller.konami.justifier.pink"/>
+      <accepts controller="game.controller.konami.justifier.player2"/>
     </port>
   </physicaltopology>
 </layout>
