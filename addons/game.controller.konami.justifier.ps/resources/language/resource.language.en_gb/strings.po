@@ -29,9 +29,13 @@ msgid "Start"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Offscreen"
+msgid "Aux"
 msgstr ""
 
 msgctxt "#30004"
+msgid "Offscreen"
+msgstr ""
+
+msgctxt "#30005"
 msgid "Crosshair"
 msgstr ""
