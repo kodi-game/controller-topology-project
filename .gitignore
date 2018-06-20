@@ -1,2 +1,13 @@
+# Python ignorables
+__pycache__
 *.py[co]
+
+# Eclipse ignorables
+.*project
+.settings/
+
+# PyCharm ignorables
+.idea
+
+# OSX ignorables
 .DS_Store
