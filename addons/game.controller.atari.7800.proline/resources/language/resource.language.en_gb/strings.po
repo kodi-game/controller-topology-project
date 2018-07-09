@@ -57,9 +57,9 @@ msgid "Pause"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Left Difficulty A"
+msgid "Left Difficulty"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Right Difficulty B"
+msgid "Right Difficulty"
 msgstr ""
