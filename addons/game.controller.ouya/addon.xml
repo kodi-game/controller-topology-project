@@ -3,8 +3,6 @@
         name="OUYA Controller"
         version="1.0.0"
         provider-name="Quihico">
-    <requires>
-    </requires>
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">OUYA controller</summary>
