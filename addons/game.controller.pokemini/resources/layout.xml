@@ -11,6 +11,8 @@
   </category>
   <category name="shoulder" label="35075">
     <button name="c" type="digital" label="30008"/>
+  </category>
+  <category name="hardware" label="35108">
     <button name="shake" type="digital" label="30009"/>
   </category>
 </layout>
