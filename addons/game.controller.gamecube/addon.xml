@@ -6,7 +6,7 @@
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Nintendo GameCube controller</summary>
-        <description lang="en_GB">Released alongside the GameCube console, the standard GameCube controller has a wing grip design. This controller was bundled with all new GameCube systems throughout the consoles life cycle and was also available separately.  The standard GameCube controller provides haptic feedback by way of a built-in rumble motor rather than using an external Rumble Pak add-on like the Nintendo 64 controller. Also unlike its predecessor, this controller does not feature any expansion capabilities.  The controller features a total of six digital buttons, two analog sticks, a d-pad and two hybrid analog triggers/digital buttons.</description>
+        <description lang="en_GB">The Nintendo GameCube controller was released in 2001. The analog sticks and triggers were the target of a patent lawsuit, but Nintendo fought back and successfully won the case.</description>
         <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
         <platform>all</platform>
         <assets>
