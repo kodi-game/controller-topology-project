@@ -17,6 +17,14 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
 "(n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "Computer Mouse"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "A standard mouse with two buttons and a middle wheel."
+msgstr ""
+
 msgctxt "#30000"
 msgid "Computer mouse"
 msgstr ""

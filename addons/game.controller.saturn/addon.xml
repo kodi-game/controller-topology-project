@@ -5,11 +5,11 @@
         provider-name="Team Kodi">
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Sega Saturn controller</summary>
-        <description lang="en_GB">The original controller for the Sega Saturn debuted in Japan in 1994. In North America and Europe, a different, much bulkier controller was released to supposedly accommodate for the &quot;bigger hands&quot; of western consumers.</description>
         <platform>all</platform>
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="en_GB">Sega Saturn controller</summary>
+        <description lang="en_GB">The original controller for the Sega Saturn debuted in Japan in 1994. In North America and Europe, a different, much bulkier controller was released to supposedly accommodate for the &quot;bigger hands&quot; of western consumers.</description>
     </extension>
 </addon>

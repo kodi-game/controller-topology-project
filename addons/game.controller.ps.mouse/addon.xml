@@ -5,11 +5,11 @@
         provider-name="Team Kodi">
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">SNES mouse</summary>
-        <description lang="en_GB">The PlayStation Mouse is a two-button ball mouse. It was released alongside the PlayStation in 1994.</description>
         <platform>all</platform>
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="en_GB">SNES mouse</summary>
+        <description lang="en_GB">The PlayStation Mouse is a two-button ball mouse. It was released alongside the PlayStation in 1994.</description>
     </extension>
 </addon>

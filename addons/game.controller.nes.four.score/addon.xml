@@ -5,12 +5,12 @@
         provider-name="Team Kodi">
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">NES Four Score</summary>
-        <description lang="en_GB">The NES Four Score is a multitap accessory created by Nintendo in 1990. It allows for four-player gameplay.</description>
-        <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
         <platform>all</platform>
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="en_GB">NES Four Score</summary>
+        <description lang="en_GB">The NES Four Score is a multitap accessory created by Nintendo in 1990. It allows for four-player gameplay.</description>
+        <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
     </extension>
 </addon>

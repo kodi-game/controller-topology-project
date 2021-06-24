@@ -5,12 +5,12 @@
         provider-name="Team Kodi">
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Default Controller</summary>
-        <description lang="en_GB">The default media center controller is based on the Xbox 360 controller.</description>
-        <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
         <platform>all</platform>
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="en_GB">Default Controller</summary>
+        <description lang="en_GB">The default media center controller is based on the Xbox 360 controller.</description>
+        <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
     </extension>
 </addon>
