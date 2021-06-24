@@ -5,12 +5,12 @@
         provider-name="Team Kodi">
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">NES controller</summary>
-        <description lang="en_GB">The Nintendo Entertainment System, also known as the Famicom (for "Family Computer"), was released in 1983. The cross-shaped directional pad was designed for Game &amp; Watch systems, replacing the bulkier joysticks found on earlier controllers.</description>
-        <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
         <platform>all</platform>
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="en_GB">NES controller</summary>
+        <description lang="en_GB">The Nintendo Entertainment System, also known as the Famicom (for "Family Computer"), was released in 1983. The cross-shaped directional pad was designed for Game &amp; Watch systems, replacing the bulkier joysticks found on earlier controllers.</description>
+        <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
     </extension>
 </addon>

@@ -17,6 +17,18 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
 "(n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "NES Four Score"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "The NES Four Score is a multitap accessory created by Nintendo in 1990. It allows for four-player gameplay."
+msgstr ""
+
+msgctxt "Addon Disclaimer"
+msgid "Image credit: Wikipedia (wikipedia.org)"
+msgstr ""
+
 msgctxt "#30000"
 msgid "NES Four Score"
 msgstr ""

@@ -5,11 +5,11 @@
         provider-name="Team Kodi">
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Computer Mouse</summary>
-        <description lang="en_GB">A standard mouse with two buttons and a middle wheel.</description>
         <platform>all</platform>
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="en_GB">Computer Mouse</summary>
+        <description lang="en_GB">A standard mouse with two buttons and a middle wheel.</description>
     </extension>
 </addon>

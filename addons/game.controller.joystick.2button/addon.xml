@@ -5,11 +5,11 @@
         provider-name="Team Kodi">
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">PC Joystick (2-Button)</summary>
-        <description lang="en_GB">The 2-button joystick was compatible with the Game Port, a device port found on IBM PCs throughout the 1980s and 1990s.</description>
         <platform>all</platform>
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="en_GB">PC Joystick (2-Button)</summary>
+        <description lang="en_GB">The 2-button joystick was compatible with the Game Port, a device port found on IBM PCs throughout the 1980s and 1990s.</description>
     </extension>
 </addon>

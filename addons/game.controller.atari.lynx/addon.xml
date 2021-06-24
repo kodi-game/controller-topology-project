@@ -5,12 +5,12 @@
         provider-name="Team Kodi">
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Atari Lynx</summary>
-        <description lang="en_GB">The Atari Lynx is a 16-bit handheld gaming console released in 1989.  It held notable accomplishments, including the first handheld with a color LCD, advanced graphics, and ambidextrous layout. However, it was a commercial failure and discontinued in 1995.</description>
-        <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
         <platform>all</platform>
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="en_GB">Atari Lynx</summary>
+        <description lang="en_GB">The Atari Lynx is a 16-bit handheld gaming console released in 1989.  It held notable accomplishments, including the first handheld with a color LCD, advanced graphics, and ambidextrous layout. However, it was a commercial failure and discontinued in 1995.</description>
+        <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
     </extension>
 </addon>

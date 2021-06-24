@@ -17,6 +17,18 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
 "X-Generator: Weblate 4.6.2\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo Virtual Boy controller"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "The Virtual Boy is a 32-bit console released by Nintendo in 1995. While Nintendo promised a virtual reality experience, the red monochrome display and bulky table-mounted headset lead to a poor immersive experience."
+msgstr ""
+
+msgctxt "Addon Disclaimer"
+msgid "Image credit: OpenEmu (openemu.org)"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Nintendo Virtual Boy"
 msgstr ""

@@ -5,11 +5,11 @@
         provider-name="Team Kodi">
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Super Scope</summary>
-        <description lang="en_GB">The Super Scope is a light gun for the SNES. It was released in 1992 as a successor to the NES Zapper.</description>
         <platform>all</platform>
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="en_GB">Super Scope</summary>
+        <description lang="en_GB">The Super Scope is a light gun for the SNES. It was released in 1992 as a successor to the NES Zapper.</description>
     </extension>
 </addon>
