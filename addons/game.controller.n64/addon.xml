@@ -10,7 +10,7 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="en_GB">Nintendo 64 controller</summary>
-        <description lang="en_GB">The Nintendo 64 controller, released in 1996, featured a unique "M" shape design. Intense rotating of the analog stick during Mario Party reportedly caused burn injuries to some players.</description>
+        <description lang="en_GB">The Nintendo 64 controller, released in 1996, featured a unique &quot;M&quot; shape design. Intense rotating of the analog stick during Mario Party reportedly caused burn injuries to some players.</description>
         <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
     </extension>
 </addon>
