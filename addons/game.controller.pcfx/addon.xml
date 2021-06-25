@@ -12,5 +12,6 @@
         <summary lang="en_GB">PC-FX controller</summary>
         <description lang="en_GB">The PC-FX is a 32-bit console released by NEC in 1994. Due to the high cost, underpowered graphics and lack of developer support, it sold poorly and was discontinued in 1998.</description>
         <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
+        <disclaimer lang="es_MX">Créditos de la imagen: OpenEmu (openemu.org)</disclaimer>
     </extension>
 </addon>

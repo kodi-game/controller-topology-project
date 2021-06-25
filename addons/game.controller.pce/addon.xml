@@ -12,5 +12,6 @@
         <summary lang="en_GB">PC Engine controller</summary>
         <description lang="en_GB">The PC Engine, also known as the TurboGrafx-16, was released by Hudson Soft and NEC in 1987. It became the top-selling console in Japan, but trailed behind both Sega and Nintendo in the North American and Eurpoean markets.</description>
         <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
+        <disclaimer lang="es_MX">Créditos de la imagen: OpenEmu (openemu.org)</disclaimer>
     </extension>
 </addon>

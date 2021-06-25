@@ -12,5 +12,6 @@
         <summary lang="en_GB">Vectrex controller</summary>
         <description lang="en_GB">The Vectrex was released in 1982 by General Consumer Electronics (later purchased by Milton Bradley). The console featured a built-in monochrome monitor capable of displaying vector graphics.</description>
         <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
+        <disclaimer lang="es_MX">Créditos de la imagen: OpenEmu (openemu.org)</disclaimer>
     </extension>
 </addon>
