@@ -21,7 +21,7 @@ msgid "Intellivision controller"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "The Intellivision, a portmanteau of "intelligent television", was released by Mattel Electronics in 1979. In 2009, IGN named the Intellivision the 14th greatest console of all time."
+msgid "The Intellivision, a portmanteau of \"intelligent television\", was released by Mattel Electronics in 1979. In 2009, IGN named the Intellivision the 14th greatest console of all time."
 msgstr ""
 
 msgctxt "Addon Disclaimer"

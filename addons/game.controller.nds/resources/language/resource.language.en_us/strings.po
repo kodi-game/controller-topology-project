@@ -21,7 +21,7 @@ msgid "Nintendo DS"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "The Nintendo DS (short for "Dual Screen") is a 32-bit handheld video game console released in 2004. A DS Lite model was launched in 2006, followed by the DSi. Combined, these are the best selling handheld to date, and second best console (behind the PlayStation 2)."
+msgid "The Nintendo DS (short for \"Dual Screen\") is a 32-bit handheld video game console released in 2004. A DS Lite model was launched in 2006, followed by the DSi. Combined, these are the best selling handheld to date, and second best console (behind the PlayStation 2)."
 msgstr ""
 
 msgctxt "Addon Disclaimer"
