@@ -12,5 +12,6 @@
         <summary lang="en_GB">Game Boy</summary>
         <description lang="en_GB">The Nintendo Game Boy is an 8-bit handheld video game console released in 1989. It became a tremendous success, and in 2009 was inducted into the National Toy Hall of Fame.</description>
         <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
+        <disclaimer lang="es_MX">Créditos de la imagen: OpenEmu (openemu.org)</disclaimer>
     </extension>
 </addon>
