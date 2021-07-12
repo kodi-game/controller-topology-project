@@ -10,7 +10,10 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="en_GB">Atari XGES keyboard</summary>
+        <summary lang="es_ES">Teclado Atari XGES</summary>
         <description lang="en_GB">The Atari XGES keyboard was included in the Atari XGES deluxe set, which was released in 1987 by Atari Corporation. Because a keyboard was included, the XGES had home computer functionality.</description>
+        <description lang="es_ES">El teclado Atari XGES se incluía en el paquete Atari XGES deluxe, que se lanzó en 1987 por Atari Corporation. Como incluía un teclado, el XGES tiene funcionalidad de ordenador.</description>
         <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
+        <disclaimer lang="es_ES">Créditos de la imagen: Wikipedia (wikipedia.org)</disclaimer>
     </extension>
 </addon>
