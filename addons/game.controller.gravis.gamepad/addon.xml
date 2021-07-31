@@ -9,7 +9,9 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">Gravis PC Gamepad</summary>
         <summary lang="en_GB">Gravis PC Gamepad</summary>
+        <description lang="da_DK">Gravis gamepad er en controller produceret af Advanced Gravis Computer Technology i 1991. Det var den første gamepad til IBM PC på et marked domineret af joysticks.</description>
         <description lang="en_GB">The Gravis gamepad is a controller produced by Advanced Gravis Computer Technology in 1991. It was the first gamepad for the IBM PC in a market dominated by joysticks.</description>
     </extension>
 </addon>
