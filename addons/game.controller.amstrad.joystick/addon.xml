@@ -9,8 +9,11 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">Amstrad Joystick</summary>
         <summary lang="en_GB">Amstrad Joystick</summary>
+        <description lang="da_DK">De originale Amstrad CPC-modeller havde kun en joystickport. Et Y-kabel kan bruges til at forbinde to joysticks.</description>
         <description lang="en_GB">The original Amstrad CPC models had only one joystick port. A Y-cable can be used to connect two joysticks.</description>
+        <disclaimer lang="da_DK">Kildeangivelse: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="es_ES">Créditos de la imagen: Wikipedia (wikipedia.org)</disclaimer>
     </extension>

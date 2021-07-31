@@ -9,7 +9,9 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">PC joystick (4 knapper)</summary>
         <summary lang="en_GB">PC Joystick (4-Button)</summary>
+        <description lang="da_DK">Joysticket med 4 knapper var kompatibelt med Game Port, en enhedsport, der blev fundet på IBM-pc'er gennem 1980'erne og 1990'erne.</description>
         <description lang="en_GB">The 4-button joystick was compatible with the Game Port, a device port found on IBM PCs throughout the 1980s and 1990s.</description>
     </extension>
 </addon>

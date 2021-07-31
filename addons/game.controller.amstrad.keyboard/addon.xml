@@ -9,8 +9,11 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">Amstrad tastatur</summary>
         <summary lang="en_GB">Amstrad Keyboard</summary>
+        <description lang="da_DK">Amstrad CPC (forkortelse for Color Personal Computer) er en serie 8-bit hjemmecomputere produceret af Amstrad mellem 1984 og 1990.</description>
         <description lang="en_GB">The Amstrad CPC (short for Colour Personal Computer) is a series of 8-bit home computers produced by Amstrad between 1984 and 1990.</description>
+        <disclaimer lang="da_DK">Kildeangivelse: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="es_ES">Créditos de la imagen: Wikipedia (wikipedia.org)</disclaimer>
     </extension>
