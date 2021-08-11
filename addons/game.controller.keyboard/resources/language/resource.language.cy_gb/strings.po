@@ -17,11 +17,11 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
 msgctxt "Addon Summary"
-msgid "IMB Model M keyboard"
+msgid "IBM Model M keyboard"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "The IMB Model M keyboard, introduced in 1984, is regarded as a timeless and durable piece of hardware."
+msgid "The IBM Model M keyboard, introduced in 1984, is regarded as a timeless and durable piece of hardware."
 msgstr ""
 
 msgctxt "Addon Disclaimer"
