@@ -10,9 +10,12 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="en_GB">IBM Model M keyboard</summary>
+        <summary lang="ru_RU">Клавиатура IBM Model M</summary>
         <description lang="en_GB">The IBM Model M keyboard, introduced in 1984, is regarded as a timeless and durable piece of hardware.</description>
+        <description lang="ru_RU">Клавиатура IBM Model M, выпущена в 1984, и считаестся долговечным изделием, неподвластным временем.</description>
         <disclaimer lang="da_DK">Kildeangivelse: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="es_ES">Créditos de la imagen: Wikipedia (wikipedia.org)</disclaimer>
+        <disclaimer lang="ru_RU">Источник изображения: Wikipedia (wikipedia.org)</disclaimer>
     </extension>
 </addon>

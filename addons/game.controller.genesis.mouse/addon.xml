@@ -11,7 +11,9 @@
         </assets>
         <summary lang="da_DK">Sega mus</summary>
         <summary lang="en_GB">Sega Mouse</summary>
+        <summary lang="ru_RU">Мышь Sega</summary>
         <description lang="da_DK">Sega mus er en kuglemus til Sega Mega Drive/Genesis udgivet i 1993. Den var beregnet til at blive brugt til software til kunstskabelse.</description>
         <description lang="en_GB">The Sega Mouse is a ball mouse for the Sega Mega Drive/Genesis released in 1993. It was intended to be used for art creation software.</description>
+        <description lang="ru_RU">Мышь Sega - шариковая мышь для Sega Mega Drive/Genesis, выпущенная в 1993. Она предназначалась для использования в художественных программах.</description>
     </extension>
 </addon>
