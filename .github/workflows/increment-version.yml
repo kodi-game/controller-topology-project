@@ -43,9 +43,9 @@ jobs:
       - name: Create PR for incremented versions
         uses: peter-evans/create-pull-request@v3.10.0
         with:
-          commit-message: Language add-on versions incremented
-          title: Language add-on versions incremented
-          body: Language add-on versions incrementing triggered by ${{ github.sha }}
+          commit-message: Controller add-on versions incremented
+          title: Controller add-on versions incremented
+          body: Controller add-on versions incrementing triggered by ${{ github.sha }}
           branch: inc-ver
           delete-branch: true
           path: ./${{ github.event.repository.name }}
