@@ -10,6 +10,8 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="en_GB">Computer Mouse</summary>
+        <summary lang="ru_RU">Компьютерная мышь</summary>
         <description lang="en_GB">A standard mouse with two buttons and a middle wheel.</description>
+        <description lang="ru_RU">Стандартная компьютерная мышь с двумя кнопками и с колесом посередине.</description>
     </extension>
 </addon>
