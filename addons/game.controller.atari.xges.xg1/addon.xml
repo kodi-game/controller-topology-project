@@ -9,7 +9,9 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">Atari XG-1 lightgun</summary>
         <summary lang="en_GB">Atari XG-1 lightgun</summary>
+        <description lang="da_DK">Atari XG-1 er den light gun, der fulgte med Atari XEGS, en spillekonsol udgivet i 1987. Mange brugere klagede over apparatets frygtelige nøjagtighed.</description>
         <description lang="en_GB">The Atari XG-1 is the light gun that came bundled with the Atari XEGS, a game console released in 1987. Many users complained of the horrible accuracy of the device.</description>
         <disclaimer lang="da_DK">Kildeangivelse: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
