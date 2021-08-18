@@ -9,8 +9,10 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">MSX Tastatur</summary>
         <summary lang="en_GB">MSX Keyboard</summary>
         <summary lang="ru_RU">Клавиатура MSX</summary>
+        <description lang="da_DK">MSX-tastaturet blev lavet i interne og eksterne enheder. Et tip til fejlfinding, når en MSX-maskine ikke viser et billede, er at trykke gentagne gange på CAPS-tasten for at se om LED'en skifter.</description>
         <description lang="en_GB">The MSX keyboard came in internal and external units. One troubleshooting hint when an MSX machine does not display an image is to press the CAPS key repeatedly to see if the LED toggles.</description>
         <disclaimer lang="da_DK">Kildeangivelse: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>

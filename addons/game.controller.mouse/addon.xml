@@ -9,8 +9,10 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">Computermus</summary>
         <summary lang="en_GB">Computer Mouse</summary>
         <summary lang="ru_RU">Компьютерная мышь</summary>
+        <description lang="da_DK">En standardmus med to knapper og et hjul i midten.</description>
         <description lang="en_GB">A standard mouse with two buttons and a middle wheel.</description>
         <description lang="ru_RU">Стандартная компьютерная мышь с двумя кнопками и с колесом посередине.</description>
     </extension>

@@ -9,8 +9,11 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">MSX Joystick</summary>
         <summary lang="en_GB">MSX Joystick</summary>
+        <description lang="da_DK">MSX-joysticket havde A- og B-knapper og firevejs retningskontrol.</description>
         <description lang="en_GB">The MSX joystick featured A and B buttons and four-way directional control.</description>
+        <disclaimer lang="da_DK">Kildeangivelse: Laurens Holst (www.grauw.nl)</disclaimer>
         <disclaimer lang="en_GB">Image credit: Laurens Holst (www.grauw.nl)</disclaimer>
     </extension>
 </addon>
