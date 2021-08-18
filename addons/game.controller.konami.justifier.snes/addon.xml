@@ -9,7 +9,9 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">Konami Justifier (SNES)</summary>
         <summary lang="en_GB">Konami Justifier (SNES)</summary>
+        <description lang="da_DK">Justifer er en light gun udgivet af Konami i 1992 til Sega Mega Drive/Genesis, SNES og PlayStation. Det ligner Colt Python, en .357 Magnum-revolver.</description>
         <description lang="en_GB">The Justifer is a light gun released by Konami in 1992 for the Sega Mega Drive/Genesis, SNES and PlayStation. It resembles the Colt Python, a .357 Magnum revolver.</description>
     </extension>
 </addon>

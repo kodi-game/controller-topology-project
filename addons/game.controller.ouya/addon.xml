@@ -10,7 +10,9 @@
             <icon>resources/icon.png</icon>
             <fanart>resources/fanart.jpg</fanart>
         </assets>
+        <summary lang="da_DK">OUYA controller</summary>
         <summary lang="en_GB">OUYA controller</summary>
+        <description lang="da_DK">OUYA er en crowd-funded Android-baseret mikrokonsol udgivet i 2013. OUYA-controlleren indeholder en enkelt berøringsplade i midten af controlleren.</description>
         <description lang="en_GB">The OUYA is a crowd-funded Android-based microconsole released in 2013. The OUYA controller includes a single-touch touchpad in the center of the controller.</description>
     </extension>
 </addon>

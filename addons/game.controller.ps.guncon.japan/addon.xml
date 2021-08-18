@@ -9,7 +9,9 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">PlayStation Guncon (Japan)</summary>
         <summary lang="en_GB">PlayStation Guncon (Japan)</summary>
+        <description lang="da_DK">Guncon, kendt som G-Con i Europa, er en familie af light guns designet af Namco til PlayStation. Den originale model blev udgivet sammen med PlayStation i 1994.</description>
         <description lang="en_GB">The Guncon, known as G-Con in Europe, is a family of light guns designed by Namco for the PlayStation. The original model was released alongside the PlayStation in 1994.</description>
     </extension>
 </addon>
