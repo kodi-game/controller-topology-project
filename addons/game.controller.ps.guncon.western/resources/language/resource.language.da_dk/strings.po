@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.controller.ps.guncon.western\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2021-08-18 16:16+0000\n"
+"PO-Revision-Date: 2021-08-19 23:36+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Danish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-controller-ps-guncon-western/da_dk/>\n"
 "Language: da_dk\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "PlayStation Guncon (Western)"
-msgstr ""
+msgstr "PlayStation Guncon (Western)"
 
 msgctxt "Addon Description"
 msgid "The Guncon, known as G-Con in Europe, is a family of light guns designed by Namco for the PlayStation. The original model was released alongside the PlayStation in 1994."
@@ -27,7 +27,7 @@ msgstr "Guncon, kendt som G-Con i Europa, er en familie af light guns designet a
 
 msgctxt "#30000"
 msgid "PlayStation Guncon (Western)"
-msgstr ""
+msgstr "PlayStation Guncon (Western)"
 
 msgctxt "#30001"
 msgid "Trigger"
