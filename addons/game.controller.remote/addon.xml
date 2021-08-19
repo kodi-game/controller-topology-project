@@ -9,7 +9,9 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">Tv-fjernbetjening</summary>
         <summary lang="en_GB">TV Remote</summary>
+        <description lang="da_DK">En tv-fjernbetjening med grundlæggende navigationsmuligheder.</description>
         <description lang="en_GB">A TV remote with basic navigational capabilities.</description>
     </extension>
 </addon>

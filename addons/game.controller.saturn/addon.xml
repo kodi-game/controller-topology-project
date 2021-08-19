@@ -9,7 +9,9 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">Sega Saturn controller</summary>
         <summary lang="en_GB">Sega Saturn controller</summary>
+        <description lang="da_DK">Den originale controller til Sega Saturn debuterede i Japan i 1994. I Nordamerika og Europa blev der udgivet en anderledes, meget større controller for angiveligt at tage hensyn til vestlige forbrugeres &quot;større hænder&quot;.</description>
         <description lang="en_GB">The original controller for the Sega Saturn debuted in Japan in 1994. In North America and Europe, a different, much bulkier controller was released to supposedly accommodate for the &quot;bigger hands&quot; of western consumers.</description>
     </extension>
 </addon>
