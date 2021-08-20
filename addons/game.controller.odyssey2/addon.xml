@@ -9,7 +9,9 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">Odyssey² controller</summary>
         <summary lang="en_GB">Odyssey² controller</summary>
+        <description lang="da_DK">Odyssey², også kendt som Videopac G7000, blev udgivet af Magnavox (nu Philips) i 1978. Alle spil produceret af Magnavox/Philips endte med et udråbstegn, såsom K.C. Munchkin! og Kuller Bees!.</description>
         <description lang="en_GB">The Odyssey², also known as the Videopac G7000, was released by Magnavox (now Philips) in 1978. All games produced by Magnavox/Philips ended with an exclamation point, such as K.C. Munchkin! and Kuller Bees!.</description>
         <disclaimer lang="da_DK">Kildeangivelse: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
