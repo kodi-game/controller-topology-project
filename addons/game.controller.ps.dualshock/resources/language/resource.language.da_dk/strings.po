@@ -22,7 +22,7 @@ msgid "PlayStation DualShock"
 msgstr "PlayStation DualShock"
 
 msgctxt "Addon Description"
-msgid "The PlayStation Controller was released by Sony Computer Entertainment in 1994. Sony briefly released the Dual Analog controller in 1997, followed by the rumble-enabled DualShock later that year."
+msgid "The PlayStation controller was released by Sony Computer Entertainment in 1994. Sony briefly released the Dual Analog controller in 1997, followed by the rumble-enabled DualShock later that year."
 msgstr "PlayStation-controlleren blev udgivet af Sony Computer Entertainment i 1994. Sony frigav kortvarigt DObbel Analog-controlleren i 1997, efterfulgt af den rumble-aktiverede DualShock senere samme år."
 
 msgctxt "#30000"
