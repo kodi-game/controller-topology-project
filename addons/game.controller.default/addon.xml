@@ -16,6 +16,7 @@
         <summary lang="es_ES">Mando por defecto</summary>
         <summary lang="fa_IR">دستهٔ پیش‌گزیده</summary>
         <summary lang="he_IL">בקר בררת מחדל</summary>
+        <summary lang="hu_HU">Alap kontroller</summary>
         <summary lang="ko_KR">기본 콘트롤러</summary>
         <summary lang="lt_LT">Numatytasis valdiklis</summary>
         <summary lang="nl_NL">Standaard Controller</summary>
@@ -31,6 +32,7 @@
         <description lang="es_ES">El mando por defecto del media center está basado en el mando de Xbox 360.</description>
         <description lang="fa_IR">دستهٔ پیش‌گزیدهٔ مرکز رسانه، بر پایهٔ دستهٔ اکس‌باکس ۳۶۰ است.</description>
         <description lang="he_IL">בקר בררת המחדל של מרכז המדיה מבוסס על הבקר של Xbox 360.</description>
+        <description lang="hu_HU">Az alapértelmezett médiaközpont -vezérlő az Xbox 360 vezérlőn alapul.</description>
         <description lang="ko_KR">기본 미디어 센터 컨트롤러는 Xbox 360 컨트롤러를 기반으로 합니다.</description>
         <description lang="lt_LT">Numatytasis media centro valdiklis yra paremtas Xbox 360 valdikliu.</description>
         <description lang="pl_PL">Domyślny kontroler centrum multimedialnego jest oparty na kontrolerze Xbox 360.</description>
@@ -45,6 +47,7 @@
         <disclaimer lang="es_ES">Crédito de la imagen: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="fa_IR">اعتبار تصویر: ویکی‌پدیا (wikipedia.org)</disclaimer>
         <disclaimer lang="he_IL">זכויות על התמונה: ויקיפדיה (wikipedia.org)</disclaimer>
+        <disclaimer lang="hu_HU">Kép credit: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="ko_KR">이미지 제공: Wikipedia(wikipedia.org)</disclaimer>
         <disclaimer lang="lt_LT">Atvaizdo šaltinis: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="nl_NL">Bron afbeelding: Wikipedia (wikipedia.org)</disclaimer>
