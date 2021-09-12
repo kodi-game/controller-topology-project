@@ -14,6 +14,7 @@
         <summary lang="de_DE">Standard-Controller</summary>
         <summary lang="en_GB">Default Controller</summary>
         <summary lang="es_ES">Mando por defecto</summary>
+        <summary lang="es_MX">Mando por defecto</summary>
         <summary lang="fa_IR">دستهٔ پیش‌گزیده</summary>
         <summary lang="he_IL">בקר בררת מחדל</summary>
         <summary lang="hu_HU">Alap kontroller</summary>
@@ -30,6 +31,7 @@
         <description lang="de_DE">Der Standard-Mediacenter-Controller basiert auf dem Xbox 360 Controller.</description>
         <description lang="en_GB">The default media center controller is based on the Xbox 360 controller.</description>
         <description lang="es_ES">El mando por defecto del media center está basado en el mando de Xbox 360.</description>
+        <description lang="es_MX">El mando por defecto de Kodi se basa en el control de Xbox 360.</description>
         <description lang="fa_IR">دستهٔ پیش‌گزیدهٔ مرکز رسانه، بر پایهٔ دستهٔ اکس‌باکس ۳۶۰ است.</description>
         <description lang="he_IL">בקר בררת המחדל של מרכז המדיה מבוסס על הבקר של Xbox 360.</description>
         <description lang="hu_HU">Az alapértelmezett médiaközpont -vezérlő az Xbox 360 vezérlőn alapul.</description>
@@ -45,6 +47,7 @@
         <disclaimer lang="de_DE">Bildnachweis: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="es_ES">Crédito de la imagen: Wikipedia (wikipedia.org)</disclaimer>
+        <disclaimer lang="es_MX">Crédito de la imagen: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="fa_IR">اعتبار تصویر: ویکی‌پدیا (wikipedia.org)</disclaimer>
         <disclaimer lang="he_IL">זכויות על התמונה: ויקיפדיה (wikipedia.org)</disclaimer>
         <disclaimer lang="hu_HU">Kép credit: Wikipedia (wikipedia.org)</disclaimer>
