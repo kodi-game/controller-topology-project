@@ -11,7 +11,9 @@
         </assets>
         <summary lang="da_DK">Tv-fjernbetjening</summary>
         <summary lang="en_GB">TV Remote</summary>
+        <summary lang="zh_CN">电视遥控器</summary>
         <description lang="da_DK">En tv-fjernbetjening med grundlæggende navigationsmuligheder.</description>
         <description lang="en_GB">A TV remote with basic navigational capabilities.</description>
+        <description lang="zh_CN">具有基本导航功能的电视遥控器。</description>
     </extension>
 </addon>

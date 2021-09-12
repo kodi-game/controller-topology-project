@@ -11,6 +11,8 @@
         </assets>
         <summary lang="da_DK">SNES mus</summary>
         <summary lang="en_GB">SNES mouse</summary>
+        <summary lang="zh_CN">SNES 鼠标</summary>
         <description lang="en_GB">The SNES mouse was first released in 1992. It was originally designed for use with the game Mario Paint.</description>
+        <description lang="zh_CN">SNES 鼠标于1992年首次发布。它最初针游戏马里奥画板而设计的。</description>
     </extension>
 </addon>
