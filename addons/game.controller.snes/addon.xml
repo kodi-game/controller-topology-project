@@ -14,7 +14,9 @@
         <summary lang="de_DE">SNES-Controller</summary>
         <summary lang="en_GB">SNES controller</summary>
         <summary lang="es_ES">Mando SNES</summary>
+        <summary lang="es_MX">Control de SNES</summary>
         <summary lang="fa_IR">دستهٔ SNES</summary>
+        <summary lang="fi_FI">SNES ohjain</summary>
         <summary lang="he_IL">בקר SNES</summary>
         <summary lang="hu_HU">SNES kontroller</summary>
         <summary lang="ko_KR">SNES 컨트롤러</summary>
@@ -29,7 +31,9 @@
         <description lang="de_DE">SNES (auch bekannt als Super NES oder Super Nintendo) ist eine 1990 veröffentlichte 16-bit Konsole. Das Controller-Design diente als Inspiration für die Controller von Playstation, Dreamcast, Xbox und Wii Classic.</description>
         <description lang="en_GB">The SNES (akso known as Super NES or Super Nintendo) is a 16-bit console released in 1990. The controller design served as inspiration for the PlayStation, Dreamcast, Xbox and Wii Classic controllers.</description>
         <description lang="es_ES">La SNES (tambiíen conocida como Super NES o Super Nintendo) es una consola de 16-bit lanzada en 1990. El diseño de su mando sirvió de inspiracion para la PlayStation, Dreamcast, Xbox y los Mandos Clásicos de Wii.</description>
+        <description lang="es_MX">La SNES (también conocida como Super NES o Super Nintendo) es una consola de 16-bit lanzada en 1990. El diseño del control sirvió como inspiración para los controles de PlayStation, Dreamcast, Xbox, y de la Wii Classic.</description>
         <description lang="fa_IR">اس‌نس (SNES که به نام‌های سوپر NES و سوپر نینتندو هم شناخته می‌شود) کنسولی ۱۶بیتی است که در ۱۳۶۷ ارائه شد. طرّاحی دسته‌اش، الهامی برای دسته‌های پلی‌استیشن، دریم‌کست، اکس‌باکس و وی بود.</description>
+        <description lang="fi_FI">SNES (tunnetaan myös nimellä Super NES tai Super Nintendo) on 16-bittinen konsoli, joka julkaistiin vuonna 1990. Ohjaimen suunnittelu toimi inspiraationa PlayStation-, Dreamcast-, Xbox- ja Wii Classic -ohjaimille.</description>
         <description lang="he_IL">SNES (ידוע גם בשם סופר NES או סופר נינטנדו) היא מערכת משחקים ב־16 סיביות שיצאה לאור ב־1990. עיצוב הבקר שימש השראה לבקרים של PlayStation,‏ Dreamcast,‏ Xbox ו־Wii Classic.</description>
         <description lang="hu_HU">A SNES (más néven Super NES vagy Super Nintendo) egy 1990-ben kiadott 16 bites konzol. A vezérlő kialakítása inspirációt jelentett a PlayStation, a Dreamcast, az Xbox és a Wii Classic vezérlőkhöz.</description>
         <description lang="ko_KR">SNES(Super NES 또는 슈퍼 닌텐도라고도 함)는 1990년에 출시된 16비트 콘솔입니다. 컨트롤러 디자인은 PlayStation, Dreamcast, Xbox 및 Wii 클래식 컨트롤러에 영감을 주었습니다.</description>
@@ -45,6 +49,7 @@
         <disclaimer lang="de_DE">Bildnachweis: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="es_ES">Crédito de la imagen: OpenEmu (openemu.org)</disclaimer>
+        <disclaimer lang="es_MX">Créditos de la imagen: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="fa_IR">اعتبار تصویر: openemu.org</disclaimer>
         <disclaimer lang="he_IL">זכויות על התמונה: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="hu_HU">Kép credit: OpenEmu (openemu.org)</disclaimer>

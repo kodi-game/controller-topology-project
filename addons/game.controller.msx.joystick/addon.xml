@@ -11,9 +11,12 @@
         </assets>
         <summary lang="da_DK">MSX Joystick</summary>
         <summary lang="en_GB">MSX Joystick</summary>
+        <summary lang="zh_CN">MSX 游戏杆</summary>
         <description lang="da_DK">MSX-joysticket havde A- og B-knapper og firevejs retningskontrol.</description>
         <description lang="en_GB">The MSX joystick featured A and B buttons and four-way directional control.</description>
+        <description lang="zh_CN">MSX 游戏杆具有 A 和 B 按钮以及四向方向控制功能。</description>
         <disclaimer lang="da_DK">Kildeangivelse: Laurens Holst (www.grauw.nl)</disclaimer>
         <disclaimer lang="en_GB">Image credit: Laurens Holst (www.grauw.nl)</disclaimer>
+        <disclaimer lang="zh_CN">图片来源：Laurens Holst（www.grauw.nl）</disclaimer>
     </extension>
 </addon>
