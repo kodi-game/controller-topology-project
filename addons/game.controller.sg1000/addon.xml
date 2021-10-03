@@ -9,6 +9,7 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">Sega SG-1000 controller</summary>
         <summary lang="en_GB">Sega SG-1000 controller</summary>
         <summary lang="zh_CN">世嘉 SG-1000 控制器</summary>
         <description lang="en_GB">The SG-1000, also known as the Computer Videogame SG-1000, was Sega's first entry into the console business in 1983. However, due to market saturation and the Video Game Crash of 1983, it was not commercially successful.</description>

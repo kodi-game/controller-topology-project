@@ -9,6 +9,7 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">Nintendo Virtual Boy controller</summary>
         <summary lang="en_GB">Nintendo Virtual Boy controller</summary>
         <summary lang="zh_CN">任天堂 Virtual Boy 控制器</summary>
         <description lang="en_GB">The Virtual Boy is a 32-bit console released by Nintendo in 1995. While Nintendo promised a virtual reality experience, the red monochrome display and bulky table-mounted headset lead to a poor immersive experience.</description>
