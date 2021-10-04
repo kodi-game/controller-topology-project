@@ -2,7 +2,9 @@
 
 "Topology" is the way in which things are connected. Connections appear in emulation in several ways. For example, buttons on modern controllers map to buttons on retro controllers.
 
-As another example, SNES supports hubs called "multitaps". These allow four controllers to connect to a single port on the SNES console. This project aims to curate connections like this for all gaming history.
+As another example, SNES supports hubs called "multitaps". These allow four controllers to connect to a single port on the SNES console.
+
+This project aims to curate connections like this for all gaming history.
 
 ## Topology types
 
