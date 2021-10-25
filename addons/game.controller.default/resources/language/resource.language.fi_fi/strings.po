@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2021-10-20 04:28+0000\n"
+"PO-Revision-Date: 2021-10-25 09:12+0000\n"
 "Last-Translator: G0mez82 <jalehto_99@hotmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-core/game-controller-default/fi_fi/>\n"
 "Language: fi_fi\n"
@@ -85,15 +85,13 @@ msgctxt "#30013"
 msgid "Left"
 msgstr "Vasen"
 
-#, fuzzy
 msgctxt "#30014"
 msgid "Left Shoulder"
-msgstr "Vasen Bumper"
+msgstr "Vasen olkanäppäin"
 
-#, fuzzy
 msgctxt "#30015"
 msgid "Right Shoulder"
-msgstr "Oikea Bumper"
+msgstr "Oikea olkanäppäin"
 
 msgctxt "#30016"
 msgid "Left Trigger"
