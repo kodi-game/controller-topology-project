@@ -21,7 +21,7 @@ msgid "Amiga CD³² controller"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "The Amiga CD³² is a 32-bit home video game console released by Commodore in 1993. It was discontinued as Commodore went into bankruptcy."
+msgid "The Amiga CD³² is a 32-bit console released by Commodore in 1993. The Amiga CD³² is also compatible with most controllers from the '80s and '90s."
 msgstr ""
 
 msgctxt "Addon Disclaimer"
