@@ -17,8 +17,10 @@
         <summary lang="es_MX">Mando por defecto</summary>
         <summary lang="fa_IR">دستهٔ پیش‌گزیده</summary>
         <summary lang="fi_FI">Oletusohjain</summary>
+        <summary lang="fr_FR">Manette par défaut</summary>
         <summary lang="he_IL">בקר בררת מחדל</summary>
         <summary lang="hu_HU">Alap kontroller</summary>
+        <summary lang="id_ID">Kontrol Bawaan</summary>
         <summary lang="ko_KR">기본 콘트롤러</summary>
         <summary lang="lt_LT">Numatytasis valdiklis</summary>
         <summary lang="nl_NL">Standaard Controller</summary>
@@ -36,8 +38,10 @@
         <description lang="es_MX">El mando por defecto de Kodi se basa en el control de Xbox 360.</description>
         <description lang="fa_IR">دستهٔ پیش‌گزیدهٔ مرکز رسانه، بر پایهٔ دستهٔ اکس‌باکس ۳۶۰ است.</description>
         <description lang="fi_FI">Mediakeskuksen oletusohjain perustuu Xbox 360 ohjaimeen.</description>
+        <description lang="fr_FR">La manette par défaut du centre multimedia est basée sur la manette de la Xbox 360.</description>
         <description lang="he_IL">בקר בררת המחדל של מרכז המדיה מבוסס על הבקר של Xbox 360.</description>
         <description lang="hu_HU">Az alapértelmezett médiaközpont -vezérlő az Xbox 360 vezérlőn alapul.</description>
+        <description lang="id_ID">Pengontrol pusat media default didasarkan pada pengontrol Xbox 360.</description>
         <description lang="ko_KR">기본 미디어 센터 컨트롤러는 Xbox 360 컨트롤러를 기반으로 합니다.</description>
         <description lang="lt_LT">Numatytasis media centro valdiklis yra paremtas Xbox 360 valdikliu.</description>
         <description lang="pl_PL">Domyślny kontroler centrum multimedialnego jest oparty na kontrolerze Xbox 360.</description>
@@ -52,8 +56,10 @@
         <disclaimer lang="es_ES">Crédito de la imagen: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="es_MX">Crédito de la imagen: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="fa_IR">اعتبار تصویر: ویکی‌پدیا (wikipedia.org)</disclaimer>
+        <disclaimer lang="fr_FR">Crédit Image : Wikipédia (wikipedia.org)</disclaimer>
         <disclaimer lang="he_IL">זכויות על התמונה: ויקיפדיה (wikipedia.org)</disclaimer>
         <disclaimer lang="hu_HU">Kép credit: Wikipedia (wikipedia.org)</disclaimer>
+        <disclaimer lang="id_ID">Sumber gambar: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="ko_KR">이미지 제공: Wikipedia(wikipedia.org)</disclaimer>
         <disclaimer lang="lt_LT">Atvaizdo šaltinis: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="nl_NL">Bron afbeelding: Wikipedia (wikipedia.org)</disclaimer>
@@ -61,7 +67,7 @@
         <disclaimer lang="pl_PL">Pochodzenie obrazu: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="pt_BR">Crédito da imagem: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="ru_RU">Источник изображения: Wikipedia (wikipedia.org)</disclaimer>
-        <disclaimer lang="zh_CN">图片来源：维基百科 (Wikipedia.org)</disclaimer>
+        <disclaimer lang="zh_CN">图片来源：维基百科（Wikipedia.org）</disclaimer>
         <disclaimer lang="zh_TW">圖片來源：維基百科 (wikipedia.org)</disclaimer>
     </extension>
 </addon>

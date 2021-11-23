@@ -9,8 +9,12 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="da_DK">Amiga CD³² controller</summary>
         <summary lang="en_GB">Amiga CD³² controller</summary>
+        <description lang="da_DK">Amiga CD³² er en 32-bit konsol udgivet af Commodore i 1993. Amiga CD³² er også kompatibel med de fleste controllere fra 80'erne og 90'erne.</description>
         <description lang="en_GB">The Amiga CD³² is a 32-bit console released by Commodore in 1993. The Amiga CD³² is also compatible with most controllers from the '80s and '90s.</description>
+        <disclaimer lang="da_DK">Kildeangivelse: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
+        <disclaimer lang="zh_CN">图片来源：维基百科（Wikipedia.org）</disclaimer>
     </extension>
 </addon>
