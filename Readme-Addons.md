@@ -43,7 +43,7 @@ Transparent image of the controller. Recommended size 1024x1024.
 
 Unused currently. Same dimensions as layout.png.
 
-Possible use of this is to [generate a costmap for automatic line placement](https://forum.kodi.tv/showthread.php?tid=211138&pid=1932869#pid1932869).
+Possible use of this is to [generate a costmap for automatic line placement](scripts).
 
 ## icon.png
 
