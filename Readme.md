@@ -6,6 +6,8 @@ As another example, SNES supports hubs called "multitaps". These allow four cont
 
 This project aims to curate connections like this for all gaming history.
 
+For a practical example of what be done with this data, see the [visualization experiment](scripts).
+
 ## Data specification
 
 This database is structed for Kodi. A future script might spit out XML, JSON or JSON-LD, to allow for database queries.
