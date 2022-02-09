@@ -10,6 +10,6 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="en_GB">Sega Dreamcast controller</summary>
-        <description lang="en_GB">The Sega Dreamcast was released in 1998. The inclusion of an analog stick reflected the transition from 2D arcade games to 3D game environments. The Dreamcast had a short lifespan and marked the end of Sega's 18 years in the console market.</description>
+        <description lang="en_GB">The Sega Dreamcast was released in 1998. The inclusion of an analog stick reflected the transition from 2D arcade games to 3D game environments. The Dreamcast had a short lifespan and marked the end of Sega&apos;s 18 years in the console market.</description>
     </extension>
 </addon>
