@@ -17,7 +17,6 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 4.10.1\n"
 
-#, fuzzy
 msgctxt "Addon Summary"
 msgid "SNES controller"
 msgstr "SNES controller"
@@ -30,6 +29,7 @@ msgctxt "Addon Disclaimer"
 msgid "Image credit: OpenEmu (openemu.org)"
 msgstr "Zdroj obrázka: OpenEmu (openemu.org)"
 
+#, fuzzy
 #, fuzzy
 msgctxt "#30000"
 msgid "Super Nintendo"
