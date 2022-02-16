@@ -9,6 +9,7 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="be_BY">Прадвызначаны кантролер</summary>
         <summary lang="bs_BA">Zadani Džojstik</summary>
         <summary lang="ca_ES">Comandament per defecte</summary>
         <summary lang="da_DK">Standard controller</summary>
@@ -35,6 +36,7 @@
         <summary lang="tr_TR">Varsayılan Denetimci</summary>
         <summary lang="zh_CN">默认控制器</summary>
         <summary lang="zh_TW">預設控制器</summary>
+        <description lang="be_BY">Прадвызначаны кантролер на аснове кантролера Xbox 360.</description>
         <description lang="bs_BA">Zadani džojstik za medijski centar je baziran na Xbox 360 džojstik.</description>
         <description lang="ca_ES">El comandament predeterminat del centre multimèdia es basa en el comandament d&apos;Xbox 360.</description>
         <description lang="da_DK">Mediecentrets standardcontroller er baseret på Xbox 360-controlleren.</description>
@@ -59,6 +61,7 @@
         <description lang="tr_TR">Varsayılan ortam merkezi denetimcisi, Xbox 360 denetimcisini temel alır.</description>
         <description lang="zh_CN">默认媒体中心控制器基于 Xbox 360 控制器。</description>
         <description lang="zh_TW">預設的媒體中心控制器佈局是以Xbox 360控制器為基礎。</description>
+        <disclaimer lang="be_BY">Крыніца выяў: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="bs_BA">Zasluga za sliku: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="ca_ES">Crèdit de la imatge: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="da_DK">Kildeangivelse: Wikipedia (wikipedia.org)</disclaimer>
