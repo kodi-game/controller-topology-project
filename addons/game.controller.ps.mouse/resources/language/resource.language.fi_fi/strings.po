@@ -17,7 +17,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.13\n"
 
-#, fuzzy
 msgctxt "Addon Summary"
 msgid "SNES mouse"
 msgstr "Playstation-hiiri"
@@ -26,6 +25,7 @@ msgctxt "Addon Description"
 msgid "The PlayStation Mouse is a two-button ball mouse. It was released alongside the PlayStation in 1994."
 msgstr "Playstation-hiiri on kahdella painikkeella varustettu pallohiiri. Se julkaistiin PlayStationin rinnalla vuonna 1994."
 
+#, fuzzy
 msgctxt "#30000"
 msgid "PlayStation Mouse"
 msgstr "Playstation-hiiri"
