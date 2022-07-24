@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2022-07-08 17:12+0000\n"
+"PO-Revision-Date: 2022-07-24 08:15+0000\n"
 "Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-controller-keyboard/fi_fi/>\n"
 "Language: fi_fi\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "IBM Model M keyboard"
-msgstr ""
+msgstr "IBM Model M -näppäimistö"
 
 msgctxt "Addon Description"
 msgid "The IBM Model M keyboard, introduced in 1984, is regarded as a timeless and durable piece of hardware."
-msgstr ""
+msgstr "Vuonna 1984 esiteltyä IBM Model M -näppäimistöä pidetään ajattomana ja kestävänä laitteena."
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: Wikipedia (wikipedia.org)"
@@ -31,7 +31,7 @@ msgstr "Kuvan lähde: Wikipedia (wikipedia.org)"
 
 msgctxt "#30000"
 msgid "Keyboard"
-msgstr ""
+msgstr "Näppäimistö"
 
 # empty string with id 30001
 msgctxt "#30002"
@@ -236,7 +236,7 @@ msgstr "Tab"
 
 msgctxt "#30052"
 msgid "Backspace"
-msgstr "Backspace"
+msgstr "Askelpalautin"
 
 msgctxt "#30053"
 msgid "Enter"
@@ -276,11 +276,11 @@ msgstr "Caps Lock"
 
 msgctxt "#30062"
 msgid "Scroll Lock"
-msgstr ""
+msgstr "Scroll Lock"
 
 msgctxt "#30063"
 msgid "Num Lock"
-msgstr ""
+msgstr "Num Lock"
 
 msgctxt "#30064"
 msgid "-"
@@ -324,11 +324,11 @@ msgstr "/"
 
 msgctxt "#30074"
 msgid "Print Screen"
-msgstr ""
+msgstr "Print Screen"
 
 msgctxt "#30075"
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 msgctxt "#30076"
 msgid "Insert"
@@ -340,11 +340,11 @@ msgstr "Home"
 
 msgctxt "#30078"
 msgid "Page Up"
-msgstr ""
+msgstr "Page Up"
 
 msgctxt "#30079"
 msgid "Page Down"
-msgstr ""
+msgstr "Page Down"
 
 msgctxt "#30080"
 msgid "Delete"
@@ -352,7 +352,7 @@ msgstr "Delete"
 
 msgctxt "#30081"
 msgid "End"
-msgstr ""
+msgstr "End"
 
 msgctxt "#30082"
 msgid "Left"
@@ -372,67 +372,67 @@ msgstr "Oikealle"
 
 msgctxt "#30086"
 msgid "Num Pad 1"
-msgstr ""
+msgstr "Numeronäppäimistön 1"
 
 msgctxt "#30087"
 msgid "Num Pad 2"
-msgstr ""
+msgstr "Numeronäppäimistön 2"
 
 msgctxt "#30088"
 msgid "Num Pad 3"
-msgstr ""
+msgstr "Numeronäppäimistön 3"
 
 msgctxt "#30089"
 msgid "Num Pad 4"
-msgstr ""
+msgstr "Numeronäppäimistön 4"
 
 msgctxt "#30090"
 msgid "Num Pad 5"
-msgstr ""
+msgstr "Numeronäppäimistön 5"
 
 msgctxt "#30091"
 msgid "Num Pad 6"
-msgstr ""
+msgstr "Numeronäppäimistön 6"
 
 msgctxt "#30092"
 msgid "Num Pad 7"
-msgstr ""
+msgstr "Numeronäppäimistön 7"
 
 msgctxt "#30093"
 msgid "Num Pad 8"
-msgstr ""
+msgstr "Numeronäppäimistön 8"
 
 msgctxt "#30094"
 msgid "Num Pad 9"
-msgstr ""
+msgstr "Numeronäppäimistön 9"
 
 msgctxt "#30095"
 msgid "Num Pad 0"
-msgstr ""
+msgstr "Numeronäppäimistön 0"
 
 msgctxt "#30096"
 msgid "Num Pad /"
-msgstr ""
+msgstr "Numeronäppäimistön /"
 
 msgctxt "#30097"
 msgid "Num Pad *"
-msgstr ""
+msgstr "Numeronäppäimistön *"
 
 msgctxt "#30098"
 msgid "Num Pad -"
-msgstr ""
+msgstr "Numeronäppäimistön -"
 
 msgctxt "#30099"
 msgid "Num Pad +"
-msgstr ""
+msgstr "Numeronäppäimistön +"
 
 msgctxt "#30100"
 msgid "Num Pad Enter"
-msgstr ""
+msgstr "Numeronäppäimistön Enter"
 
 msgctxt "#30101"
 msgid "Num Pad ."
-msgstr ""
+msgstr "Numeronäppäimistön ."
 
 msgctxt "#30102"
 msgid "`"
@@ -440,15 +440,15 @@ msgstr "`"
 
 msgctxt "#30103"
 msgid "F13"
-msgstr ""
+msgstr "F13"
 
 msgctxt "#30104"
 msgid "F14"
-msgstr ""
+msgstr "F14"
 
 msgctxt "#30105"
 msgid "F15"
-msgstr ""
+msgstr "F15"
 
 msgctxt "#30106"
 msgid "Left Meta"
@@ -468,99 +468,99 @@ msgstr "Oikea Super"
 
 msgctxt "#30110"
 msgid "!"
-msgstr ""
+msgstr "!"
 
 msgctxt "#30111"
 msgid "\""
-msgstr ""
+msgstr "\""
 
 msgctxt "#30112"
 msgid "#"
-msgstr ""
+msgstr "#"
 
 msgctxt "#30113"
 msgid "@"
-msgstr ""
+msgstr "@"
 
 msgctxt "#30114"
 msgid "("
-msgstr ""
+msgstr "("
 
 msgctxt "#30115"
 msgid ")"
-msgstr ""
+msgstr ")"
 
 msgctxt "#30116"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 msgctxt "#30117"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 msgctxt "#30118"
 msgid ":"
-msgstr ""
+msgstr ":"
 
 msgctxt "#30119"
 msgid "<"
-msgstr ""
+msgstr "<"
 
 msgctxt "#30120"
 msgid ">"
-msgstr ""
+msgstr ">"
 
 msgctxt "#30121"
 msgid "?"
-msgstr ""
+msgstr "?"
 
 msgctxt "#30122"
 msgid "@"
-msgstr ""
+msgstr "@"
 
 msgctxt "#30123"
 msgid "^"
-msgstr ""
+msgstr "^"
 
 msgctxt "#30124"
 msgid "_"
-msgstr ""
+msgstr "_"
 
 msgctxt "#30125"
 msgid "$"
-msgstr ""
+msgstr "$"
 
 msgctxt "#30126"
 msgid "{"
-msgstr ""
+msgstr "{"
 
 msgctxt "#30127"
 msgid "}"
-msgstr ""
+msgstr "}"
 
 msgctxt "#30128"
 msgid "|"
-msgstr ""
+msgstr "|"
 
 msgctxt "#30129"
 msgid "~"
-msgstr ""
+msgstr "~"
 
 msgctxt "#30130"
 msgid "Mode"
-msgstr ""
+msgstr "Mode"
 
 msgctxt "#30131"
 msgid "Compose"
-msgstr ""
+msgstr "Kirjoita"
 
 msgctxt "#30132"
 msgid "Help"
-msgstr ""
+msgstr "Help"
 
 msgctxt "#30133"
 msgid "SysReq"
-msgstr ""
+msgstr "SysReq"
 
 msgctxt "#30134"
 msgid "Break"
@@ -568,24 +568,24 @@ msgstr "Break"
 
 msgctxt "#30135"
 msgid "Menu"
-msgstr ""
+msgstr "Valikko"
 
 msgctxt "#30136"
 msgid "Power"
-msgstr ""
+msgstr "Virta"
 
 msgctxt "#30137"
 msgid "€"
-msgstr ""
+msgstr "€"
 
 msgctxt "#30138"
 msgid "Undo"
-msgstr ""
+msgstr "Kumoa"
 
 msgctxt "#30139"
 msgid "Num Pad Equals"
-msgstr ""
+msgstr "Numeronäppäimistön on yhtä kuin"
 
 msgctxt "#30140"
 msgid "Clear"
-msgstr ""
+msgstr "Tyhjennä"

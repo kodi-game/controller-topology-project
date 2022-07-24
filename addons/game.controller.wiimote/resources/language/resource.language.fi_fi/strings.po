@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.controller.wiimote\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2022-07-08 17:11+0000\n"
+"PO-Revision-Date: 2022-07-24 08:14+0000\n"
 "Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-controller-wiimote/fi_fi/>\n"
 "Language: fi_fi\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "Wii Remote controller"
-msgstr ""
+msgstr "Wii Remote -ohjain"
 
 msgctxt "Addon Description"
 msgid "The Wii Remote, also known colloquially as the Wiimote, is the primary game controller for the Nintendo Wii home video game console."
-msgstr ""
+msgstr "Wii Remote, joka tunnetaan puhekielessä myös nimellä Wiimote (tai Wiikapula/Kapula), on Nintendo Wii -videopelikonsolin ensisijainen peliohjain."
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: open-joysick-display (https://github.com/RetroWeeb/open-joystick-display) licensed under BSD License + Attribution"
@@ -31,7 +31,7 @@ msgstr "Kuvan lähde: open-joysick-display (https://github.com/RetroWeeb/open-jo
 
 msgctxt "#30000"
 msgid "Nintendo Wii"
-msgstr ""
+msgstr "Nintendo Wii"
 
 msgctxt "#30001"
 msgid "A"
@@ -47,15 +47,15 @@ msgstr "2"
 
 msgctxt "#30004"
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 msgctxt "#30005"
 msgid "Plus"
-msgstr ""
+msgstr "Plus"
 
 msgctxt "#30006"
 msgid "Minus"
-msgstr ""
+msgstr "Minus"
 
 msgctxt "#30007"
 msgid "Up"
@@ -75,8 +75,8 @@ msgstr "Vasemmalle"
 
 msgctxt "#30011"
 msgid "B Trigger"
-msgstr ""
+msgstr "B-liipaisin"
 
 msgctxt "#30012"
 msgid "Pointer"
-msgstr ""
+msgstr "Osoitin"
