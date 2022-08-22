@@ -9,12 +9,12 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
-        <summary lang="da_DK">SNES mus</summary>
-        <summary lang="de_DE">SNES Maus</summary>
-        <summary lang="en_GB">SNES mouse</summary>
-        <summary lang="es_MX">Ratón SNES</summary>
+        <summary lang="da_DK">PlayStation mus</summary>
+        <summary lang="de_DE">PlayStation Maus</summary>
+        <summary lang="en_GB">PlayStation mouse</summary>
+        <summary lang="es_MX">Ratón PlayStation</summary>
         <summary lang="fi_FI">PlayStation-hiiri</summary>
-        <summary lang="zh_CN">SNES 鼠标</summary>
+        <summary lang="zh_CN">PlayStation 鼠标</summary>
         <description lang="da_DK">PlayStation Mus er en ball-mus med to knapper. Den blev udgivet sammen med PlayStation i 1994.</description>
         <description lang="en_GB">The PlayStation Mouse is a two-button ball mouse. It was released alongside the PlayStation in 1994.</description>
         <description lang="es_MX">El ratón PlayStation es un ratón de rueda de 2 botones. Fue lanzado en conjunto con el PlayStation en 1994.</description>

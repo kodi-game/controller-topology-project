@@ -20,7 +20,7 @@ msgstr ""
 #, fuzzy
 msgctxt "Addon Summary"
 msgid "SNES mouse"
-msgstr "PlayStation-hiiri"
+msgstr "SNES-hiiri"
 
 msgctxt "Addon Description"
 msgid "The SNES mouse was first released in 1992. It was originally designed for use with the game Mario Paint."

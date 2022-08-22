@@ -19,7 +19,7 @@ msgstr ""
 
 #, fuzzy
 msgctxt "Addon Summary"
-msgid "SNES mouse"
+msgid "PlayStation mouse"
 msgstr "PlayStation-hiiri"
 
 msgctxt "Addon Description"

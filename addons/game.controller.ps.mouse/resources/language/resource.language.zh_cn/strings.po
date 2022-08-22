@@ -18,8 +18,8 @@ msgstr ""
 "X-Generator: Weblate 4.8\n"
 
 msgctxt "Addon Summary"
-msgid "SNES mouse"
-msgstr "SNES 鼠标"
+msgid "PlayStation mouse"
+msgstr "PlayStation 鼠标"
 
 msgctxt "Addon Description"
 msgid "The PlayStation Mouse is a two-button ball mouse. It was released alongside the PlayStation in 1994."
