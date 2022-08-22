@@ -24,7 +24,7 @@ msgstr "PlayStation-hiiri"
 
 msgctxt "Addon Description"
 msgid "The PlayStation Mouse is a two-button ball mouse. It was released alongside the PlayStation in 1994."
-msgstr "[CR]PlayStation-hiiri on kahdella painikkeella varustettu pallohiiri. Se [CR]julkaistiin PlayStationin rinnalla vuonna 1994."
+msgstr "[CR]PlayStation-hiiri on kahdella painikkeella varustettu pallohiiri. Se [CR]julkaistiin PlayStationin rinnalla vuonna 1994.[CR][CR]PlayStation-hiiri on kahdella painikkeella varustettu pallohiiri. Se [CR]julkaistiin PlayStationin rinnalla vuonna 1994."
 
 "PlayStation-hiiri on kahdella painikkeella varustettu pallohiiri. Se "
 "julkaistiin PlayStationin rinnalla vuonna 1994."
