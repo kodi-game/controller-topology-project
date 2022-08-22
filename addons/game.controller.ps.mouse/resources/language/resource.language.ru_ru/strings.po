@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.7.2\n"
 
 msgctxt "Addon Summary"
-msgid "SNES mouse"
+msgid "PlayStation mouse"
 msgstr ""
 
 msgctxt "Addon Description"

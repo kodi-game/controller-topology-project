@@ -17,7 +17,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.13\n"
 
-#, fuzzy
 msgctxt "Addon Summary"
 msgid "SNES mouse"
 msgstr "SNES-hiiri"
@@ -26,6 +25,7 @@ msgctxt "Addon Description"
 msgid "The SNES mouse was first released in 1992. It was originally designed for use with the game Mario Paint."
 msgstr "SNES-hiiri julkaistiin ensimmäisen kerran vuonna 1992. Se oli alun perin suunniteltu käytettäväksi Mario Paint -pelin kanssa."
 
+#, fuzzy
 msgctxt "#30000"
 msgid "SNES Mouse"
 msgstr "SNES-hiiri"
