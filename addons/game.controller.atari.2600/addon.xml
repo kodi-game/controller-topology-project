@@ -9,11 +9,13 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="ca_ES">Joystick Atari 2600</summary>
         <summary lang="da_DK">Atari 2600 joystick</summary>
         <summary lang="en_GB">Atari 2600 joystick</summary>
         <summary lang="fi_FI">Atari 2600 -ohjainsauva</summary>
         <summary lang="ru_RU">Джостик Atari 2600</summary>
         <summary lang="zh_CN">雅达利 2600 游戏杆</summary>
+        <description lang="ca_ES">El joystick Atari CX40 va aparèixer a l&apos;Atari 2600 el 1977 i es va considerar una millora tan gran respecte a altres controladors que era el dispositiu d&apos;entrada principal per a la majoria de jocs.</description>
         <description lang="da_DK">Atari CX40-joysticket blev udgivet med Atari 2600 i 1977 og blev betragtet som en så stor forbedring i forhold til andre controllere, at det var den primære inputenhed til de fleste spil.</description>
         <description lang="en_GB">The Atari CX40 joystick appeared on the Atari 2600 in 1977, and was considered such a great improvement over other controllers that it was the primary input device for most games.</description>
         <description lang="fi_FI">Atari CX40 -ohjainsauva ilmestyi Atari 2600:lle vuonna 1977 ja sitä pidettiin niin suurena parannuksena muihin ohjaimiin verrattuna, että se oli useimpien pelien ensisijainen syöttölaite.</description>
