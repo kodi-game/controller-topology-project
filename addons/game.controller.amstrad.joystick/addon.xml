@@ -9,11 +9,13 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="ca_ES">Joystick Amstrad</summary>
         <summary lang="da_DK">Amstrad Joystick</summary>
         <summary lang="en_GB">Amstrad Joystick</summary>
         <summary lang="es_MX">Joystick Amstrad</summary>
         <summary lang="ru_RU">Джойстик Amstrad</summary>
         <summary lang="zh_CN">Amstrad 游戏杆</summary>
+        <description lang="ca_ES">Els models originals d&apos;Amstrad CPC només tenien un port de joystick. Es pot utilitzar un cable Y per connectar dos joysticks.</description>
         <description lang="da_DK">De originale Amstrad CPC-modeller havde kun en joystickport. Et Y-kabel kan bruges til at forbinde to joysticks.</description>
         <description lang="en_GB">The original Amstrad CPC models had only one joystick port. A Y-cable can be used to connect two joysticks.</description>
         <description lang="es_MX">Los modelos originales de la Amstrad CPC solo tenían un puerto de joystick. Un cable Y puede utilizarse para conectar 2 joysticks.</description>
