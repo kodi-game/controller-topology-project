@@ -9,12 +9,14 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
+        <summary lang="ca_ES">Controlador PlayStation</summary>
         <summary lang="da_DK">PlayStation Gamepad</summary>
         <summary lang="de_DE">PlayStation Gamepad</summary>
         <summary lang="en_GB">PlayStation Gamepad</summary>
         <summary lang="es_MX">Control de PlayStation</summary>
         <summary lang="fi_FI">PlayStation-ohjain</summary>
         <summary lang="zh_CN">PlayStation 游戏手柄</summary>
+        <description lang="ca_ES">El controlador de PlayStation va ser llançat per Sony Computer Entertainment l&apos;any 1994. Sony va llançar breument el controlador Dual Analog el 1997, seguit del DualShock amb vibració més tard aquell any.</description>
         <description lang="da_DK">PlayStation-controlleren blev udgivet af Sony Computer Entertainment i 1994. Sony frigav kortvarigt Dobbel Analog-controlleren i 1997, efterfulgt af den rumble-aktiverede DualShock senere samme år.</description>
         <description lang="de_DE">Der PlayStation Controller wurde 1994 von Sony Computer Entertainment veröffentlicht. Sony stellte 1997 kurzerhand den &quot;Dual Analog&quot;-Controller sowie im gleichen Jahr den Vibrations-aktiven &quot;DualShock&quot; vor.</description>
         <description lang="en_GB">The PlayStation controller was released by Sony Computer Entertainment in 1994. Sony briefly released the Dual Analog controller in 1997, followed by the rumble-enabled DualShock later that year.</description>
