@@ -12,6 +12,7 @@
         <summary lang="da_DK">WonderSwan</summary>
         <summary lang="de_DE">WonderSwan</summary>
         <summary lang="en_GB">WonderSwan</summary>
+        <summary lang="it_IT">WonderSwan</summary>
         <summary lang="zh_CN">WonderSwan</summary>
         <description lang="da_DK">WonderSwan er en 16-bit håndholdt konsol udgivet i 1999 af Bandai. Den kan spilles både lodret og vandret og blev rost for sin lange batterilevetid og unikke bibliotek af spil.</description>
         <description lang="de_DE">WonderSwan ist eine 1999 vorgestellte tragbare 16-bit Konsole von Bandai. Mit ihr kann sowohl in Hoch- wie auch Querformat gespielt werden. Angepriesen wurden die langlebige Batterie und einzigartige Spielauswahl.</description>
@@ -23,6 +24,7 @@
         <disclaimer lang="es_MX">Créditos de la imagen: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="fi_FI">Kuvan lähde: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="fr_FR">Crédit image : OpenEmu (openemu.org)</disclaimer>
+        <disclaimer lang="it_IT">Credito immagine: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="nl_NL">Bron afbeelding: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="ru_RU">Источник изображения: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="zh_CN">图片来源：OpenEmu（openemu.org）</disclaimer>
