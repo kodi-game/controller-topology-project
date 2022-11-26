@@ -29,6 +29,7 @@
         <summary lang="it_IT">Controller SNES</summary>
         <summary lang="ko_KR">SNES 컨트롤러</summary>
         <summary lang="lt_LT">SNES valdiklis</summary>
+        <summary lang="nb_NO">SNES-kontroller</summary>
         <summary lang="nl_NL">SNES controller</summary>
         <summary lang="pl_PL">Kontroler SNES</summary>
         <summary lang="pt_BR">Controlador SNES</summary>
@@ -87,6 +88,7 @@
         <disclaimer lang="it_IT">Credito immagine: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="ko_KR">이미지 제공: OpenEmu(openemu.org)</disclaimer>
         <disclaimer lang="lt_LT">Atvaizdo šaltinis: OpenEmu (openemu.org)</disclaimer>
+        <disclaimer lang="nb_NO">Bildekilde: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="nl_NL">Bron afbeelding: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="oc_FR">Crèdit imatge : OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="pl_PL">Pochodzenie obrazu: OpenEmu (openemu.org)</disclaimer>
