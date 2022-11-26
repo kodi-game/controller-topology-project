@@ -29,6 +29,7 @@
         <summary lang="it_IT">Controller predefinito</summary>
         <summary lang="ko_KR">기본 콘트롤러</summary>
         <summary lang="lt_LT">Numatytasis valdiklis</summary>
+        <summary lang="nb_NO">Forvalgt kontroller</summary>
         <summary lang="nl_NL">Standaard Controller</summary>
         <summary lang="oc_FR">Contrarotlaire per defaut</summary>
         <summary lang="pl_PL">Kontroler domyślny</summary>
@@ -87,6 +88,7 @@
         <disclaimer lang="it_IT">Credito immagine: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="ko_KR">이미지 제공: Wikipedia(wikipedia.org)</disclaimer>
         <disclaimer lang="lt_LT">Atvaizdo šaltinis: Wikipedia (wikipedia.org)</disclaimer>
+        <disclaimer lang="nb_NO">Bildekilde: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="nl_NL">Bron afbeelding: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="oc_FR">Crèdit imatge : Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="pl_PL">Pochodzenie obrazu: Wikipedia (wikipedia.org)</disclaimer>
