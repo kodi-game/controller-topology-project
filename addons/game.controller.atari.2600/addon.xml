@@ -13,6 +13,7 @@
         <summary lang="da_DK">Atari 2600 joystick</summary>
         <summary lang="de_DE">Atari 2600 Joystick</summary>
         <summary lang="en_GB">Atari 2600 joystick</summary>
+        <summary lang="es_ES">Joystick Atari 2600</summary>
         <summary lang="fi_FI">Atari 2600 -ohjainsauva</summary>
         <summary lang="it_IT">Joystick Atari 2600</summary>
         <summary lang="ru_RU">Джостик Atari 2600</summary>
@@ -20,6 +21,7 @@
         <description lang="ca_ES">El joystick Atari CX40 va aparèixer a l&apos;Atari 2600 el 1977 i es va considerar una millora tan gran respecte a altres controladors que era el dispositiu d&apos;entrada principal per a la majoria de jocs.</description>
         <description lang="da_DK">Atari CX40-joysticket blev udgivet med Atari 2600 i 1977 og blev betragtet som en så stor forbedring i forhold til andre controllere, at det var den primære inputenhed til de fleste spil.</description>
         <description lang="en_GB">The Atari CX40 joystick appeared on the Atari 2600 in 1977, and was considered such a great improvement over other controllers that it was the primary input device for most games.</description>
+        <description lang="es_ES">El joystick Atari CX40 se lanzó con la Atari 2600 en 1977 y se consideró una mejora tan grande con respecto a otros mandos que era el dispositivo de entrada principal para la mayoría de los juegos.</description>
         <description lang="fi_FI">Atari CX40 -ohjainsauva ilmestyi Atari 2600:lle vuonna 1977 ja sitä pidettiin niin suurena parannuksena muihin ohjaimiin verrattuna, että se oli useimpien pelien ensisijainen syöttölaite.</description>
         <description lang="it_IT">Il joystick Atari CX40 è apparso sull&apos;Atari 2600 nel 1977 ed è stato considerato un così grande miglioramento rispetto ad altri controller da essere il dispositivo di input principale per la maggior parte dei giochi.</description>
         <description lang="ru_RU">Джостик Atari CX40 появился для Atari 2600 в 1977, и считался таким большим улучшением в сравнении с другими контроллерами, что он стал главным устройством для управления большинством игр.</description>
@@ -27,6 +29,7 @@
         <disclaimer lang="da_DK">Kildeangivelse: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="de_DE">Bildrechte: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="en_GB">Image credit: OpenEmu (openemu.org)</disclaimer>
+        <disclaimer lang="es_ES">Créditos de la imagen: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="es_MX">Créditos de la imagen: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="fi_FI">Kuvan lähde: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="fr_FR">Crédit image : OpenEmu (openemu.org)</disclaimer>
