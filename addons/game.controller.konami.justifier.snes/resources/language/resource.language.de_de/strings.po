@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: game.controller.konami.justifier.snes\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2023-01-30 18:46+0000\n"
-"Last-Translator: Demian <Demian@gmx.co.uk>\n"
+"PO-Revision-Date: 2023-01-30 20:10+0000\n"
+"Last-Translator: matchuek <hansi77@yandex.com>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-controller-konami-justifier-snes/de_de/>\n"
 "Language: de_de\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "Konami Justifier (SNES)"
-msgstr ""
+msgstr "Konami Justifier (SNES)"
 
 msgctxt "Addon Description"
 msgid "The Justifer is a light gun released by Konami in 1992 for the Sega Mega Drive/Genesis, SNES and PlayStation. It resembles the Colt Python, a .357 Magnum revolver."
@@ -27,7 +27,7 @@ msgstr "Die Justifer ist eine Lightgun, die 1992 von Konami für Sega Mega Drive
 
 msgctxt "#30000"
 msgid "Konami Justifier (SNES)"
-msgstr ""
+msgstr "Konami Justifier (SNES)"
 
 msgctxt "#30001"
 msgid "Trigger"
