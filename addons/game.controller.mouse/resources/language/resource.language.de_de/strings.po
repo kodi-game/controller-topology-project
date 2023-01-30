@@ -63,8 +63,8 @@ msgstr "Mausrad rechts"
 
 msgctxt "#30009"
 msgid "Button 4"
-msgstr "Knopf 4"
+msgstr "Taste 4"
 
 msgctxt "#30010"
 msgid "Button 5"
-msgstr ""
+msgstr "Knopf 5"
