@@ -10,6 +10,7 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="da_DK">NES controller</summary>
+        <summary lang="de_DE">NES Controller</summary>
         <summary lang="en_GB">NES controller</summary>
         <summary lang="es_ES">Mando NES</summary>
         <summary lang="fi_FI">NES-ohjain</summary>
@@ -18,6 +19,7 @@
         <summary lang="ru_RU">NES контроллер</summary>
         <summary lang="zh_CN">NES 控制器</summary>
         <description lang="da_DK">Nintendo Entertainment System, også kendt som Famicom (for &quot;Family Computer&quot;), blev udgivet i 1983. Den tværformede retningsbestemte pad er designet til Game &amp; Watch-systemer, og erstatter de større joysticks, der findes på tidligere controllere.</description>
+        <description lang="de_DE">Das Nintendo Entertainment System, auch bekannt als Famicom (für „Family Computer“), wurde 1983 veröffentlicht. Die kreuzförmige Richtungssteuerung wurde für „Game &amp; Watch“-Systeme entwickelt und ersetzte die sperrigen Joysticks der früheren Controller.</description>
         <description lang="en_GB">The Nintendo Entertainment System, also known as the Famicom (for &quot;Family Computer&quot;), was released in 1983. The cross-shaped directional pad was designed for Game &amp; Watch systems, replacing the bulkier joysticks found on earlier controllers.</description>
         <description lang="es_ES">La Nintendo Entertainment System, también conocida como Famicom (por &quot;Family Computer&quot;), salió a la venta en 1983. El pad direccional en forma de cruceta se diseñó para los sistemas Game &amp; Watch, sustituyendo a los joysticks más voluminosos de los mandos anteriores.</description>
         <description lang="fi_FI">Nintendo Entertainment System, joka tunnetaan myös nimellä Famicom (&quot;Family Computer&quot;), julkaistiin vuonna 1983. Ristin muotoinen suuntaohjain suunniteltiin Game &amp; Watch -järjestelmille ja se korvasi aiemmista ohjaimista löytyneet kookkaammat ohjainsauvat.</description>

@@ -10,12 +10,14 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="da_DK">Vectrex controller</summary>
+        <summary lang="de_DE">Vectrex Controller</summary>
         <summary lang="en_GB">Vectrex controller</summary>
         <summary lang="es_ES">Mando Vectrex</summary>
         <summary lang="fr_FR">Contrôleur Vectrex</summary>
         <summary lang="it_IT">Controller Vectrex</summary>
         <summary lang="zh_CN">Vectrex 控制器</summary>
         <description lang="da_DK">Vectrex blev udgivet i 1982 af General Consumer Electronics (senere købt af Milton Bradley). Konsollen havde en indbygget monokrom skærm, der kunne vise vektorgrafik.</description>
+        <description lang="de_DE">Vectrex wurde 1982 von General Consumer Electronics (später von Milton Bradley aufgekauft) herausgebracht. Die Konsole verfügte über einen eingebauten Monochrom-Monitor, der Vektorgrafiken anzeigen konnte.</description>
         <description lang="en_GB">The Vectrex was released in 1982 by General Consumer Electronics (later purchased by Milton Bradley). The console featured a built-in monochrome monitor capable of displaying vector graphics.</description>
         <description lang="es_ES">La Vectrex fue lanzada en 1982 por General Consumer Electronics (posteriormente adquirida por Milton Bradley). La videoconsola llevaba incorporada una pantalla monocromática capaz de mostrar gráficos vectoriales.</description>
         <description lang="fr_FR">Le Vectrex a été lancé en 1982 par General Consumer Electronics (plus tard acheté par Milton Bradley). La console comportait un moniteur monochrome intégré capable d&apos;afficher des graphiques vectoriels.</description>
