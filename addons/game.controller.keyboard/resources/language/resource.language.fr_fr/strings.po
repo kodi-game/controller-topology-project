@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2023-01-30 16:38+0000\n"
+"PO-Revision-Date: 2023-01-30 17:05+0000\n"
 "Last-Translator: skypichat <skypichat@hotmail.fr>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-controller-keyboard/fr_fr/>\n"
 "Language: fr_fr\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "IBM Model M keyboard"
-msgstr ""
+msgstr "Clavier IBM modèle M"
 
 msgctxt "Addon Description"
 msgid "The IBM Model M keyboard, introduced in 1984, is regarded as a timeless and durable piece of hardware."
-msgstr ""
+msgstr "Le clavier IBM Model M, introduit en 1984, est considéré comme un matériel intemporel et durable."
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: Wikipedia (wikipedia.org)"
@@ -31,7 +31,7 @@ msgstr "Crédit image : Wikipédia (wikipedia.org)"
 
 msgctxt "#30000"
 msgid "Keyboard"
-msgstr ""
+msgstr "Clavier"
 
 # empty string with id 30001
 msgctxt "#30002"
@@ -248,11 +248,11 @@ msgstr "Espace"
 
 msgctxt "#30055"
 msgid "Left Alt"
-msgstr ""
+msgstr "Alt gauche"
 
 msgctxt "#30056"
 msgid "Right Alt"
-msgstr ""
+msgstr "Alt droite"
 
 msgctxt "#30057"
 msgid "Left Ctrl"
@@ -272,15 +272,15 @@ msgstr "Maj. Droite"
 
 msgctxt "#30061"
 msgid "Caps Lock"
-msgstr ""
+msgstr "Verr. Maj"
 
 msgctxt "#30062"
 msgid "Scroll Lock"
-msgstr ""
+msgstr "Verr. Défil"
 
 msgctxt "#30063"
 msgid "Num Lock"
-msgstr ""
+msgstr "Verr. Num"
 
 msgctxt "#30064"
 msgid "-"
@@ -324,15 +324,15 @@ msgstr "/"
 
 msgctxt "#30074"
 msgid "Print Screen"
-msgstr ""
+msgstr "Impr. Écran"
 
 msgctxt "#30075"
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 msgctxt "#30076"
 msgid "Insert"
-msgstr ""
+msgstr "Inser."
 
 msgctxt "#30077"
 msgid "Home"
@@ -340,19 +340,19 @@ msgstr "Racine"
 
 msgctxt "#30078"
 msgid "Page Up"
-msgstr ""
+msgstr "Haut de page"
 
 msgctxt "#30079"
 msgid "Page Down"
-msgstr ""
+msgstr "Bas de page"
 
 msgctxt "#30080"
 msgid "Delete"
-msgstr ""
+msgstr "Supp."
 
 msgctxt "#30081"
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 msgctxt "#30082"
 msgid "Left"
@@ -372,55 +372,55 @@ msgstr "Droite"
 
 msgctxt "#30086"
 msgid "Num Pad 1"
-msgstr ""
+msgstr "Pavé Num. 1"
 
 msgctxt "#30087"
 msgid "Num Pad 2"
-msgstr ""
+msgstr "Pavé Num. 2"
 
 msgctxt "#30088"
 msgid "Num Pad 3"
-msgstr ""
+msgstr "Pavé Num. 3"
 
 msgctxt "#30089"
 msgid "Num Pad 4"
-msgstr ""
+msgstr "Pavé Num. 4"
 
 msgctxt "#30090"
 msgid "Num Pad 5"
-msgstr ""
+msgstr "Pavé Num. 5"
 
 msgctxt "#30091"
 msgid "Num Pad 6"
-msgstr ""
+msgstr "Pavé Num. 6"
 
 msgctxt "#30092"
 msgid "Num Pad 7"
-msgstr ""
+msgstr "Pavé Num. 7"
 
 msgctxt "#30093"
 msgid "Num Pad 8"
-msgstr ""
+msgstr "Pavé Num. 8"
 
 msgctxt "#30094"
 msgid "Num Pad 9"
-msgstr ""
+msgstr "Pavé Num. 9"
 
 msgctxt "#30095"
 msgid "Num Pad 0"
-msgstr ""
+msgstr "Pavé Num. 0"
 
 msgctxt "#30096"
 msgid "Num Pad /"
-msgstr ""
+msgstr "Pavé Num. /"
 
 msgctxt "#30097"
 msgid "Num Pad *"
-msgstr ""
+msgstr "Pavé Num. *"
 
 msgctxt "#30098"
 msgid "Num Pad -"
-msgstr ""
+msgstr "Pavé Num. -"
 
 msgctxt "#30099"
 msgid "Num Pad +"
