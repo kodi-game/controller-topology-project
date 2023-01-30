@@ -10,6 +10,7 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="da_DK">MSX Tastatur</summary>
+        <summary lang="de_DE">MSX Tastatur</summary>
         <summary lang="en_GB">MSX Keyboard</summary>
         <summary lang="es_ES">Teclado MSX</summary>
         <summary lang="fi_FI">MSX-näppäimistö</summary>
@@ -18,6 +19,7 @@
         <summary lang="ru_RU">Клавиатура MSX</summary>
         <summary lang="zh_CN">MSX 键盘</summary>
         <description lang="da_DK">MSX-tastaturet blev lavet i interne og eksterne enheder. Et tip til fejlfinding, når en MSX-maskine ikke viser et billede, er at trykke gentagne gange på CAPS-tasten for at se om LED&apos;en skifter.</description>
+        <description lang="de_DE">Die MSX-Tastatur gab es als interne und externe Variante. Ein Tipp zur Fehlersuche, wenn ein MSX-Rechner kein Bild anzeigt, besteht darin, die Feststelltaste wiederholt zu drücken, um zu sehen, ob die LED umschaltet.</description>
         <description lang="en_GB">The MSX keyboard came in internal and external units. One troubleshooting hint when an MSX machine does not display an image is to press the CAPS key repeatedly to see if the LED toggles.</description>
         <description lang="es_ES">El teclado del MSX venía en unidades internas y externas. Un consejo para solucionar problemas cuando una máquina MSX no muestra una imagen es pulsar la tecla CAPS repetidamente para ver si el LED cambia.</description>
         <description lang="fi_FI">MSX-näppäimistöä esiintyi sekä ulkoisena, että sisäisenä. Jos MSX-laite ei näytä kuvaa, on CAPS-näppäimen painaminen toistuvasti yksi vianselvitysvinkki, jolloin nähdään vaihtuuko painikkeen LED-merkkivalo.</description>
