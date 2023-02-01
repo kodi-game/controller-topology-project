@@ -10,7 +10,7 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="da_DK">3DO Gamegun</summary>
-        <summary lang="de_DE">3DO Gamegun</summary>
+        <summary lang="de_DE">3DO Spielwaffe</summary>
         <summary lang="en_GB">3DO Gamegun</summary>
         <summary lang="es_ES">3DO Gamegun</summary>
         <summary lang="es_MX">Gamegun 3DO</summary>
@@ -30,7 +30,7 @@
         <description lang="ru_RU">Пистолет для 3DO выпущен в 1994 компанией American Laser Games.</description>
         <description lang="zh_CN">游戏枪于1994年由美国激光游戏公司为 3DO 发布。</description>
         <disclaimer lang="da_DK">Kildeangivelse: Wikipedia (wikipedia.org)</disclaimer>
-        <disclaimer lang="de_DE">Bildrechte: Wikipedia (wikipedia.org)</disclaimer>
+        <disclaimer lang="de_DE">Bildverweis: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="es_ES">Créditos de la imagen: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="es_MX">Créditos de imagen: Wikipedia (wikipedia.org)</disclaimer>
