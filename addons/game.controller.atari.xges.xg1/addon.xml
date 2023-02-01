@@ -10,7 +10,7 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="da_DK">Atari XG-1 lightgun</summary>
-        <summary lang="de_DE">Atari XG-1 Lightgun</summary>
+        <summary lang="de_DE">Atari XG-1 Lichtkanone</summary>
         <summary lang="en_GB">Atari XG-1 lightgun</summary>
         <summary lang="es_ES">Atari XG-1 lightgun</summary>
         <summary lang="fi_FI">Atari XG-1 -valoase</summary>
@@ -28,7 +28,7 @@
         <description lang="ru_RU">Atari XG-1 - это световой пистолет, который поставлялся в комплекте с игровой консолью Atari XEGS, выпущенной в 1987 году. Многие пользователи жаловались на ужасную точность устройства.</description>
         <description lang="zh_CN">雅达利 XG-1 是与1987年发布的游戏机雅达利 XEGS 捆绑销售的光线枪。许多用户抱怨该设备的准确性太差。</description>
         <disclaimer lang="da_DK">Kildeangivelse: Wikipedia (wikipedia.org)</disclaimer>
-        <disclaimer lang="de_DE">Bildrechte: Wikipedia (wikipedia.org)</disclaimer>
+        <disclaimer lang="de_DE">Bildverweis: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="es_ES">Créditos de la imagen: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="es_MX">Créditos de imagen: Wikipedia (wikipedia.org)</disclaimer>
