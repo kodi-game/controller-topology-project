@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.controller.ws\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2023-01-30 20:10+0000\n"
+"PO-Revision-Date: 2023-02-01 20:55+0000\n"
 "Last-Translator: Demian <Demian@gmx.co.uk>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-controller-ws/de_de/>\n"
 "Language: de_de\n"
@@ -27,7 +27,7 @@ msgstr "WonderSwan ist eine 1999 vorgestellte tragbare 16-bit Konsole von Bandai
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: OpenEmu (openemu.org)"
-msgstr "Bildrechte: OpenEmu (openemu.org)"
+msgstr "Bildverweis: OpenEmu (openemu.org)"
 
 msgctxt "#30000"
 msgid "WonderSwan"
