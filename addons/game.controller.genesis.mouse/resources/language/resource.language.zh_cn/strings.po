@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.8\n"
 
 msgctxt "Addon Summary"
-msgid "Sega Mouse"
+msgid "Sega Genesis mouse"
 msgstr "世嘉鼠标"
 
 msgctxt "Addon Description"
