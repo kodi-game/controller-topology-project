@@ -23,17 +23,17 @@ msgid "Sega Virtua Gun (European)"
 msgstr "Sega Virtual Gun (Europea)"
 
 msgctxt "Addon Description"
-msgid ""
-"The Virtua Gun was released for the Sega Saturn in 1995. Bright colors were "
-"used for western models due to fears that it could be linked with gun crime."
-msgstr ""
-"La Virtua Gun fue lanzada para la Sega Saturn en 1995. Se utilizaron colores "
-"brillantes para los modelos occidentales debido a temores de que pudiese "
-"relacionarse con crímenes de armas."
+msgid "The Virtua Gun was released for the Sega Saturn in 1995. Bright colors were used for western models due to fears that it could be linked with gun crime."
+msgstr "[CR]La Virtua Gun fue lanzada para la Sega Saturn en 1995. Se utilizaron colores [CR]brillantes para los modelos occidentales debido a temores de que pudiese [CR]relacionarse con crímenes de armas."
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: Sega Retro (segaretro.org)"
 msgstr "Créditos de imagen: Sega Retro (segaretro.org)"
+
+"La Virtua Gun fue lanzada para la Sega Saturn en 1995. Se utilizaron colores "
+"brillantes para los modelos occidentales debido a temores de que pudiese "
+"relacionarse con crímenes de armas."
+
 
 msgctxt "#30000"
 msgid "Sega Virtua Gun (EU)"

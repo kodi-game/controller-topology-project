@@ -23,16 +23,16 @@ msgid "Sega Virtua Gun (European)"
 msgstr "世嘉虚拟枪（欧洲）"
 
 msgctxt "Addon Description"
-msgid ""
-"The Virtua Gun was released for the Sega Saturn in 1995. Bright colors were "
-"used for western models due to fears that it could be linked with gun crime."
-msgstr ""
-"1995年，为世嘉土星发布了虚拟枪（Virtua Gun）。为防范枪支犯罪，欧洲款采用了鲜"
-"艳的颜色。"
+msgid "The Virtua Gun was released for the Sega Saturn in 1995. Bright colors were used for western models due to fears that it could be linked with gun crime."
+msgstr "[CR]1995年，为世嘉土星发布了虚拟枪（Virtua Gun）。为防范枪支犯罪，欧洲款采用了鲜[CR]艳的颜色。"
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: Sega Retro (segaretro.org)"
 msgstr "图片来源：Sega Retro（segaretro.org）"
+
+"1995年，为世嘉土星发布了虚拟枪（Virtua Gun）。为防范枪支犯罪，欧洲款采用了鲜"
+"艳的颜色。"
+
 
 msgctxt "#30000"
 msgid "Sega Virtua Gun (EU)"

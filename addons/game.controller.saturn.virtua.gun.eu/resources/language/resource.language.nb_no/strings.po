@@ -23,9 +23,7 @@ msgid "Sega Virtua Gun (European)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid ""
-"The Virtua Gun was released for the Sega Saturn in 1995. Bright colors were "
-"used for western models due to fears that it could be linked with gun crime."
+msgid "The Virtua Gun was released for the Sega Saturn in 1995. Bright colors were used for western models due to fears that it could be linked with gun crime."
 msgstr ""
 
 msgctxt "Addon Disclaimer"

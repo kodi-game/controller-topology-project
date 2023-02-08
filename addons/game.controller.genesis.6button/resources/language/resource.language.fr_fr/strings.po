@@ -23,17 +23,17 @@ msgid "Sega Genesis controller (6-Button)"
 msgstr "Manette Sega Genesis"
 
 msgctxt "Addon Description"
-msgid ""
-"The original controller for the Sega Genesis was released in 1988. It had "
-"three main face buttons. Sega released a six-button version in 1993."
-msgstr ""
-"Le contrôleur original de la Sega Genesis est sorti en 1988. Il avait trois "
-"boutons principaux sur la face. Sega a sorti une version à six boutons en "
-"1993."
+msgid "The original controller for the Sega Genesis was released in 1988. It had three main face buttons. Sega released a six-button version in 1993."
+msgstr "[CR]Le contrôleur original de la Sega Genesis est sorti en 1988. Il avait trois [CR]boutons principaux sur la face. Sega a sorti une version à six boutons en [CR]1993."
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: OpenEmu (openemu.org)"
 msgstr "Crédit image : OpenEmu (openemu.org)"
+
+"Le contrôleur original de la Sega Genesis est sorti en 1988. Il avait trois "
+"boutons principaux sur la face. Sega a sorti une version à six boutons en "
+"1993."
+
 
 msgctxt "#30000"
 msgid "Sega Genesis"

@@ -23,16 +23,16 @@ msgid "Sega Genesis controller (6-Button)"
 msgstr "世嘉 Genesis 控制器"
 
 msgctxt "Addon Description"
-msgid ""
-"The original controller for the Sega Genesis was released in 1988. It had "
-"three main face buttons. Sega released a six-button version in 1993."
-msgstr ""
-"世嘉 Genesis 最初的控制器于1988年发布。它有三个主要的正面按钮。世嘉在1993年发"
-"布了六按钮版本。"
+msgid "The original controller for the Sega Genesis was released in 1988. It had three main face buttons. Sega released a six-button version in 1993."
+msgstr "[CR]世嘉 Genesis 最初的控制器于1988年发布。它有三个主要的正面按钮。世嘉在1993年发[CR]布了六按钮版本。"
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: OpenEmu (openemu.org)"
 msgstr "图片来源：OpenEmu（openemu.org）"
+
+"世嘉 Genesis 最初的控制器于1988年发布。它有三个主要的正面按钮。世嘉在1993年发"
+"布了六按钮版本。"
+
 
 msgctxt "#30000"
 msgid "Sega Genesis"

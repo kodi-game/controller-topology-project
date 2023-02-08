@@ -23,17 +23,17 @@ msgid "Sega Genesis controller (6-Button)"
 msgstr "Mando Sega Genesis"
 
 msgctxt "Addon Description"
-msgid ""
-"The original controller for the Sega Genesis was released in 1988. It had "
-"three main face buttons. Sega released a six-button version in 1993."
-msgstr ""
-"El mando original de la Sega Genesis/Mega Drive salió a la venta en 1988. "
-"Tenía tres botones de cara principales. Sega lanzó una versión de seis "
-"botones en 1993."
+msgid "The original controller for the Sega Genesis was released in 1988. It had three main face buttons. Sega released a six-button version in 1993."
+msgstr "[CR]El mando original de la Sega Genesis/Mega Drive salió a la venta en 1988. [CR]Tenía tres botones de cara principales. Sega lanzó una versión de seis [CR]botones en 1993."
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: OpenEmu (openemu.org)"
 msgstr "Créditos de la imagen: OpenEmu (openemu.org)"
+
+"El mando original de la Sega Genesis/Mega Drive salió a la venta en 1988. "
+"Tenía tres botones de cara principales. Sega lanzó una versión de seis "
+"botones en 1993."
+
 
 msgctxt "#30000"
 msgid "Sega Genesis"

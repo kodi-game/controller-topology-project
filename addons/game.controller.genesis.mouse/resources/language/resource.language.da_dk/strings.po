@@ -23,10 +23,9 @@ msgid "Sega Genesis mouse"
 msgstr "Sega mus"
 
 msgctxt "Addon Description"
-msgid ""
-"The Sega Mouse is a ball mouse for the Sega Mega Drive/Genesis released in "
-"1993. It was intended to be used for art creation software."
-msgstr ""
+msgid "The Sega Mouse is a ball mouse for the Sega Mega Drive/Genesis released in 1993. It was intended to be used for art creation software."
+msgstr "[CR]Sega mus er en kuglemus til Sega Mega Drive/Genesis udgivet i 1993. Den var [CR]beregnet til at blive brugt til software til kunstskabelse."
+
 "Sega mus er en kuglemus til Sega Mega Drive/Genesis udgivet i 1993. Den var "
 "beregnet til at blive brugt til software til kunstskabelse."
 
