@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="game.controller.genesis.mouse"
-        name="Sega Mouse"
-        version="1.0.22"
+        name="Genesis Mouse"
+        version="1.0.23"
         provider-name="Team Kodi">
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
@@ -11,7 +11,7 @@
         </assets>
         <summary lang="da_DK">Sega mus</summary>
         <summary lang="de_DE">Sega Mouse</summary>
-        <summary lang="en_GB">Sega Mouse</summary>
+        <summary lang="en_GB">Sega Genesis mouse</summary>
         <summary lang="es_ES">Ratón Sega</summary>
         <summary lang="fr_FR">Souris Sega</summary>
         <summary lang="it_IT">Mouse Sega</summary>

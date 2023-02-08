@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="game.controller.genesis.6button"
-        name="Sega Genesis Controller"
-        version="1.0.22"
+        name="Genesis Controller (6-Button)"
+        version="1.0.23"
         provider-name="Team Kodi">
     <extension point="kodi.game.controller" library="resources/layout.xml"/>
     <extension point="xbmc.addon.metadata">
@@ -11,7 +11,7 @@
         </assets>
         <summary lang="da_DK">Sega Genesis controller</summary>
         <summary lang="de_DE">Sega Genesis Controller</summary>
-        <summary lang="en_GB">Sega Genesis controller</summary>
+        <summary lang="en_GB">Sega Genesis controller (6-Button)</summary>
         <summary lang="es_ES">Mando Sega Genesis</summary>
         <summary lang="fi_FI">Sega Genesis -ohjain</summary>
         <summary lang="fr_FR">Manette Sega Genesis</summary>
