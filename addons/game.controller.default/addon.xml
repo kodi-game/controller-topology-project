@@ -29,6 +29,7 @@
         <summary lang="it_IT">Controller predefinito</summary>
         <summary lang="ko_KR">기본 콘트롤러</summary>
         <summary lang="lt_LT">Numatytasis valdiklis</summary>
+        <summary lang="lv_LV">Standarta kontrolieris</summary>
         <summary lang="nb_NO">Forvalgt kontroller</summary>
         <summary lang="nl_NL">Standaard Controller</summary>
         <summary lang="oc_FR">Contrarotlaire per defaut</summary>
@@ -60,6 +61,7 @@
         <description lang="it_IT">Il controller predefinito del media center è basato sul controller Xbox 360.</description>
         <description lang="ko_KR">기본 미디어 센터 컨트롤러는 Xbox 360 컨트롤러를 기반으로 합니다.</description>
         <description lang="lt_LT">Numatytasis media centro valdiklis yra paremtas Xbox 360 valdikliu.</description>
+        <description lang="lv_LV">Standarta mediju centra kontrolleris, kas balstīts uz Xbox 360 kontrolieri.</description>
         <description lang="nl_NL">De standaard media centrum controller is gebaseerd op de Xbox 360 controller.</description>
         <description lang="pl_PL">Domyślny kontroler centrum multimedialnego jest oparty na kontrolerze Xbox 360.</description>
         <description lang="pt_BR">O controlador do media center padrão é baseado no controlador do Xbox 360.</description>
@@ -88,6 +90,7 @@
         <disclaimer lang="it_IT">Credito immagine: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="ko_KR">이미지 제공: Wikipedia(wikipedia.org)</disclaimer>
         <disclaimer lang="lt_LT">Atvaizdo šaltinis: Wikipedia (wikipedia.org)</disclaimer>
+        <disclaimer lang="lv_LV">Attēla avots: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="nb_NO">Bildekilde: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="nl_NL">Bron afbeelding: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="oc_FR">Crèdit imatge : Wikipedia (wikipedia.org)</disclaimer>
