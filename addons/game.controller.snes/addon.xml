@@ -29,6 +29,7 @@
         <summary lang="it_IT">Controller SNES</summary>
         <summary lang="ko_KR">SNES 컨트롤러</summary>
         <summary lang="lt_LT">SNES valdiklis</summary>
+        <summary lang="lv_LV">SNES kontrolieris</summary>
         <summary lang="nb_NO">SNES-kontroller</summary>
         <summary lang="nl_NL">SNES controller</summary>
         <summary lang="pl_PL">Kontroler SNES</summary>
@@ -59,6 +60,7 @@
         <description lang="it_IT">Il SNES (noto anche come Super NES o Super Nintendo) è una console a 16 bit rilasciata nel 1990. Il design del controller è servito da ispirazione per i controller PlayStation, Dreamcast, Xbox e Wii Classic.</description>
         <description lang="ko_KR">SNES(Super NES 또는 슈퍼 닌텐도라고도 함)는 1990년에 출시된 16비트 콘솔입니다. 컨트롤러 디자인은 PlayStation, Dreamcast, Xbox 및 Wii 클래식 컨트롤러에 영감을 주었습니다.</description>
         <description lang="lt_LT">SNES (taip pat žinomas kaip Super NES arba Super Nintendo) yra 16 bitų konsolė, išleista 1990 m. Valdiklio dizainas įkvėpė PlayStation, Dreamcast, Xbox ir Wii Classic valdiklius.</description>
+        <description lang="lv_LV">SNES (pazīstams arī kā Super NES vai Super Nintendo) ir 16 bitu konsole, kas izlaista 1990. gadā. Kontroliera dizains kalpoja par iedvesmu PlayStation, Dreamcast, Xbox un Wii Classic kontrolieriem.</description>
         <description lang="nl_NL">De SNES (ook bekend als de Super NES of Super Nintendo) is een 16-bit console uit 1990. Het controller ontwerp heeft gediend als inspiratie voor de PlayStations, Dreamcast, Xbox en Wii controllers.</description>
         <description lang="pl_PL">SNES (znana również jako Super NES lub Super Nintendo) to 16-bitowa konsola wydana w 1990 roku. Wzór kontrolera był inspiracją dla kontrolerów PlayStation, Dreamcast, Xbox i Wii Classic.</description>
         <description lang="pt_BR">O SNES (também conhecido como Super NES ou Super Nintendo) é um console de 16 bits lançado em 1990. O design do controlador serviu de inspiração para os controles PlayStation, Dreamcast, Xbox e Wii Classic.</description>
@@ -88,6 +90,7 @@
         <disclaimer lang="it_IT">Credito immagine: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="ko_KR">이미지 제공: OpenEmu(openemu.org)</disclaimer>
         <disclaimer lang="lt_LT">Atvaizdo šaltinis: OpenEmu (openemu.org)</disclaimer>
+        <disclaimer lang="lv_LV">Attēla avots: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="nb_NO">Bildekilde: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="nl_NL">Bron afbeelding: OpenEmu (openemu.org)</disclaimer>
         <disclaimer lang="oc_FR">Crèdit imatge : OpenEmu (openemu.org)</disclaimer>
