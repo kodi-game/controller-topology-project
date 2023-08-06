@@ -38,6 +38,7 @@
         <disclaimer lang="nl_NL">Bron afbeelding: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="pl_PL">Pochodzenie obrazu: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="ru_RU">Источник изображения: Wikipedia (wikipedia.org)</disclaimer>
+        <disclaimer lang="uk_UA">Джерело зображення: Wikipedia (wikipedia.org)</disclaimer>
         <disclaimer lang="zh_CN">图片来源：维基百科（Wikipedia.org）</disclaimer>
     </extension>
 </addon>
