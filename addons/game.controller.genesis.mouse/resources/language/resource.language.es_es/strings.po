@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: game.controller.genesis.mouse\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
 "PO-Revision-Date: 2023-02-27 09:16+0000\n"
 "Last-Translator: José Antonio Alvarado <jalvarado0.eses@gmail.com>\n"
@@ -26,8 +26,8 @@ msgid "The Sega Mouse is a ball mouse for the Sega Mega Drive/Genesis released i
 msgstr "El Sega Mouse es un ratón de bola para la Sega Mega Drive/Genesis lanzado en 1993. Estaba destinado a ser utilizado para el software de creación artística."
 
 msgctxt "#30000"
-msgid "Sega Mouse"
-msgstr "Sega Ratón"
+msgid "Genesis Mouse"
+msgstr ""
 
 msgctxt "#30001"
 msgid "Left button"
@@ -48,3 +48,7 @@ msgstr "Start"
 msgctxt "#30005"
 msgid "Pointer"
 msgstr "Puntero"
+
+#~ msgctxt "#30000"
+#~ msgid "Sega Mouse"
+#~ msgstr "Sega Ratón"

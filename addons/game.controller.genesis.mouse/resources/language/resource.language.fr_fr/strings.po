@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: game.controller.genesis.mouse\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
 "PO-Revision-Date: 2023-03-20 20:16+0000\n"
 "Last-Translator: skypichat <skypichat@hotmail.fr>\n"
@@ -26,8 +26,8 @@ msgid "The Sega Mouse is a ball mouse for the Sega Mega Drive/Genesis released i
 msgstr "La souris Sega est une souris à boule pour la Sega Mega Drive/Genesis sortie en 1993. Elle était destinée à être utilisée pour les logiciels de création artistique."
 
 msgctxt "#30000"
-msgid "Sega Mouse"
-msgstr "Souris Sega"
+msgid "Genesis Mouse"
+msgstr ""
 
 msgctxt "#30001"
 msgid "Left button"
@@ -48,3 +48,7 @@ msgstr "Démarrer"
 msgctxt "#30005"
 msgid "Pointer"
 msgstr "Pointeur"
+
+#~ msgctxt "#30000"
+#~ msgid "Sega Mouse"
+#~ msgstr "Souris Sega"
