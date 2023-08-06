@@ -38,7 +38,7 @@ msgid "Right button"
 msgstr "Oikea painike"
 
 msgctxt "#30003"
-msgid "Midle button"
+msgid "Middle button"
 msgstr "Keskipainike"
 
 msgctxt "#30004"

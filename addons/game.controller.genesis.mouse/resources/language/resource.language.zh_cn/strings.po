@@ -38,7 +38,7 @@ msgid "Right button"
 msgstr "右按钮"
 
 msgctxt "#30003"
-msgid "Midle button"
+msgid "Middle button"
 msgstr "中按钮"
 
 msgctxt "#30004"
