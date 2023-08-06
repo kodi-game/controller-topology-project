@@ -38,7 +38,7 @@ msgid "Right button"
 msgstr "Tasto destro"
 
 msgctxt "#30003"
-msgid "Midle button"
+msgid "Middle button"
 msgstr "Tasto centrale"
 
 msgctxt "#30004"
