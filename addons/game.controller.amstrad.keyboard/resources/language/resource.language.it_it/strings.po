@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: game.controller.amstrad.keyboard\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
 "PO-Revision-Date: 2023-08-25 13:11+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
@@ -198,8 +198,8 @@ msgid "-"
 msgstr "-"
 
 msgctxt "#30042"
-msgid "="
-msgstr "="
+msgid "↑"
+msgstr ""
 
 msgctxt "#30043"
 msgid "@"
@@ -218,8 +218,8 @@ msgid "Return"
 msgstr "Enter"
 
 msgctxt "#30047"
-msgid "Backspace"
-msgstr "Indietro"
+msgid "Clear"
+msgstr ""
 
 msgctxt "#30048"
 msgid "Escape"
@@ -298,33 +298,86 @@ msgid "Caps Lock"
 msgstr "Blocco maiuscole"
 
 msgctxt "#30067"
-msgid "Num Enter"
-msgstr "Enter numerico"
+msgid "Num Intro"
+msgstr ""
 
 msgctxt "#30068"
 msgid "Delete"
 msgstr "Elimina"
 
 msgctxt "#30069"
-msgid "End"
-msgstr "Fine"
+msgid "Stop tape"
+msgstr ""
 
 msgctxt "#30070"
-msgid "Page Up"
-msgstr "Pagina su"
+msgid "Rewind tape"
+msgstr ""
 
-msgctxt "#30071"
-msgid "Page Down"
-msgstr "Pagina giù"
-
+# empty string with id 30071
 msgctxt "#30072"
-msgid "Insert"
-msgstr "Inserisci"
+msgid "Switch cursor"
+msgstr ""
 
 msgctxt "#30073"
-msgid "Home"
-msgstr "Home"
+msgid "Play tape"
+msgstr ""
 
 msgctxt "#30074"
 msgid "Copy"
 msgstr "Copia"
+
+msgctxt "#30075"
+msgid "Virtual keyboard"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Main GUI"
+msgstr ""
+
+msgctxt "#30077"
+msgid ":"
+msgstr ""
+
+msgctxt "#30078"
+msgid "/"
+msgstr ""
+
+msgctxt "#30079"
+msgid "\\"
+msgstr ""
+
+msgctxt "#30080"
+msgid "]"
+msgstr ""
+
+#~ msgctxt "#30042"
+#~ msgid "="
+#~ msgstr "="
+
+#~ msgctxt "#30047"
+#~ msgid "Backspace"
+#~ msgstr "Indietro"
+
+#~ msgctxt "#30067"
+#~ msgid "Num Enter"
+#~ msgstr "Enter numerico"
+
+#~ msgctxt "#30069"
+#~ msgid "End"
+#~ msgstr "Fine"
+
+#~ msgctxt "#30070"
+#~ msgid "Page Up"
+#~ msgstr "Pagina su"
+
+#~ msgctxt "#30071"
+#~ msgid "Page Down"
+#~ msgstr "Pagina giù"
+
+#~ msgctxt "#30072"
+#~ msgid "Insert"
+#~ msgstr "Inserisci"
+
+#~ msgctxt "#30073"
+#~ msgid "Home"
+#~ msgstr "Home"
