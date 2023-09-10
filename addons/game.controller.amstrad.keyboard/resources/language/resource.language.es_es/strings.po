@@ -5,10 +5,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: game.controller.amstrad.keyboard\n"
-"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2023-07-07 22:42+0000\n"
-"Last-Translator: José Antonio Alvarado <jalvarado0.eses@gmail.com>\n"
+"PO-Revision-Date: 2023-09-10 18:37+0000\n"
+"Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-controller-amstrad-keyboard/es_es/>\n"
 "Language: es_es\n"
 "MIME-Version: 1.0\n"
@@ -199,7 +199,7 @@ msgstr "-"
 
 msgctxt "#30042"
 msgid "↑"
-msgstr ""
+msgstr "↑"
 
 msgctxt "#30043"
 msgid "@"
@@ -219,7 +219,7 @@ msgstr "Retorno"
 
 msgctxt "#30047"
 msgid "Clear"
-msgstr ""
+msgstr "Limpiar"
 
 msgctxt "#30048"
 msgid "Escape"
@@ -243,47 +243,47 @@ msgstr "Izquierda"
 
 msgctxt "#30053"
 msgid "Num 0"
-msgstr "Núm 0"
+msgstr "0 Numérico"
 
 msgctxt "#30054"
 msgid "Num 1"
-msgstr "Núm 1"
+msgstr "1 Numérico"
 
 msgctxt "#30055"
 msgid "Num 2"
-msgstr "Núm 2"
+msgstr "2 Numérico"
 
 msgctxt "#30056"
 msgid "Num 3"
-msgstr "Núm 3"
+msgstr "3 Numérico"
 
 msgctxt "#30057"
 msgid "Num 4"
-msgstr "Núm 4"
+msgstr "4 Numérico"
 
 msgctxt "#30058"
 msgid "Num 5"
-msgstr "Núm 5"
+msgstr "5 Numérico"
 
 msgctxt "#30059"
 msgid "Num 6"
-msgstr "Núm 6"
+msgstr "6 Numérico"
 
 msgctxt "#30060"
 msgid "Num 7"
-msgstr "Núm 7"
+msgstr "7 Numérico"
 
 msgctxt "#30061"
 msgid "Num 8"
-msgstr "Núm 8"
+msgstr "8 Numérico"
 
 msgctxt "#30062"
 msgid "Num 9"
-msgstr "Núm 9"
+msgstr "9 Numérico"
 
 msgctxt "#30063"
 msgid "Num ."
-msgstr "Núm ."
+msgstr ". Numérico"
 
 msgctxt "#30064"
 msgid "Shift"
@@ -299,7 +299,7 @@ msgstr "Bloq Mayús"
 
 msgctxt "#30067"
 msgid "Num Intro"
-msgstr ""
+msgstr "Intro Numérico"
 
 msgctxt "#30068"
 msgid "Delete"
@@ -307,20 +307,20 @@ msgstr "Suprimir"
 
 msgctxt "#30069"
 msgid "Stop tape"
-msgstr ""
+msgstr "Parar cinta"
 
 msgctxt "#30070"
 msgid "Rewind tape"
-msgstr ""
+msgstr "Rebobinar cinta"
 
 # empty string with id 30071
 msgctxt "#30072"
 msgid "Switch cursor"
-msgstr ""
+msgstr "Cambiar cursor"
 
 msgctxt "#30073"
 msgid "Play tape"
-msgstr ""
+msgstr "Reproducir cinta"
 
 msgctxt "#30074"
 msgid "Copy"
@@ -328,27 +328,27 @@ msgstr "Copia"
 
 msgctxt "#30075"
 msgid "Virtual keyboard"
-msgstr ""
+msgstr "Teclado virtual"
 
 msgctxt "#30076"
 msgid "Main GUI"
-msgstr ""
+msgstr "Interfaz gráfica principal"
 
 msgctxt "#30077"
 msgid ":"
-msgstr ""
+msgstr ":"
 
 msgctxt "#30078"
 msgid "/"
-msgstr ""
+msgstr "/"
 
 msgctxt "#30079"
 msgid "\\"
-msgstr ""
+msgstr "\\"
 
 msgctxt "#30080"
 msgid "]"
-msgstr ""
+msgstr "]"
 
 #~ msgctxt "#30042"
 #~ msgid "="
