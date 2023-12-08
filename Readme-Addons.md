@@ -239,6 +239,7 @@ menu |
 power | Power Macintosh power key
 euro | Some European keyboards
 undo | Atari keyboard has Undo
+oem102 | Present in some European layouts
 
 ### Topology
 
