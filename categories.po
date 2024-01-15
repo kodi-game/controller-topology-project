@@ -1,5 +1,5 @@
 #.
-#. Categories. Copied from Kodi's strings.po.
+#. Language strings for categories. Copied from Kodi's strings.po.
 #.
 
 #. Category "face"
