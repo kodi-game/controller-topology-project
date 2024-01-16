@@ -547,7 +547,7 @@ msgid "~"
 msgstr "~"
 
 msgctxt "#30130"
-msgid "Mode/Option/AltGr"
+msgid "Mode/Option"
 msgstr ""
 
 msgctxt "#30131"
