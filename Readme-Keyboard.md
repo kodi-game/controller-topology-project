@@ -2,6 +2,8 @@
 
 Keys must provide a `symbol` attribute to facilitate keyboard mapping. Symbols are hardware-independent virtual key representations. The following symbols are used:
 
+The following 140 keys are used in [game.controller.keyboard](addons/game.controller.keyboard/resources):
+
 ### ASCII keys
 
 Symbol | Character | ASCII value | Label (en_gb)
