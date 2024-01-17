@@ -142,7 +142,7 @@ leftmeta | _Left Meta_
 rightmeta | _Right Meta_
 leftsuper | _Left Windows_
 rightsuper | _Right Windows_
-mode | _Mode/Option/AltGr_
+mode | _Mode/Option_
 compose | _Compose_
 help | _Help_
 printscreen | _Print Screen_
