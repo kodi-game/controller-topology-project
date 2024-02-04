@@ -92,6 +92,17 @@ msgctxt "#35167"
 msgid "Single keys"
 msgstr ""
 
+#. Category "keys"
+#. Keyboard keys
+msgctxt "#35150"
+msgid "Keyboard"
+msgstr ""
+
+#. Category "keys"
+#. Virtual keyboard buttons, such as toggling the virtual keyboard
+msgctxt "#10103"
+msgid "Virtual keyboard"
+
 #. Category "wheel"
 #. buttons that appear on a racing wheel
 msgctxt "#35071"
