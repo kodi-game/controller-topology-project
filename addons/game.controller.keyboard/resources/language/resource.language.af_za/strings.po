@@ -582,7 +582,7 @@ msgid "Undo"
 msgstr ""
 
 msgctxt "#30139"
-msgid "Num Pad Equals"
+msgid "Num Pad ="
 msgstr ""
 
 msgctxt "#30140"
