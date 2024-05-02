@@ -1,0 +1,18 @@
+[project]
+name = "controller_topology_project"
+version = "1.0.0"
+authors = [
+  { name="Garrett Brown", email="garrett@kodi.tv" },
+]
+description = "The Controller Topology Project models how controllers connect to and map to each other for all gaming history."
+readme = "Readme.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: ODbL License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/kodi-game/controller-topology-project"
+Issues = "https://github.com/kodi-game/controller-topology-project/issues"
