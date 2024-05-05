@@ -1,12 +1,12 @@
 # Controller Topology Project
 
+![Configuration GUI](scripts/docs/ConfigurationGUI.png)
+
 "Topology" is the way in which things are connected. Connections appear in emulation in several ways. For example, buttons on modern controllers map to buttons on retro controllers.
 
 As another example, SNES supports hubs called "multitaps". These allow four controllers to connect to a single port on the SNES console.
 
 This project aims to curate connections like this for all gaming history.
-
-For a practical example of what be done with this data, see the [visualization experiment](scripts).
 
 ## Data specification
 
@@ -51,3 +51,15 @@ Now, we have button data for most controllers.
 Many projects, including libretro and Kodi, curate data mapping driver button IDs to a controller profile. Kodi allows mapping a physical controller to multiple profiles. When multiple profiles are mapped to the same driver data, we can transform this data back into mappings between profiles.
 
 Now, we have data mapping controllers to each other.
+
+## Visualization experiment
+
+See [visualization experiment](scripts).
+
+Work has started on A-star search for GUI mapping. A cost map is created by dilating button masks:
+
+![Line path 1](scripts/docs/Linepath1.png)
+
+![Line path 2](scripts/docs/Linepath2.png)
+
+![Line path 3](scripts/docs/Linepath3.png)
