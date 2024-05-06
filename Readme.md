@@ -60,6 +60,10 @@ Work has started on A-star search for GUI mapping. A cost map is created by dila
 
 ![Line path 1](scripts/docs/Linepath1.png)
 
+The line is routed from the button to its label in the GUI, following the path of least cost subject to some constraints:
+
 ![Line path 2](scripts/docs/Linepath2.png)
+
+Because the cost is lower between buttons, lines will do their best to avoid overlapping with buttons:
 
 ![Line path 3](scripts/docs/Linepath3.png)
