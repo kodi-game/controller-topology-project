@@ -56,7 +56,7 @@ Now, we have data mapping controllers to each other.
 
 See [visualization experiment](scripts).
 
-Work has started on A-star search for GUI mapping. A cost map is created by dilating button masks:
+Work has started on A* search for GUI mapping. A cost map is created by dilating button masks:
 
 ![Line path 1](scripts/docs/Linepath1.png)
 
