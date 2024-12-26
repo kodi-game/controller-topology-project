@@ -29,7 +29,7 @@ msgid "Image credit: OpenEmu (openemu.org)"
 msgstr ""
 
 msgctxt "#30000"
-msgid "Genesis (6-Button)"
+msgid "Sega Genesis"
 msgstr ""
 
 msgctxt "#30001"

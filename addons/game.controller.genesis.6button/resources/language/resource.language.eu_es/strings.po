@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: game.controller.genesis.6button\n"
-"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
 "PO-Revision-Date: 2023-02-01 20:55+0000\n"
 "Last-Translator: Aitor Salaberria <trslbrr@gmail.com>\n"
@@ -30,7 +30,7 @@ msgid "Image credit: OpenEmu (openemu.org)"
 msgstr "Irudiaren kreditua: OpenEmu (openemu.org)"
 
 msgctxt "#30000"
-msgid "Genesis (6-Button)"
+msgid "Sega Genesis"
 msgstr ""
 
 msgctxt "#30001"
