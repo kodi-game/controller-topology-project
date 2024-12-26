@@ -9,7 +9,8 @@
         <assets>
             <icon>resources/icon.png</icon>
         </assets>
-        <summary lang="en_GB">Genesis Team Player</summary>
-        <description lang="en_GB">The Genesis Team Player is a peripheral released in 1993 by Sega for the Sega Genesis. It allows up to four players to connect Genesis controllers.</description>
+        <summary lang="en_GB">Default Controller</summary>
+        <description lang="en_GB">The default media center controller is based on the Xbox 360 controller.</description>
+        <disclaimer lang="en_GB">Image credit: Wikipedia (wikipedia.org)</disclaimer>
     </extension>
 </addon>
