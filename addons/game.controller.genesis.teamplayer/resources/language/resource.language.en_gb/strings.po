@@ -21,7 +21,7 @@ msgid "Genesis Team Player"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "The Team Player is a peripheral released in 1993 by Sega for the Sega Genesis. It allows up to four players to connect Genesis controllers."
+msgid "The Genesis Team Player is a peripheral released in 1993 by Sega for the Sega Genesis. It allows up to four players to connect Genesis controllers."
 msgstr ""
 
 msgctxt "#30000"
