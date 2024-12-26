@@ -5,18 +5,6 @@
 msgid ""
 msgstr "Project-Id-Version: game.controller.ws\nReport-Msgid-Bugs-To: translations@kodi.tv\nPOT-Creation-Date: 2014-05-30 17:00+8\nPO-Revision-Date: 2024-12-26 21:36+0000\nLast-Translator: Christian Gade <gade@kodi.tv>\nLanguage-Team: Ukrainian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-controller-ws/uk_ua/>\nLanguage: uk_ua\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.9.2\n"
 
-msgctxt "Addon Summary"
-msgid "WonderSwan"
-msgstr ""
-
-msgctxt "Addon Description"
-msgid "The WonderSwan is a 16-bit handheld console released in 1999 by Bandai. It is playable both vertically and horizontally, and was praised for its long battery life and unique library of games."
-msgstr ""
-
-msgctxt "Addon Disclaimer"
-msgid "Image credit: OpenEmu (openemu.org)"
-msgstr ""
-
 msgctxt "#30000"
 msgid "WonderSwan"
 msgstr ""
@@ -63,4 +51,16 @@ msgstr ""
 
 msgctxt "#30011"
 msgid "Y-Cursor Left"
+msgctxt "Addon Summary"
+msgid "WonderSwan"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "The WonderSwan is a 16-bit handheld console released in 1999 by Bandai. It is playable both vertically and horizontally, and was praised for its long battery life and unique library of games."
+msgstr ""
+
+msgctxt "Addon Disclaimer"
+msgid "Image credit: OpenEmu (openemu.org)"
+msgstr ""
+
 msgstr ""
