@@ -10,6 +10,6 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="en_GB">Genesis Team Player</summary>
-        <description lang="en_GB">The Genesis Team Player is a peripheral released in 1993 by Sega for the Sega Genesis. It allows up to four players to connect Genesis controllers.</description>
+        <description lang="en_GB">The Team Player is a peripheral released in 1993 by Sega for the Sega Genesis. It allows up to four players to connect Genesis controllers.</description>
     </extension>
 </addon>
