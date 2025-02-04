@@ -25,7 +25,6 @@ msgctxt "Addon Description"
 msgid "The Xbox 360 was introduced at E3 in 2005. The controller is known for its enduring comfort."
 msgstr ""
 
-
 msgctxt "#30000"
 msgid "Xbox 360"
 msgstr ""
