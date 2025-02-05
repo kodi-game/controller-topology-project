@@ -10,6 +10,8 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="en_GB">OSMC Remote</summary>
+        <summary lang="es_ES">Mando OSMC</summary>
         <description lang="en_GB">This remote is the perfect way to control OSMC. Visit osmc.tv to learn more!</description>
+        <description lang="es_ES">[CR]Este mando es la manera perfecta de controlar OSMC. ¡Más información en [CR]osmc.tv!</description>
     </extension>
 </addon>
