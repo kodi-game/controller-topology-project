@@ -10,6 +10,8 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="en_GB">Flirc USB Receiver</summary>
+        <summary lang="es_ES">Receptor USB Flirc</summary>
         <description lang="en_GB">The Flirc USB receiver lets you use any remote control with Kodi. Find out more at flirc.tv!</description>
+        <description lang="es_ES">El receptor USB Flirc permite usar cualquier mando a distancia con Kodi. ¡Más información en flirc.tv!</description>
     </extension>
 </addon>
