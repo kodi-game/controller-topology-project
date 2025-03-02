@@ -17,6 +17,7 @@
         <summary lang="fi_FI">Sega Saturn -ohjain</summary>
         <summary lang="fr_FR">Manette Sega Saturn</summary>
         <summary lang="it_IT">Controller Sega Saturn</summary>
+        <summary lang="ru_RU">Контроллер Sega Saturn</summary>
         <summary lang="zh_CN">世嘉土星控制器</summary>
         <description lang="da_DK">Den originale controller til Sega Saturn debuterede i Japan i 1994. I Nordamerika og Europa blev der udgivet en anderledes, meget større controller for angiveligt at tage hensyn til vestlige forbrugeres &quot;større hænder&quot;.</description>
         <description lang="de_DE">Der Originalcontroller für den Sega Saturn kam 1994 in Japan auf den Markt. In Nordamerika und Europa wurde ein anderer, viel sperrigerer Controller herausgebracht, der angeblich für die „größeren Hände“ der westlichen Verbraucher geeignet war.</description>
@@ -26,6 +27,7 @@
         <description lang="fi_FI">Sega Saturnin alkuperäinen ohjain esiteltiin Japanissa vuonna 1994. Pohjois-Amerikassa ja Euroopassa julkaistiin erilainen, paljon kookkaampi ohjain, jonka on tarkoitus sopia länsimaisten kuluttajien &quot;isompiin käsiin&quot;.</description>
         <description lang="fr_FR">La manette original de la Sega Saturn a fait ses débuts au Japon en 1994. En Amérique du Nord et en Europe, une manette différente et beaucoup plus volumineuse a été lancé pour soi-disant s&apos;adapter aux &quot;plus grandes mains&quot; des consommateurs occidentaux.</description>
         <description lang="it_IT">Il controller originale per Sega Saturn ha debuttato in Giappone nel 1994. In Nord America e in Europa, è stato rilasciato un controller diverso e molto più ingombrante per adattarsi presumibilmente alle &quot;mani più grandi&quot; dei consumatori occidentali.</description>
+        <description lang="ru_RU">Оригинальный контроллер для Sega Saturn дебютировал в Японии в 1994 году. В Северной Америке и Европе был выпущен другой, гораздо более громоздкий контроллер, предположительно рассчитанный на большие руки западных потребителей.</description>
         <description lang="zh_CN">世嘉土星的原始控制器于1994年在日本首次亮相。在北美和欧洲，发布了一款不同的、体积更大的控制器，以适应西方消费者的“大手”。</description>
     </extension>
 </addon>
