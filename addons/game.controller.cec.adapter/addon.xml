@@ -11,7 +11,9 @@
         </assets>
         <summary lang="en_GB">CEC Adapter</summary>
         <summary lang="es_ES">Adaptador CEC</summary>
+        <summary lang="ru_RU">Адаптер CEC</summary>
         <description lang="en_GB">The Pulse-Eight USB-CEC Adapter communicates with other HDMI-CEC devices in your home theater system.</description>
         <description lang="es_ES">El Adaptardor USB-CEC Pulse-Eight comunica con otros dispositivos HDMI-CEC dentro del sistema de cine en casa.</description>
+        <description lang="ru_RU">Адаптер Pulse-Eight USB-CEC взаимодействует с другими устройствами HDMI-CEC в системе домашнего кинотеатра.</description>
     </extension>
 </addon>
