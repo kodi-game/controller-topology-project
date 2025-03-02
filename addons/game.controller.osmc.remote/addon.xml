@@ -11,7 +11,9 @@
         </assets>
         <summary lang="en_GB">OSMC Remote</summary>
         <summary lang="es_ES">Mando OSMC</summary>
+        <summary lang="ru_RU">OSMC Remote</summary>
         <description lang="en_GB">This remote is the perfect way to control OSMC. Visit osmc.tv to learn more!</description>
         <description lang="es_ES">Este mando es la manera perfecta de controlar OSMC. ¡Más información en osmc.tv!</description>
+        <description lang="ru_RU">Этот пульт - идеальный способ управления OSMC. Посетите сайт osmc.tv, чтобы узнать больше!</description>
     </extension>
 </addon>
