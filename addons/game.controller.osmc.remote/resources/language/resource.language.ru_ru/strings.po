@@ -25,9 +25,7 @@ msgstr "OSMC Remote"
 
 msgctxt "Addon Description"
 msgid "This remote is the perfect way to control OSMC. Visit osmc.tv to learn more!"
-msgstr ""
-"Этот пульт - идеальный способ управления OSMC. Посетите сайт osmc.tv, чтобы "
-"узнать больше!"
+msgstr "Этот пульт - идеальный способ управления OSMC. Посетите сайт osmc.tv, чтобы узнать больше!"
 
 msgctxt "#30000"
 msgid "OSMC Remote"
