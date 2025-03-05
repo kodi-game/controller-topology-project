@@ -24,8 +24,7 @@ msgstr "Xbox 360 컨트롤러"
 
 msgctxt "Addon Description"
 msgid "The Xbox 360 was introduced at E3 in 2005. The controller is known for its enduring comfort."
-msgstr "Xbox 360은 2005년 E3에서 출시되었습니다. 이 컨트롤러는 오랫동안 편안하게 "
-"사용할 수 있는 것으로 유명합니다."
+msgstr "Xbox 360은 2005년 E3에서 출시되었습니다. 이 컨트롤러는 오랫동안 편안하게 사용할 수 있는 것으로 유명합니다."
 
 msgctxt "#30000"
 msgid "Xbox 360"
