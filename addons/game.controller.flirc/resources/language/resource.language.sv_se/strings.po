@@ -24,7 +24,8 @@ msgstr "Flirc USB-mottagare"
 
 msgctxt "Addon Description"
 msgid "The Flirc USB receiver lets you use any remote control with Kodi. Find out more at flirc.tv!"
-msgstr ""
+msgstr "[CR]Med Flirc USB-mottagare kan du använda vilken fjärrkontroll som helst med [CR]Kodi. Ta reda på mer på flirc.tv!"
+
 "Med Flirc USB-mottagare kan du använda vilken fjärrkontroll som helst med "
 "Kodi. Ta reda på mer på flirc.tv!"
 
