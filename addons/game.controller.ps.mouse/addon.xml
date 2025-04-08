@@ -19,6 +19,7 @@
         <summary lang="it_IT">Mouse PlayStation</summary>
         <summary lang="pl_PL">Mysz PlayStation</summary>
         <summary lang="ru_RU">PlayStation mouse</summary>
+        <summary lang="sv_SE">PlayStation-mus</summary>
         <summary lang="zh_CN">PlayStation 鼠标</summary>
         <description lang="da_DK">PlayStation Mus er en ball-mus med to knapper. Den blev udgivet sammen med PlayStation i 1994.</description>
         <description lang="de_DE">Die PlayStation Mouse ist eine Zwei-Tasten-Kugelmaus. Sie wurde zusammen mit der PlayStation im Jahr 1994 veröffentlicht.</description>
@@ -30,6 +31,7 @@
         <description lang="it_IT">Il Mouse PlayStation è un mouse a sfera a due pulsanti. È stato rilasciato insieme alla PlayStation nel 1994.</description>
         <description lang="pl_PL">Mysz PlayStation to dwuprzyciskowa mysz kulkowa. Została wydana wraz z PlayStation w 1994 roku.</description>
         <description lang="ru_RU">PlayStation Mouse - это двухкнопочная шариковая мышь. Она была выпущена вместе с приставкой PlayStation в 1994 году.</description>
+        <description lang="sv_SE">PlayStation-mus är en kulmus med två knappar. Den lanserades tillsammans med PlayStation 1994.</description>
         <description lang="zh_CN">PlayStation 鼠标是一种两个按钮的滚轮鼠标。它于1994年与 PlayStation 一起发行。</description>
     </extension>
 </addon>

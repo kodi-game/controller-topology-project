@@ -24,7 +24,8 @@ msgstr "Xbox 360-kontroller"
 
 msgctxt "Addon Description"
 msgid "The Xbox 360 was introduced at E3 in 2005. The controller is known for its enduring comfort."
-msgstr ""
+msgstr "[CR]Xbox 360 presenterades på E3-mässan 2005. Handkontrollen är känd för sin [CR]långvariga komfort."
+
 "Xbox 360 presenterades på E3-mässan 2005. Handkontrollen är känd för sin "
 "långvariga komfort."
 
