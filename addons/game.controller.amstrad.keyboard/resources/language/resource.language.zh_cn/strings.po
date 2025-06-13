@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.controller.amstrad.keyboard\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2025-06-01 16:31+0000\n"
+"PO-Revision-Date: 2025-06-13 03:29+0000\n"
 "Last-Translator: wabisabi926 <liwenliang926@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-controller-amstrad-keyboard/zh_Hans/>\n"
 "Language: zh_cn\n"
@@ -303,15 +303,15 @@ msgstr "数字键盘介绍"
 
 msgctxt "#30068"
 msgid "Delete"
-msgstr "Delete"
+msgstr "删除"
 
 msgctxt "#30069"
 msgid "Stop tape"
-msgstr ""
+msgstr "停止磁带"
 
 msgctxt "#30070"
 msgid "Rewind tape"
-msgstr ""
+msgstr "倒带磁带"
 
 # empty string with id 30071
 msgctxt "#30072"
@@ -320,11 +320,11 @@ msgstr "切换光标"
 
 msgctxt "#30073"
 msgid "Play tape"
-msgstr ""
+msgstr "运行磁带"
 
 msgctxt "#30074"
 msgid "Copy"
-msgstr "Copy"
+msgstr "复制"
 
 msgctxt "#30075"
 msgid "Virtual keyboard"
