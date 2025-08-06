@@ -1,6 +1,6 @@
 [project]
 name = "controller_topology_project"
-version = "1.0.4"
+version = "1.0.5"
 authors = [
   { name="Garrett Brown", email="garrett@kodi.tv" },
 ]
