@@ -24,7 +24,7 @@ msgstr "Telecomando OSMC"
 
 msgctxt "Addon Description"
 msgid "This remote is the perfect way to control OSMC. Visit osmc.tv to learn more!"
-msgstr "[CR]Questo telecomando è il modo perfetto per controllare OSMC. Visita osmc.tv [CR]per saperne di più!"
+msgstr "Questo telecomando è il modo perfetto per controllare OSMC. Visita osmc.tv [CR]per saperne di più!"
 
 "Questo telecomando è il modo perfetto per controllare OSMC. Visita osmc.tv "
 "per saperne di più!"
