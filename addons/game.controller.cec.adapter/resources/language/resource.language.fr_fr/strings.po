@@ -24,7 +24,8 @@ msgstr "Adaptateur CEC"
 
 msgctxt "Addon Description"
 msgid "The Pulse-Eight USB-CEC Adapter communicates with other HDMI-CEC devices in your home theater system."
-msgstr ""
+msgstr "[CR]L'adaptateur USB-CEC Pulse-Eight communique avec d'autres appareils HDMI-CEC [CR]au sein de votre système home-cinema."
+
 "L'adaptateur USB-CEC Pulse-Eight communique avec d'autres appareils HDMI-CEC "
 "au sein de votre système home-cinema."
 
