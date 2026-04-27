@@ -10,7 +10,7 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="en_GB">Competition Pro Joystick</summary>
-        <description lang="en_GB">The Competition Pro is a classic joystick for the Amiga home computers of the '80s and '90s.</description>
+        <description lang="en_GB">The Competition Pro is a classic joystick for the Amiga home computers of the &apos;80s and &apos;90s.</description>
         <disclaimer lang="en_GB">Image credit: www.amiga-shop.net</disclaimer>
     </extension>
 </addon>
