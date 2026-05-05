@@ -19,11 +19,11 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "Competition Pro Joystick"
-msgstr "Contrôleur Amiga CD³²"
+msgstr ""
 
 msgctxt "Addon Description"
 msgid "The Competition Pro is a classic joystick for the Amiga home computers of the '80s and '90s."
-msgstr "L'Amiga CD³² est une console 32 bits sortie par Commodore en 1993. L'Amiga CD³² est également compatible avec la plupart des manettes des années 80 et 90."
+msgstr ""
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: www.amiga-shop.net"
@@ -31,7 +31,7 @@ msgstr "Crédit image : Wikipédia (wikipedia.org)"
 
 msgctxt "#30000"
 msgid "Competition Pro Joystick"
-msgstr "Contrôleur Amiga CD³²"
+msgstr ""
 
 msgctxt "#30001"
 msgid "Red / Fire"
