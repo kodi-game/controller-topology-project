@@ -69,15 +69,15 @@ msgid "Select"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Select"
-msgstr ""
-
-msgctxt "#30011"
 msgid "Play"
 msgstr ""
 
-msgctxt "#30012"
+msgctxt "#30011"
 msgid "Rewind"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Forward"
 msgstr ""
 
 msgctxt "#30013"
