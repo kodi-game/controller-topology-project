@@ -68,12 +68,32 @@ msgstr "左"
 
 msgctxt "#30009"
 msgid "Select"
-msgstr "选择"
+msgstr ""
 
 msgctxt "#30010"
 msgid "Play"
-msgstr "快退"
+msgstr "选择"
 
 msgctxt "#30011"
 msgid "Rewind"
+msgstr "快退"
+
+msgctxt "#30012"
+msgid "Forward"
 msgstr "快进"
+
+msgctxt "#30013"
+msgid "L2"
+msgstr ""
+
+msgctxt "#30014"
+msgid "R2"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Left Stick"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Right Stick"
+msgstr ""

@@ -67,12 +67,32 @@ msgstr "Влево"
 
 msgctxt "#30009"
 msgid "Select"
-msgstr "Play"
+msgstr ""
 
 msgctxt "#30010"
 msgid "Play"
-msgstr "Rewind"
+msgstr "Play"
 
 msgctxt "#30011"
 msgid "Rewind"
+msgstr "Rewind"
+
+msgctxt "#30012"
+msgid "Forward"
 msgstr "Forward"
+
+msgctxt "#30013"
+msgid "L2"
+msgstr ""
+
+msgctxt "#30014"
+msgid "R2"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Left Stick"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Right Stick"
+msgstr ""

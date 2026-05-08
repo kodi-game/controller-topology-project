@@ -67,12 +67,32 @@ msgstr "Gauche"
 
 msgctxt "#30009"
 msgid "Select"
-msgstr "Jouer"
+msgstr ""
 
 msgctxt "#30010"
 msgid "Play"
-msgstr "Rembobiner"
+msgstr "Jouer"
 
 msgctxt "#30011"
 msgid "Rewind"
+msgstr "Rembobiner"
+
+msgctxt "#30012"
+msgid "Forward"
 msgstr "Avancer"
+
+msgctxt "#30013"
+msgid "L2"
+msgstr ""
+
+msgctxt "#30014"
+msgid "R2"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Left Stick"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Right Stick"
+msgstr ""

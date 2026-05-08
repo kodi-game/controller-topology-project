@@ -75,3 +75,23 @@ msgstr ""
 msgctxt "#30011"
 msgid "Rewind"
 msgstr ""
+
+msgctxt "#30012"
+msgid "Forward"
+msgstr ""
+
+msgctxt "#30013"
+msgid "L2"
+msgstr ""
+
+msgctxt "#30014"
+msgid "R2"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Left Stick"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Right Stick"
+msgstr ""

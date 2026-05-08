@@ -67,12 +67,32 @@ msgstr "Sinistra"
 
 msgctxt "#30009"
 msgid "Select"
-msgstr "Gioca"
+msgstr ""
 
 msgctxt "#30010"
 msgid "Play"
-msgstr "Indietro"
+msgstr "Gioca"
 
 msgctxt "#30011"
 msgid "Rewind"
+msgstr "Indietro"
+
+msgctxt "#30012"
+msgid "Forward"
 msgstr "Avanti"
+
+msgctxt "#30013"
+msgid "L2"
+msgstr ""
+
+msgctxt "#30014"
+msgid "R2"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Left Stick"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Right Stick"
+msgstr ""
