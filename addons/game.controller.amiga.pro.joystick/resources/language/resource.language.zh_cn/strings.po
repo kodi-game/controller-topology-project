@@ -23,7 +23,7 @@ msgid "Competition Pro Joystick"
 msgstr "专业竞技摇杆"
 
 msgctxt "Addon Description"
-msgid "The Competition Pro is a classic joystick for the Amiga home computers of the '80s and '90s."
+msgid "The Amiga Competition Pro is a classic joystick for the Amiga home computers of the '80s and '90s."
 msgstr "Competition Pro 是一款专为八九十年代 Amiga 家用电脑打造的经典游戏摇杆。"
 
 msgctxt "Addon Disclaimer"
