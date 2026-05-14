@@ -76,3 +76,7 @@ msgstr "Taaksepäin"
 msgctxt "#30011"
 msgid "Forward"
 msgstr "Eteenpäin"
+
+msgctxt "#30012"
+msgid "Select"
+msgstr ""
