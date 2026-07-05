@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.controller.psp\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2026-07-04 20:15+0000\n"
+"PO-Revision-Date: 2026-07-05 08:16+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-controller-saturn-psp/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -19,35 +19,36 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "PSP"
-msgstr ""
+msgstr "PSP"
 
 msgctxt "Addon Description"
 msgid "The PlayStation Portable (PSP) was released by Sony in 2004. It was praised for its high-end GPU and bright 4.3 inch screen. The PSP was succeeded by the PSP Go in 2009, and then the PlayStation Vita in 2011."
-msgstr ""
+msgstr "PlayStation Portable (PSP) vydala společnost Sony v roce 2004. Konzole byla oceňována pro výkonné GPU a jasnou 4,3palcovou obrazovku. V roce 2009 na PSP navázalo PSP Go a v roce 2011 PlayStation Vita."
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: OpenEmu (openemu.org)"
 msgstr "Zdroj obrázku: OpenEmu (openemu.org)"
 
+#, fuzzy
 msgctxt "#30000"
 msgid "PSP"
-msgstr ""
+msgstr "PSP"
 
 msgctxt "#30001"
 msgid "Circle"
-msgstr ""
+msgstr "Kolečko"
 
 msgctxt "#30002"
 msgid "Cross"
-msgstr ""
+msgstr "Křížek"
 
 msgctxt "#30003"
 msgid "Triangle"
-msgstr ""
+msgstr "Trojúhelník"
 
 msgctxt "#30004"
 msgid "Square"
-msgstr ""
+msgstr "Čtverec"
 
 msgctxt "#30005"
 msgid "Start"
@@ -55,7 +56,7 @@ msgstr "Start"
 
 msgctxt "#30006"
 msgid "Select"
-msgstr ""
+msgstr "Vybrat"
 
 msgctxt "#30007"
 msgid "Up"
