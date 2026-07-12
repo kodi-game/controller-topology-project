@@ -24,9 +24,7 @@ msgstr "Dálkový ovladač OSMC"
 
 msgctxt "Addon Description"
 msgid "This remote is the perfect way to control OSMC. Visit osmc.tv to learn more!"
-msgstr ""
-"Tento dálkový ovladač je ideální způsob ovládání OSMC. Další informace "
-"najdete na osmc.tv!"
+msgstr "Tento dálkový ovladač je ideální způsob ovládání OSMC. Další informace najdete na osmc.tv!"
 
 msgctxt "#30000"
 msgid "OSMC Remote"
