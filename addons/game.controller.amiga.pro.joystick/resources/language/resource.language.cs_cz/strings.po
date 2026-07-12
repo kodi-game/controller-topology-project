@@ -24,9 +24,7 @@ msgstr "Joystick Competition Pro"
 
 msgctxt "Addon Description"
 msgid "The Amiga Competition Pro is a classic joystick for the Amiga home computers of the '80s and '90s."
-msgstr ""
-"Amiga Competition Pro je klasický joystick pro domácí počítače Amiga z 80. a "
-"90. let."
+msgstr "Amiga Competition Pro je klasický joystick pro domácí počítače Amiga z 80. a 90. let."
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: www.amiga-shop.net"
