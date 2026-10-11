@@ -30,8 +30,8 @@ msgid "Image credit: open-joysick-display (https://github.com/RetroWeeb/open-joy
 msgstr "Credito immagine: open-joysick-display (https://github.com/RetroWeeb/open-joystick-display) concesso in licenza con licenza BSD + Attribution"
 
 msgctxt "#30000"
-msgid "Nintendo Wii"
-msgstr "Nintendo Wii"
+msgid "Wiimote"
+msgstr ""
 
 msgctxt "#30001"
 msgid "A"
@@ -80,3 +80,7 @@ msgstr "Grilletto B"
 msgctxt "#30012"
 msgid "Pointer"
 msgstr "Puntatore"
+
+#~ msgctxt "#30000"
+#~ msgid "Nintendo Wii"
+#~ msgstr "Nintendo Wii"
