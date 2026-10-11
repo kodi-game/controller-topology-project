@@ -21,15 +21,15 @@ msgid "Wii Classic Controller"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "The Classic Controller is an expansion controller for the Nintendo Wii, released in 2006, that plugs into the bottom of the Wii Remote. It has a traditional layout with a D-pad, four face buttons, two analog sticks and analog L and R triggers, for Virtual Console games and Wii games that support it."
+msgid "The Classic Controller, released in 2006 for the Nintendo Wii, proved that sometimes the best motion control is no motion at all."
 msgstr ""
 
 msgctxt "Addon Disclaimer"
-msgid "Image credit: Evan-Amos (https://commons.wikimedia.org/wiki/File:Wii-Classic-Controller-White.jpg), public domain"
+msgid "Image credit: Evan-Amos, public domain"
 msgstr ""
 
 msgctxt "#30000"
-msgid "Nintendo Wii"
+msgid "Wii Classic"
 msgstr ""
 
 msgctxt "#30001"
