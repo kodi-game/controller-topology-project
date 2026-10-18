@@ -10,7 +10,7 @@
             <icon>resources/icon.png</icon>
         </assets>
         <summary lang="en_GB">Watara Supervision</summary>
-        <description lang="en_GB">The Watara Supervision is a monochrome handheld game console released in 1992 as a cheaper rival to the Game Boy. The screen of the original model sits on a flexible neck so it can be tilted toward the player.</description>
-        <disclaimer lang="en_GB">Image credit: Evan-Amos, Wikimedia Commons (commons.wikimedia.org)</disclaimer>
+        <description lang="en_GB">The Watara Supervision was released in 1992 as a cheaper rival to the Game Boy. It can be tilted toward the player with a flexible neck.</description>
+        <disclaimer lang="en_GB">Image credit: Evan-Amos, Wikimedia Commons</disclaimer>
     </extension>
 </addon>

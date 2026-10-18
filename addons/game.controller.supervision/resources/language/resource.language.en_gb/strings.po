@@ -21,11 +21,11 @@ msgid "Watara Supervision"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "The Watara Supervision is a monochrome handheld game console released in 1992 as a cheaper rival to the Game Boy. The screen of the original model sits on a flexible neck so it can be tilted toward the player."
+msgid "The Watara Supervision was released in 1992 as a cheaper rival to the Game Boy. It can be tilted toward the player with a flexible neck."
 msgstr ""
 
 msgctxt "Addon Disclaimer"
-msgid "Image credit: Evan-Amos, Wikimedia Commons (commons.wikimedia.org)"
+msgid "Image credit: Evan-Amos, Wikimedia Commons"
 msgstr ""
 
 msgctxt "#30000"
