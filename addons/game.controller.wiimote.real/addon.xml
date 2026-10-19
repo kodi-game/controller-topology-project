@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="game.controller.wiimote.real"
+        name="Real Wii Remote"
+        version="1.0.0"
+        provider-name="Team Kodi">
+    <extension point="kodi.game.controller" library="resources/layout.xml"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <assets>
+            <icon>resources/icon.png</icon>
+        </assets>
+        <summary lang="en_GB">Real Wii Remote</summary>
+        <description lang="en_GB">A real Wii Remote that the emulator reads directly, for example through a DolphinBar, with its MotionPlus, Nunchuk or other extension. Its buttons, motion and pointing go straight to the game.</description>
+        <disclaimer lang="en_GB">Image credit: open-joystick-display (https://github.com/RetroWeeb/open-joystick-display) licensed under BSD License + Attribution</disclaimer>
+    </extension>
+</addon>
